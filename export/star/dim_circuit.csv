@@ -1,0 +1,27 @@
+circuit_key,circuit_short_name,location,country_name,country_code,circuit_type,is_street
+2,Silverstone,Silverstone,United Kingdom,GBR,Permanent,f
+4,Hungaroring,Budapest,Hungary,HUN,Permanent,f
+6,Imola,Imola,Italy,ITA,Permanent,t
+7,Spa-Francorchamps,Spa-Francorchamps,Belgium,BEL,Temporary - Road,f
+9,Austin,Austin,United States,USA,Permanent,f
+10,Melbourne,Melbourne,Australia,AUS,Temporary - Street,t
+12,Kuala Lumpur,Kuala Lumpur,Bahrain,BRN,Permanent,f
+14,Interlagos,São Paulo,Brazil,BRA,Permanent,f
+15,Catalunya,Barcelona,Spain,ESP,Permanent,f
+19,Spielberg,Spielberg,Austria,AUT,Permanent,f
+22,Monte Carlo,Monaco,Monaco,MON,Temporary - Street,f
+23,Montreal,Montréal,Canada,CAN,Permanent,t
+39,Monza,Monza,Italy,ITA,Permanent,f
+46,Suzuka,Suzuka,Japan,JPN,Permanent,f
+49,Shanghai,Shanghai,China,CHN,Permanent,f
+55,Zandvoort,Zandvoort,Netherlands,NED,Permanent,f
+61,Singapore,Marina Bay,Singapore,SGP,Temporary - Street,t
+63,Sakhir,Sakhir,Bahrain,BRN,Permanent,f
+65,Mexico City,Mexico City,Mexico,MEX,Permanent,f
+70,Yas Marina Circuit,Yas Island,United Arab Emirates,UAE,Permanent,f
+144,Baku,Baku,Azerbaijan,AZE,Temporary - Street,t
+149,Jeddah,Jeddah,Saudi Arabia,KSA,Temporary - Street,t
+150,Lusail,Lusail,Qatar,QAT,Permanent,f
+151,Miami,Miami Gardens,United States,USA,Temporary - Street,t
+152,Las Vegas,Las Vegas,United States,USA,Temporary - Street,t
+153,Madring,Madrid,Spain,ESP,Temporary - Street,f

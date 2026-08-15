@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+
+# Сирі дані — десятки ГБ телеметрії, відновлюються запуском харвестера
+data/raw/
+data/logs/
+*.parquet
+
+.DS_Store
+.env

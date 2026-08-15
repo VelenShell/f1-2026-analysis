@@ -1,0 +1,236 @@
+round,meeting_name,circuit,is_street,driver,driver_code,team,position,points,dnf,number_of_laps,track_temp_avg,track_temp_max,air_temp_avg,humidity_avg,rainfall_max
+1,Australian Grand Prix,Melbourne,t,George RUSSELL,RUS,Mercedes,1,25.00,f,58,36.1,39.10,24.2,54.0,0
+1,Australian Grand Prix,Melbourne,t,Kimi ANTONELLI,ANT,Mercedes,2,18.00,f,58,36.1,39.10,24.2,54.0,0
+1,Australian Grand Prix,Melbourne,t,Charles LECLERC,LEC,Ferrari,3,15.00,f,58,36.1,39.10,24.2,54.0,0
+1,Australian Grand Prix,Melbourne,t,Lewis HAMILTON,HAM,Ferrari,4,12.00,f,58,36.1,39.10,24.2,54.0,0
+1,Australian Grand Prix,Melbourne,t,Lando NORRIS,NOR,McLaren,5,10.00,f,58,36.1,39.10,24.2,54.0,0
+1,Australian Grand Prix,Melbourne,t,Max VERSTAPPEN,VER,Red Bull Racing,6,8.00,f,58,36.1,39.10,24.2,54.0,0
+1,Australian Grand Prix,Melbourne,t,Oliver BEARMAN,BEA,Haas F1 Team,7,6.00,f,57,36.1,39.10,24.2,54.0,0
+1,Australian Grand Prix,Melbourne,t,Arvid LINDBLAD,LIN,Racing Bulls,8,4.00,f,57,36.1,39.10,24.2,54.0,0
+1,Australian Grand Prix,Melbourne,t,Gabriel BORTOLETO,BOR,Audi,9,2.00,f,57,36.1,39.10,24.2,54.0,0
+1,Australian Grand Prix,Melbourne,t,Pierre GASLY,GAS,Alpine,10,1.00,f,57,36.1,39.10,24.2,54.0,0
+1,Australian Grand Prix,Melbourne,t,Esteban OCON,OCO,Haas F1 Team,11,0.00,f,57,36.1,39.10,24.2,54.0,0
+1,Australian Grand Prix,Melbourne,t,Alexander ALBON,ALB,Williams,12,0.00,f,57,36.1,39.10,24.2,54.0,0
+1,Australian Grand Prix,Melbourne,t,Liam LAWSON,LAW,Racing Bulls,13,0.00,f,57,36.1,39.10,24.2,54.0,0
+1,Australian Grand Prix,Melbourne,t,Franco COLAPINTO,COL,Alpine,14,0.00,f,56,36.1,39.10,24.2,54.0,0
+1,Australian Grand Prix,Melbourne,t,Carlos SAINZ,SAI,Williams,15,0.00,f,56,36.1,39.10,24.2,54.0,0
+1,Australian Grand Prix,Melbourne,t,Sergio PEREZ,PER,Cadillac,16,0.00,f,55,36.1,39.10,24.2,54.0,0
+1,Australian Grand Prix,Melbourne,t,Fernando ALONSO,ALO,Aston Martin,,0.00,t,21,36.1,39.10,24.2,54.0,0
+1,Australian Grand Prix,Melbourne,t,Isack HADJAR,HAD,Red Bull Racing,,0.00,t,10,36.1,39.10,24.2,54.0,0
+1,Australian Grand Prix,Melbourne,t,Valtteri BOTTAS,BOT,Cadillac,,0.00,t,15,36.1,39.10,24.2,54.0,0
+1,Australian Grand Prix,Melbourne,t,Lance STROLL,STR,Aston Martin,,0.00,f,43,36.1,39.10,24.2,54.0,0
+2,Chinese Grand Prix,Shanghai,f,Kimi ANTONELLI,ANT,Mercedes,1,25.00,f,56,22.6,27.60,15.6,55.0,0
+2,Chinese Grand Prix,Shanghai,f,George RUSSELL,RUS,Mercedes,2,18.00,f,56,22.6,27.60,15.6,55.0,0
+2,Chinese Grand Prix,Shanghai,f,Lewis HAMILTON,HAM,Ferrari,3,15.00,f,56,22.6,27.60,15.6,55.0,0
+2,Chinese Grand Prix,Shanghai,f,Charles LECLERC,LEC,Ferrari,4,12.00,f,56,22.6,27.60,15.6,55.0,0
+2,Chinese Grand Prix,Shanghai,f,Oliver BEARMAN,BEA,Haas F1 Team,5,10.00,f,56,22.6,27.60,15.6,55.0,0
+2,Chinese Grand Prix,Shanghai,f,Pierre GASLY,GAS,Alpine,6,8.00,f,56,22.6,27.60,15.6,55.0,0
+2,Chinese Grand Prix,Shanghai,f,Liam LAWSON,LAW,Racing Bulls,7,6.00,f,56,22.6,27.60,15.6,55.0,0
+2,Chinese Grand Prix,Shanghai,f,Isack HADJAR,HAD,Red Bull Racing,8,4.00,f,56,22.6,27.60,15.6,55.0,0
+2,Chinese Grand Prix,Shanghai,f,Carlos SAINZ,SAI,Williams,9,2.00,f,55,22.6,27.60,15.6,55.0,0
+2,Chinese Grand Prix,Shanghai,f,Franco COLAPINTO,COL,Alpine,10,1.00,f,55,22.6,27.60,15.6,55.0,0
+2,Chinese Grand Prix,Shanghai,f,Nico HULKENBERG,HUL,Audi,11,0.00,f,55,22.6,27.60,15.6,55.0,0
+2,Chinese Grand Prix,Shanghai,f,Arvid LINDBLAD,LIN,Racing Bulls,12,0.00,f,55,22.6,27.60,15.6,55.0,0
+2,Chinese Grand Prix,Shanghai,f,Valtteri BOTTAS,BOT,Cadillac,13,0.00,f,55,22.6,27.60,15.6,55.0,0
+2,Chinese Grand Prix,Shanghai,f,Esteban OCON,OCO,Haas F1 Team,14,0.00,f,55,22.6,27.60,15.6,55.0,0
+2,Chinese Grand Prix,Shanghai,f,Sergio PEREZ,PER,Cadillac,15,0.00,f,55,22.6,27.60,15.6,55.0,0
+2,Chinese Grand Prix,Shanghai,f,Max VERSTAPPEN,VER,Red Bull Racing,,0.00,t,45,22.6,27.60,15.6,55.0,0
+2,Chinese Grand Prix,Shanghai,f,Lance STROLL,STR,Aston Martin,,0.00,t,9,22.6,27.60,15.6,55.0,0
+2,Chinese Grand Prix,Shanghai,f,Fernando ALONSO,ALO,Aston Martin,,0.00,t,32,22.6,27.60,15.6,55.0,0
+3,Japanese Grand Prix,Suzuka,f,Kimi ANTONELLI,ANT,Mercedes,1,25.00,f,53,34.1,38.30,18.6,52.5,0
+3,Japanese Grand Prix,Suzuka,f,Oscar PIASTRI,PIA,McLaren,2,18.00,f,53,34.1,38.30,18.6,52.5,0
+3,Japanese Grand Prix,Suzuka,f,Charles LECLERC,LEC,Ferrari,3,15.00,f,53,34.1,38.30,18.6,52.5,0
+3,Japanese Grand Prix,Suzuka,f,George RUSSELL,RUS,Mercedes,4,12.00,f,53,34.1,38.30,18.6,52.5,0
+3,Japanese Grand Prix,Suzuka,f,Lando NORRIS,NOR,McLaren,5,10.00,f,53,34.1,38.30,18.6,52.5,0
+3,Japanese Grand Prix,Suzuka,f,Lewis HAMILTON,HAM,Ferrari,6,8.00,f,53,34.1,38.30,18.6,52.5,0
+3,Japanese Grand Prix,Suzuka,f,Pierre GASLY,GAS,Alpine,7,6.00,f,53,34.1,38.30,18.6,52.5,0
+3,Japanese Grand Prix,Suzuka,f,Max VERSTAPPEN,VER,Red Bull Racing,8,4.00,f,53,34.1,38.30,18.6,52.5,0
+3,Japanese Grand Prix,Suzuka,f,Liam LAWSON,LAW,Racing Bulls,9,2.00,f,53,34.1,38.30,18.6,52.5,0
+3,Japanese Grand Prix,Suzuka,f,Esteban OCON,OCO,Haas F1 Team,10,1.00,f,53,34.1,38.30,18.6,52.5,0
+3,Japanese Grand Prix,Suzuka,f,Nico HULKENBERG,HUL,Audi,11,0.00,f,53,34.1,38.30,18.6,52.5,0
+3,Japanese Grand Prix,Suzuka,f,Isack HADJAR,HAD,Red Bull Racing,12,0.00,f,53,34.1,38.30,18.6,52.5,0
+3,Japanese Grand Prix,Suzuka,f,Gabriel BORTOLETO,BOR,Audi,13,0.00,f,53,34.1,38.30,18.6,52.5,0
+3,Japanese Grand Prix,Suzuka,f,Arvid LINDBLAD,LIN,Racing Bulls,14,0.00,f,53,34.1,38.30,18.6,52.5,0
+3,Japanese Grand Prix,Suzuka,f,Carlos SAINZ,SAI,Williams,15,0.00,f,53,34.1,38.30,18.6,52.5,0
+3,Japanese Grand Prix,Suzuka,f,Franco COLAPINTO,COL,Alpine,16,0.00,f,53,34.1,38.30,18.6,52.5,0
+3,Japanese Grand Prix,Suzuka,f,Sergio PEREZ,PER,Cadillac,17,0.00,f,53,34.1,38.30,18.6,52.5,0
+3,Japanese Grand Prix,Suzuka,f,Fernando ALONSO,ALO,Aston Martin,18,0.00,f,52,34.1,38.30,18.6,52.5,0
+3,Japanese Grand Prix,Suzuka,f,Valtteri BOTTAS,BOT,Cadillac,19,0.00,f,52,34.1,38.30,18.6,52.5,0
+3,Japanese Grand Prix,Suzuka,f,Alexander ALBON,ALB,Williams,20,0.00,f,51,34.1,38.30,18.6,52.5,0
+3,Japanese Grand Prix,Suzuka,f,Oliver BEARMAN,BEA,Haas F1 Team,,0.00,t,20,34.1,38.30,18.6,52.5,0
+3,Japanese Grand Prix,Suzuka,f,Lance STROLL,STR,Aston Martin,,0.00,t,30,34.1,38.30,18.6,52.5,0
+6,Miami Grand Prix,Miami,t,Kimi ANTONELLI,ANT,Mercedes,1,25.00,f,57,37.0,42.30,27.1,70.4,1
+6,Miami Grand Prix,Miami,t,Lando NORRIS,NOR,McLaren,2,18.00,f,57,37.0,42.30,27.1,70.4,1
+6,Miami Grand Prix,Miami,t,Oscar PIASTRI,PIA,McLaren,3,15.00,f,57,37.0,42.30,27.1,70.4,1
+6,Miami Grand Prix,Miami,t,George RUSSELL,RUS,Mercedes,4,12.00,f,57,37.0,42.30,27.1,70.4,1
+6,Miami Grand Prix,Miami,t,Max VERSTAPPEN,VER,Red Bull Racing,5,10.00,f,57,37.0,42.30,27.1,70.4,1
+6,Miami Grand Prix,Miami,t,Lewis HAMILTON,HAM,Ferrari,6,8.00,f,57,37.0,42.30,27.1,70.4,1
+6,Miami Grand Prix,Miami,t,Franco COLAPINTO,COL,Alpine,7,6.00,f,57,37.0,42.30,27.1,70.4,1
+6,Miami Grand Prix,Miami,t,Charles LECLERC,LEC,Ferrari,8,4.00,f,57,37.0,42.30,27.1,70.4,1
+6,Miami Grand Prix,Miami,t,Carlos SAINZ,SAI,Williams,9,2.00,f,57,37.0,42.30,27.1,70.4,1
+6,Miami Grand Prix,Miami,t,Alexander ALBON,ALB,Williams,10,1.00,f,57,37.0,42.30,27.1,70.4,1
+6,Miami Grand Prix,Miami,t,Oliver BEARMAN,BEA,Haas F1 Team,11,0.00,f,56,37.0,42.30,27.1,70.4,1
+6,Miami Grand Prix,Miami,t,Gabriel BORTOLETO,BOR,Audi,12,0.00,f,56,37.0,42.30,27.1,70.4,1
+6,Miami Grand Prix,Miami,t,Esteban OCON,OCO,Haas F1 Team,13,0.00,f,56,37.0,42.30,27.1,70.4,1
+6,Miami Grand Prix,Miami,t,Arvid LINDBLAD,LIN,Racing Bulls,14,0.00,f,56,37.0,42.30,27.1,70.4,1
+6,Miami Grand Prix,Miami,t,Fernando ALONSO,ALO,Aston Martin,15,0.00,f,56,37.0,42.30,27.1,70.4,1
+6,Miami Grand Prix,Miami,t,Sergio PEREZ,PER,Cadillac,16,0.00,f,56,37.0,42.30,27.1,70.4,1
+6,Miami Grand Prix,Miami,t,Lance STROLL,STR,Aston Martin,17,0.00,f,56,37.0,42.30,27.1,70.4,1
+6,Miami Grand Prix,Miami,t,Valtteri BOTTAS,BOT,Cadillac,18,0.00,f,55,37.0,42.30,27.1,70.4,1
+6,Miami Grand Prix,Miami,t,Liam LAWSON,LAW,Racing Bulls,,0.00,t,6,37.0,42.30,27.1,70.4,1
+6,Miami Grand Prix,Miami,t,Isack HADJAR,HAD,Red Bull Racing,,0.00,t,4,37.0,42.30,27.1,70.4,1
+6,Miami Grand Prix,Miami,t,Pierre GASLY,GAS,Alpine,,0.00,t,4,37.0,42.30,27.1,70.4,1
+6,Miami Grand Prix,Miami,t,Nico HULKENBERG,HUL,Audi,,0.00,t,7,37.0,42.30,27.1,70.4,1
+7,Canadian Grand Prix,Montreal,t,Kimi ANTONELLI,ANT,Mercedes,1,25.00,f,68,17.8,19.10,12.8,71.7,0
+7,Canadian Grand Prix,Montreal,t,Lewis HAMILTON,HAM,Ferrari,2,18.00,f,68,17.8,19.10,12.8,71.7,0
+7,Canadian Grand Prix,Montreal,t,Max VERSTAPPEN,VER,Red Bull Racing,3,15.00,f,68,17.8,19.10,12.8,71.7,0
+7,Canadian Grand Prix,Montreal,t,Charles LECLERC,LEC,Ferrari,4,12.00,f,68,17.8,19.10,12.8,71.7,0
+7,Canadian Grand Prix,Montreal,t,Isack HADJAR,HAD,Red Bull Racing,5,10.00,f,67,17.8,19.10,12.8,71.7,0
+7,Canadian Grand Prix,Montreal,t,Franco COLAPINTO,COL,Alpine,6,8.00,f,67,17.8,19.10,12.8,71.7,0
+7,Canadian Grand Prix,Montreal,t,Liam LAWSON,LAW,Racing Bulls,7,6.00,f,67,17.8,19.10,12.8,71.7,0
+7,Canadian Grand Prix,Montreal,t,Pierre GASLY,GAS,Alpine,8,4.00,f,67,17.8,19.10,12.8,71.7,0
+7,Canadian Grand Prix,Montreal,t,Carlos SAINZ,SAI,Williams,9,2.00,f,67,17.8,19.10,12.8,71.7,0
+7,Canadian Grand Prix,Montreal,t,Oliver BEARMAN,BEA,Haas F1 Team,10,1.00,f,67,17.8,19.10,12.8,71.7,0
+7,Canadian Grand Prix,Montreal,t,Oscar PIASTRI,PIA,McLaren,11,0.00,f,66,17.8,19.10,12.8,71.7,0
+7,Canadian Grand Prix,Montreal,t,Nico HULKENBERG,HUL,Audi,12,0.00,f,66,17.8,19.10,12.8,71.7,0
+7,Canadian Grand Prix,Montreal,t,Gabriel BORTOLETO,BOR,Audi,13,0.00,f,66,17.8,19.10,12.8,71.7,0
+7,Canadian Grand Prix,Montreal,t,Esteban OCON,OCO,Haas F1 Team,14,0.00,f,66,17.8,19.10,12.8,71.7,0
+7,Canadian Grand Prix,Montreal,t,Lance STROLL,STR,Aston Martin,15,0.00,f,64,17.8,19.10,12.8,71.7,0
+7,Canadian Grand Prix,Montreal,t,Valtteri BOTTAS,BOT,Cadillac,16,0.00,f,64,17.8,19.10,12.8,71.7,0
+7,Canadian Grand Prix,Montreal,t,Lando NORRIS,NOR,McLaren,,0.00,t,38,17.8,19.10,12.8,71.7,0
+7,Canadian Grand Prix,Montreal,t,Sergio PEREZ,PER,Cadillac,,0.00,t,39,17.8,19.10,12.8,71.7,0
+7,Canadian Grand Prix,Montreal,t,Fernando ALONSO,ALO,Aston Martin,,0.00,t,23,17.8,19.10,12.8,71.7,0
+7,Canadian Grand Prix,Montreal,t,Alexander ALBON,ALB,Williams,,0.00,t,11,17.8,19.10,12.8,71.7,0
+7,Canadian Grand Prix,Montreal,t,George RUSSELL,RUS,Mercedes,,0.00,t,29,17.8,19.10,12.8,71.7,0
+8,Monaco Grand Prix,Monte Carlo,f,Kimi ANTONELLI,ANT,Mercedes,1,25.00,f,78,38.0,46.00,23.7,62.2,0
+8,Monaco Grand Prix,Monte Carlo,f,Lewis HAMILTON,HAM,Ferrari,2,18.00,f,78,38.0,46.00,23.7,62.2,0
+8,Monaco Grand Prix,Monte Carlo,f,Pierre GASLY,GAS,Alpine,3,15.00,f,78,38.0,46.00,23.7,62.2,0
+8,Monaco Grand Prix,Monte Carlo,f,Isack HADJAR,HAD,Red Bull Racing,4,12.00,f,78,38.0,46.00,23.7,62.2,0
+8,Monaco Grand Prix,Monte Carlo,f,Oscar PIASTRI,PIA,McLaren,5,10.00,f,78,38.0,46.00,23.7,62.2,0
+8,Monaco Grand Prix,Monte Carlo,f,Liam LAWSON,LAW,Racing Bulls,6,8.00,f,78,38.0,46.00,23.7,62.2,0
+8,Monaco Grand Prix,Monte Carlo,f,Arvid LINDBLAD,LIN,Racing Bulls,7,6.00,f,78,38.0,46.00,23.7,62.2,0
+8,Monaco Grand Prix,Monte Carlo,f,Alexander ALBON,ALB,Williams,8,4.00,f,78,38.0,46.00,23.7,62.2,0
+8,Monaco Grand Prix,Monte Carlo,f,Esteban OCON,OCO,Haas F1 Team,9,2.00,f,78,38.0,46.00,23.7,62.2,0
+8,Monaco Grand Prix,Monte Carlo,f,Fernando ALONSO,ALO,Aston Martin,10,1.00,f,78,38.0,46.00,23.7,62.2,0
+8,Monaco Grand Prix,Monte Carlo,f,Gabriel BORTOLETO,BOR,Audi,11,0.00,f,78,38.0,46.00,23.7,62.2,0
+8,Monaco Grand Prix,Monte Carlo,f,George RUSSELL,RUS,Mercedes,12,0.00,f,78,38.0,46.00,23.7,62.2,0
+8,Monaco Grand Prix,Monte Carlo,f,Nico HULKENBERG,HUL,Audi,13,0.00,f,78,38.0,46.00,23.7,62.2,0
+8,Monaco Grand Prix,Monte Carlo,f,Franco COLAPINTO,COL,Alpine,14,0.00,f,78,38.0,46.00,23.7,62.2,0
+8,Monaco Grand Prix,Monte Carlo,f,Sergio PEREZ,PER,Cadillac,15,0.00,f,78,38.0,46.00,23.7,62.2,0
+8,Monaco Grand Prix,Monte Carlo,f,Carlos SAINZ,SAI,Williams,16,0.00,t,70,38.0,46.00,23.7,62.2,0
+8,Monaco Grand Prix,Monte Carlo,f,Lance STROLL,STR,Aston Martin,,0.00,t,56,38.0,46.00,23.7,62.2,0
+8,Monaco Grand Prix,Monte Carlo,f,Valtteri BOTTAS,BOT,Cadillac,,0.00,t,15,38.0,46.00,23.7,62.2,0
+8,Monaco Grand Prix,Monte Carlo,f,Lando NORRIS,NOR,McLaren,,0.00,t,43,38.0,46.00,23.7,62.2,0
+8,Monaco Grand Prix,Monte Carlo,f,Oliver BEARMAN,BEA,Haas F1 Team,,0.00,t,27,38.0,46.00,23.7,62.2,0
+8,Monaco Grand Prix,Monte Carlo,f,Charles LECLERC,LEC,Ferrari,,0.00,t,64,38.0,46.00,23.7,62.2,0
+8,Monaco Grand Prix,Monte Carlo,f,Max VERSTAPPEN,VER,Red Bull Racing,,0.00,t,0,38.0,46.00,23.7,62.2,0
+9,Barcelona Grand Prix,Catalunya,f,Lewis HAMILTON,HAM,Ferrari,1,25.00,f,66,50.3,52.30,30.5,28.9,0
+9,Barcelona Grand Prix,Catalunya,f,George RUSSELL,RUS,Mercedes,2,18.00,f,66,50.3,52.30,30.5,28.9,0
+9,Barcelona Grand Prix,Catalunya,f,Lando NORRIS,NOR,McLaren,3,15.00,f,66,50.3,52.30,30.5,28.9,0
+9,Barcelona Grand Prix,Catalunya,f,Max VERSTAPPEN,VER,Red Bull Racing,4,12.00,f,66,50.3,52.30,30.5,28.9,0
+9,Barcelona Grand Prix,Catalunya,f,Oscar PIASTRI,PIA,McLaren,5,10.00,f,66,50.3,52.30,30.5,28.9,0
+9,Barcelona Grand Prix,Catalunya,f,Isack HADJAR,HAD,Red Bull Racing,6,8.00,f,65,50.3,52.30,30.5,28.9,0
+9,Barcelona Grand Prix,Catalunya,f,Pierre GASLY,GAS,Alpine,7,6.00,f,65,50.3,52.30,30.5,28.9,0
+9,Barcelona Grand Prix,Catalunya,f,Liam LAWSON,LAW,Racing Bulls,8,4.00,f,65,50.3,52.30,30.5,28.9,0
+9,Barcelona Grand Prix,Catalunya,f,Arvid LINDBLAD,LIN,Racing Bulls,9,2.00,f,65,50.3,52.30,30.5,28.9,0
+9,Barcelona Grand Prix,Catalunya,f,Franco COLAPINTO,COL,Alpine,10,1.00,f,65,50.3,52.30,30.5,28.9,0
+9,Barcelona Grand Prix,Catalunya,f,Gabriel BORTOLETO,BOR,Audi,11,0.00,f,64,50.3,52.30,30.5,28.9,0
+9,Barcelona Grand Prix,Catalunya,f,Carlos SAINZ,SAI,Williams,12,0.00,f,64,50.3,52.30,30.5,28.9,0
+9,Barcelona Grand Prix,Catalunya,f,Esteban OCON,OCO,Haas F1 Team,13,0.00,f,64,50.3,52.30,30.5,28.9,0
+9,Barcelona Grand Prix,Catalunya,f,Sergio PEREZ,PER,Cadillac,14,0.00,f,63,50.3,52.30,30.5,28.9,0
+9,Barcelona Grand Prix,Catalunya,f,Charles LECLERC,LEC,Ferrari,15,0.00,t,62,50.3,52.30,30.5,28.9,0
+9,Barcelona Grand Prix,Catalunya,f,Kimi ANTONELLI,ANT,Mercedes,16,0.00,t,61,50.3,52.30,30.5,28.9,0
+9,Barcelona Grand Prix,Catalunya,f,Oliver BEARMAN,BEA,Haas F1 Team,17,0.00,t,60,50.3,52.30,30.5,28.9,0
+9,Barcelona Grand Prix,Catalunya,f,Lance STROLL,STR,Aston Martin,,0.00,t,5,50.3,52.30,30.5,28.9,0
+9,Barcelona Grand Prix,Catalunya,f,Valtteri BOTTAS,BOT,Cadillac,,0.00,t,15,50.3,52.30,30.5,28.9,0
+9,Barcelona Grand Prix,Catalunya,f,Fernando ALONSO,ALO,Aston Martin,,0.00,t,37,50.3,52.30,30.5,28.9,0
+9,Barcelona Grand Prix,Catalunya,f,Nico HULKENBERG,HUL,Audi,,0.00,t,29,50.3,52.30,30.5,28.9,0
+9,Barcelona Grand Prix,Catalunya,f,Alexander ALBON,ALB,Williams,,0.00,f,55,50.3,52.30,30.5,28.9,0
+10,Austrian Grand Prix,Spielberg,f,George RUSSELL,RUS,Mercedes,1,25.00,f,71,50.2,53.30,34.5,29.8,0
+10,Austrian Grand Prix,Spielberg,f,Max VERSTAPPEN,VER,Red Bull Racing,2,18.00,f,71,50.2,53.30,34.5,29.8,0
+10,Austrian Grand Prix,Spielberg,f,Kimi ANTONELLI,ANT,Mercedes,3,15.00,f,71,50.2,53.30,34.5,29.8,0
+10,Austrian Grand Prix,Spielberg,f,Oscar PIASTRI,PIA,McLaren,4,12.00,f,71,50.2,53.30,34.5,29.8,0
+10,Austrian Grand Prix,Spielberg,f,Lewis HAMILTON,HAM,Ferrari,5,10.00,f,71,50.2,53.30,34.5,29.8,0
+10,Austrian Grand Prix,Spielberg,f,Isack HADJAR,HAD,Red Bull Racing,6,8.00,f,71,50.2,53.30,34.5,29.8,0
+10,Austrian Grand Prix,Spielberg,f,Lando NORRIS,NOR,McLaren,7,6.00,f,71,50.2,53.30,34.5,29.8,0
+10,Austrian Grand Prix,Spielberg,f,Charles LECLERC,LEC,Ferrari,8,4.00,f,71,50.2,53.30,34.5,29.8,0
+10,Austrian Grand Prix,Spielberg,f,Liam LAWSON,LAW,Racing Bulls,9,2.00,f,70,50.2,53.30,34.5,29.8,0
+10,Austrian Grand Prix,Spielberg,f,Arvid LINDBLAD,LIN,Racing Bulls,10,1.00,f,70,50.2,53.30,34.5,29.8,0
+10,Austrian Grand Prix,Spielberg,f,Gabriel BORTOLETO,BOR,Audi,11,0.00,f,70,50.2,53.30,34.5,29.8,0
+10,Austrian Grand Prix,Spielberg,f,Nico HULKENBERG,HUL,Audi,12,0.00,f,70,50.2,53.30,34.5,29.8,0
+10,Austrian Grand Prix,Spielberg,f,Pierre GASLY,GAS,Alpine,13,0.00,f,70,50.2,53.30,34.5,29.8,0
+10,Austrian Grand Prix,Spielberg,f,Oliver BEARMAN,BEA,Haas F1 Team,14,0.00,f,70,50.2,53.30,34.5,29.8,0
+10,Austrian Grand Prix,Spielberg,f,Franco COLAPINTO,COL,Alpine,15,0.00,f,70,50.2,53.30,34.5,29.8,0
+10,Austrian Grand Prix,Spielberg,f,Esteban OCON,OCO,Haas F1 Team,16,0.00,f,69,50.2,53.30,34.5,29.8,0
+10,Austrian Grand Prix,Spielberg,f,Alexander ALBON,ALB,Williams,17,0.00,f,69,50.2,53.30,34.5,29.8,0
+10,Austrian Grand Prix,Spielberg,f,Fernando ALONSO,ALO,Aston Martin,18,0.00,f,68,50.2,53.30,34.5,29.8,0
+10,Austrian Grand Prix,Spielberg,f,Carlos SAINZ,SAI,Williams,,0.00,t,23,50.2,53.30,34.5,29.8,0
+10,Austrian Grand Prix,Spielberg,f,Lance STROLL,STR,Aston Martin,,0.00,t,45,50.2,53.30,34.5,29.8,0
+10,Austrian Grand Prix,Spielberg,f,Sergio PEREZ,PER,Cadillac,,0.00,t,4,50.2,53.30,34.5,29.8,0
+10,Austrian Grand Prix,Spielberg,f,Valtteri BOTTAS,BOT,Cadillac,,0.00,t,2,50.2,53.30,34.5,29.8,0
+11,British Grand Prix,Silverstone,f,Charles LECLERC,LEC,Ferrari,1,25.00,f,52,40.0,43.80,24.8,49.9,0
+11,British Grand Prix,Silverstone,f,George RUSSELL,RUS,Mercedes,2,18.00,f,52,40.0,43.80,24.8,49.9,0
+11,British Grand Prix,Silverstone,f,Lewis HAMILTON,HAM,Ferrari,3,15.00,f,52,40.0,43.80,24.8,49.9,0
+11,British Grand Prix,Silverstone,f,Lando NORRIS,NOR,McLaren,4,12.00,f,52,40.0,43.80,24.8,49.9,0
+11,British Grand Prix,Silverstone,f,Isack HADJAR,HAD,Red Bull Racing,5,10.00,f,52,40.0,43.80,24.8,49.9,0
+11,British Grand Prix,Silverstone,f,Liam LAWSON,LAW,Racing Bulls,6,8.00,f,52,40.0,43.80,24.8,49.9,0
+11,British Grand Prix,Silverstone,f,Arvid LINDBLAD,LIN,Racing Bulls,7,6.00,f,52,40.0,43.80,24.8,49.9,0
+11,British Grand Prix,Silverstone,f,Gabriel BORTOLETO,BOR,Audi,8,4.00,f,52,40.0,43.80,24.8,49.9,0
+11,British Grand Prix,Silverstone,f,Franco COLAPINTO,COL,Alpine,9,2.00,f,52,40.0,43.80,24.8,49.9,0
+11,British Grand Prix,Silverstone,f,Pierre GASLY,GAS,Alpine,10,1.00,f,52,40.0,43.80,24.8,49.9,0
+11,British Grand Prix,Silverstone,f,Oscar PIASTRI,PIA,McLaren,11,0.00,f,52,40.0,43.80,24.8,49.9,0
+11,British Grand Prix,Silverstone,f,Oliver BEARMAN,BEA,Haas F1 Team,12,0.00,f,52,40.0,43.80,24.8,49.9,0
+11,British Grand Prix,Silverstone,f,Esteban OCON,OCO,Haas F1 Team,13,0.00,f,52,40.0,43.80,24.8,49.9,0
+11,British Grand Prix,Silverstone,f,Sergio PEREZ,PER,Cadillac,14,0.00,f,52,40.0,43.80,24.8,49.9,0
+11,British Grand Prix,Silverstone,f,Kimi ANTONELLI,ANT,Mercedes,15,0.00,f,52,40.0,43.80,24.8,49.9,0
+11,British Grand Prix,Silverstone,f,Valtteri BOTTAS,BOT,Cadillac,16,0.00,f,52,40.0,43.80,24.8,49.9,0
+11,British Grand Prix,Silverstone,f,Carlos SAINZ,SAI,Williams,17,0.00,f,51,40.0,43.80,24.8,49.9,0
+11,British Grand Prix,Silverstone,f,Fernando ALONSO,ALO,Aston Martin,18,0.00,f,51,40.0,43.80,24.8,49.9,0
+11,British Grand Prix,Silverstone,f,Lance STROLL,STR,Aston Martin,19,0.00,f,51,40.0,43.80,24.8,49.9,0
+11,British Grand Prix,Silverstone,f,Max VERSTAPPEN,VER,Red Bull Racing,20,0.00,t,46,40.0,43.80,24.8,49.9,0
+11,British Grand Prix,Silverstone,f,Nico HULKENBERG,HUL,Audi,,0.00,t,36,40.0,43.80,24.8,49.9,0
+11,British Grand Prix,Silverstone,f,Alexander ALBON,ALB,Williams,,0.00,t,43,40.0,43.80,24.8,49.9,0
+12,Belgian Grand Prix,Spa-Francorchamps,f,Kimi ANTONELLI,ANT,Mercedes,1,25.00,f,44,31.0,37.00,18.0,48.8,0
+12,Belgian Grand Prix,Spa-Francorchamps,f,Charles LECLERC,LEC,Ferrari,2,18.00,f,44,31.0,37.00,18.0,48.8,0
+12,Belgian Grand Prix,Spa-Francorchamps,f,Max VERSTAPPEN,VER,Red Bull Racing,3,15.00,f,44,31.0,37.00,18.0,48.8,0
+12,Belgian Grand Prix,Spa-Francorchamps,f,Lewis HAMILTON,HAM,Ferrari,4,12.00,f,44,31.0,37.00,18.0,48.8,0
+12,Belgian Grand Prix,Spa-Francorchamps,f,Oscar PIASTRI,PIA,McLaren,5,10.00,f,44,31.0,37.00,18.0,48.8,0
+12,Belgian Grand Prix,Spa-Francorchamps,f,Isack HADJAR,HAD,Red Bull Racing,6,8.00,f,44,31.0,37.00,18.0,48.8,0
+12,Belgian Grand Prix,Spa-Francorchamps,f,Lando NORRIS,NOR,McLaren,7,6.00,f,44,31.0,37.00,18.0,48.8,0
+12,Belgian Grand Prix,Spa-Francorchamps,f,Gabriel BORTOLETO,BOR,Audi,8,4.00,f,44,31.0,37.00,18.0,48.8,0
+12,Belgian Grand Prix,Spa-Francorchamps,f,Arvid LINDBLAD,LIN,Racing Bulls,9,2.00,f,44,31.0,37.00,18.0,48.8,0
+12,Belgian Grand Prix,Spa-Francorchamps,f,Franco COLAPINTO,COL,Alpine,10,1.00,f,44,31.0,37.00,18.0,48.8,0
+12,Belgian Grand Prix,Spa-Francorchamps,f,Pierre GASLY,GAS,Alpine,11,0.00,f,44,31.0,37.00,18.0,48.8,0
+12,Belgian Grand Prix,Spa-Francorchamps,f,Liam LAWSON,LAW,Racing Bulls,12,0.00,f,44,31.0,37.00,18.0,48.8,0
+12,Belgian Grand Prix,Spa-Francorchamps,f,Nico HULKENBERG,HUL,Audi,13,0.00,f,44,31.0,37.00,18.0,48.8,0
+12,Belgian Grand Prix,Spa-Francorchamps,f,Oliver BEARMAN,BEA,Haas F1 Team,14,0.00,f,44,31.0,37.00,18.0,48.8,0
+12,Belgian Grand Prix,Spa-Francorchamps,f,Alexander ALBON,ALB,Williams,15,0.00,f,44,31.0,37.00,18.0,48.8,0
+12,Belgian Grand Prix,Spa-Francorchamps,f,Carlos SAINZ,SAI,Williams,16,0.00,f,44,31.0,37.00,18.0,48.8,0
+12,Belgian Grand Prix,Spa-Francorchamps,f,Esteban OCON,OCO,Haas F1 Team,17,0.00,f,44,31.0,37.00,18.0,48.8,0
+12,Belgian Grand Prix,Spa-Francorchamps,f,Valtteri BOTTAS,BOT,Cadillac,18,0.00,f,43,31.0,37.00,18.0,48.8,0
+12,Belgian Grand Prix,Spa-Francorchamps,f,Fernando ALONSO,ALO,Aston Martin,19,0.00,f,42,31.0,37.00,18.0,48.8,0
+12,Belgian Grand Prix,Spa-Francorchamps,f,Sergio PEREZ,PER,Cadillac,,0.00,t,13,31.0,37.00,18.0,48.8,0
+12,Belgian Grand Prix,Spa-Francorchamps,f,George RUSSELL,RUS,Mercedes,,0.00,t,0,31.0,37.00,18.0,48.8,0
+12,Belgian Grand Prix,Spa-Francorchamps,f,Lance STROLL,STR,Aston Martin,,0.00,t,25,31.0,37.00,18.0,48.8,0
+13,Hungarian Grand Prix,Hungaroring,f,Lando NORRIS,NOR,McLaren,1,25.00,f,70,50.5,53.20,30.8,25.6,0
+13,Hungarian Grand Prix,Hungaroring,f,Max VERSTAPPEN,VER,Red Bull Racing,2,18.00,f,70,50.5,53.20,30.8,25.6,0
+13,Hungarian Grand Prix,Hungaroring,f,Kimi ANTONELLI,ANT,Mercedes,3,15.00,f,70,50.5,53.20,30.8,25.6,0
+13,Hungarian Grand Prix,Hungaroring,f,Charles LECLERC,LEC,Ferrari,4,12.00,f,70,50.5,53.20,30.8,25.6,0
+13,Hungarian Grand Prix,Hungaroring,f,Lewis HAMILTON,HAM,Ferrari,5,10.00,f,70,50.5,53.20,30.8,25.6,0
+13,Hungarian Grand Prix,Hungaroring,f,Isack HADJAR,HAD,Red Bull Racing,6,8.00,f,70,50.5,53.20,30.8,25.6,0
+13,Hungarian Grand Prix,Hungaroring,f,George RUSSELL,RUS,Mercedes,7,6.00,f,70,50.5,53.20,30.8,25.6,0
+13,Hungarian Grand Prix,Hungaroring,f,Liam LAWSON,LAW,Racing Bulls,8,4.00,f,69,50.5,53.20,30.8,25.6,0
+13,Hungarian Grand Prix,Hungaroring,f,Nico HULKENBERG,HUL,Audi,9,2.00,f,69,50.5,53.20,30.8,25.6,0
+13,Hungarian Grand Prix,Hungaroring,f,Arvid LINDBLAD,LIN,Racing Bulls,10,1.00,f,69,50.5,53.20,30.8,25.6,0
+13,Hungarian Grand Prix,Hungaroring,f,Gabriel BORTOLETO,BOR,Audi,11,0.00,f,69,50.5,53.20,30.8,25.6,0
+13,Hungarian Grand Prix,Hungaroring,f,Pierre GASLY,GAS,Alpine,12,0.00,f,69,50.5,53.20,30.8,25.6,0
+13,Hungarian Grand Prix,Hungaroring,f,Lance STROLL,STR,Aston Martin,13,0.00,f,69,50.5,53.20,30.8,25.6,0
+13,Hungarian Grand Prix,Hungaroring,f,Fernando ALONSO,ALO,Aston Martin,14,0.00,f,69,50.5,53.20,30.8,25.6,0
+13,Hungarian Grand Prix,Hungaroring,f,Franco COLAPINTO,COL,Alpine,15,0.00,f,68,50.5,53.20,30.8,25.6,0
+13,Hungarian Grand Prix,Hungaroring,f,Esteban OCON,OCO,Haas F1 Team,16,0.00,f,68,50.5,53.20,30.8,25.6,0
+13,Hungarian Grand Prix,Hungaroring,f,Alexander ALBON,ALB,Williams,17,0.00,f,68,50.5,53.20,30.8,25.6,0
+13,Hungarian Grand Prix,Hungaroring,f,Carlos SAINZ,SAI,Williams,18,0.00,f,68,50.5,53.20,30.8,25.6,0
+13,Hungarian Grand Prix,Hungaroring,f,Oliver BEARMAN,BEA,Haas F1 Team,19,0.00,f,68,50.5,53.20,30.8,25.6,0
+13,Hungarian Grand Prix,Hungaroring,f,Valtteri BOTTAS,BOT,Cadillac,,0.00,t,13,50.5,53.20,30.8,25.6,0
+13,Hungarian Grand Prix,Hungaroring,f,Oscar PIASTRI,PIA,McLaren,,0.00,t,55,50.5,53.20,30.8,25.6,0
+13,Hungarian Grand Prix,Hungaroring,f,Sergio PEREZ,PER,Cadillac,,0.00,t,48,50.5,53.20,30.8,25.6,0

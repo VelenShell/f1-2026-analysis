@@ -1,0 +1,722 @@
+year,round,meeting_name,circuit,is_street,driver,driver_code,team,driver_number,quali_position,finish_position,points,dnf,dsq,number_of_laps,total_laps,clean_laps,median_clean_lap_s,best_lap_s,gap_to_leader_s,laps_down,pit_stops,compounds_used,overtakes_made,track_temp_avg,track_temp_max,air_temp_avg,humidity_avg,rainfall_max
+2025,1,Australian Grand Prix,Melbourne,t,Lando NORRIS,NOR,McLaren,4,1,1,25.00,f,f,57,62,37,90.146,82.167,0.000,,5,HARD+INTERMEDIATE,9,18.9,19.40,15.7,78.4,1
+2025,1,Australian Grand Prix,Melbourne,t,Max VERSTAPPEN,VER,Red Bull Racing,1,3,2,18.00,f,f,57,62,35,90.845,83.081,0.895,,5,INTERMEDIATE+MEDIUM,8,18.9,19.40,15.7,78.4,1
+2025,1,Australian Grand Prix,Melbourne,t,George RUSSELL,RUS,Mercedes,63,4,3,15.00,f,f,57,62,36,91.152,85.065,8.481,,5,HARD+INTERMEDIATE,7,18.9,19.40,15.7,78.4,1
+2025,1,Australian Grand Prix,Melbourne,t,Kimi ANTONELLI,ANT,Mercedes,12,16,4,12.00,f,f,57,62,36,91.322,84.901,10.135,,5,HARD+INTERMEDIATE,17,18.9,19.40,15.7,78.4,1
+2025,1,Australian Grand Prix,Melbourne,t,Alexander ALBON,ALB,Williams,23,6,5,10.00,f,f,57,62,36,92.045,84.597,12.773,,5,INTERMEDIATE+MEDIUM,8,18.9,19.40,15.7,78.4,1
+2025,1,Australian Grand Prix,Melbourne,t,Lance STROLL,STR,Aston Martin,18,13,6,8.00,f,f,57,62,36,92.406,85.538,17.413,,5,HARD+INTERMEDIATE,11,18.9,19.40,15.7,78.4,1
+2025,1,Australian Grand Prix,Melbourne,t,Nico HULKENBERG,HUL,Kick Sauber,27,17,7,6.00,f,f,57,62,36,92.975,85.243,18.423,,5,INTERMEDIATE+MEDIUM,14,18.9,19.40,15.7,78.4,1
+2025,1,Australian Grand Prix,Melbourne,t,Charles LECLERC,LEC,Ferrari,16,7,8,4.00,f,f,57,62,36,91.654,85.271,19.826,,5,HARD+INTERMEDIATE,15,18.9,19.40,15.7,78.4,1
+2025,1,Australian Grand Prix,Melbourne,t,Oscar PIASTRI,PIA,McLaren,81,2,9,2.00,f,f,57,62,36,90.151,83.242,20.448,,5,HARD+INTERMEDIATE,8,18.9,19.40,15.7,78.4,1
+2025,1,Australian Grand Prix,Melbourne,t,Lewis HAMILTON,HAM,Ferrari,44,8,10,1.00,f,f,57,62,36,92.380,84.218,22.473,,5,HARD+INTERMEDIATE,8,18.9,19.40,15.7,78.4,1
+2025,1,Australian Grand Prix,Melbourne,t,Pierre GASLY,GAS,Alpine,10,9,11,0.00,f,f,57,62,35,92.355,85.020,26.502,,5,HARD+INTERMEDIATE,11,18.9,19.40,15.7,78.4,1
+2025,1,Australian Grand Prix,Melbourne,t,Yuki TSUNODA,TSU,Racing Bulls,22,5,12,0.00,f,f,57,62,36,92.248,84.194,29.884,,5,INTERMEDIATE+MEDIUM,11,18.9,19.40,15.7,78.4,1
+2025,1,Australian Grand Prix,Melbourne,t,Esteban OCON,OCO,Haas F1 Team,31,19,13,0.00,f,f,57,62,35,93.533,86.764,33.161,,5,INTERMEDIATE+MEDIUM,11,18.9,19.40,15.7,78.4,1
+2025,1,Australian Grand Prix,Melbourne,t,Oliver BEARMAN,BEA,Haas F1 Team,87,,14,0.00,f,f,57,61,36,93.493,87.603,40.351,,5,INTERMEDIATE+MEDIUM,7,18.9,19.40,15.7,78.4,1
+2025,1,Australian Grand Prix,Melbourne,t,Carlos SAINZ,SAI,Williams,55,10,,0.00,t,f,0,,,,,,,,INTERMEDIATE,,18.9,19.40,15.7,78.4,1
+2025,1,Australian Grand Prix,Melbourne,t,Liam LAWSON,LAW,Red Bull Racing,30,18,,0.00,t,f,46,50,31,93.502,82.970,,,4,INTERMEDIATE+MEDIUM,16,18.9,19.40,15.7,78.4,1
+2025,1,Australian Grand Prix,Melbourne,t,Gabriel BORTOLETO,BOR,Kick Sauber,5,15,,0.00,t,f,45,49,30,93.339,84.192,,,5,INTERMEDIATE+MEDIUM,6,18.9,19.40,15.7,78.4,1
+2025,1,Australian Grand Prix,Melbourne,t,Jack DOOHAN,DOO,Alpine,7,14,,0.00,t,f,0,,,,,,,,INTERMEDIATE,3,18.9,19.40,15.7,78.4,1
+2025,1,Australian Grand Prix,Melbourne,t,Fernando ALONSO,ALO,Aston Martin,14,12,,0.00,t,f,32,35,27,92.545,88.819,,,3,INTERMEDIATE,2,18.9,19.40,15.7,78.4,1
+2025,1,Australian Grand Prix,Melbourne,t,Isack HADJAR,HAD,Racing Bulls,6,11,,0.00,f,f,0,,,,,,,,INTERMEDIATE,,18.9,19.40,15.7,78.4,1
+2025,2,Chinese Grand Prix,Shanghai,f,Oscar PIASTRI,PIA,McLaren,81,1,1,25.00,f,f,56,56,51,96.804,95.520,0.000,,1,HARD+MEDIUM,3,35.8,43.00,27.2,18.2,0
+2025,2,Chinese Grand Prix,Shanghai,f,Lando NORRIS,NOR,McLaren,4,3,2,18.00,f,f,56,56,51,96.872,95.454,9.748,,1,HARD+MEDIUM,5,35.8,43.00,27.2,18.2,0
+2025,2,Chinese Grand Prix,Shanghai,f,George RUSSELL,RUS,Mercedes,63,2,3,15.00,f,f,56,56,51,96.908,95.816,11.097,,1,HARD+MEDIUM,6,35.8,43.00,27.2,18.2,0
+2025,2,Chinese Grand Prix,Shanghai,f,Max VERSTAPPEN,VER,Red Bull Racing,1,4,4,12.00,f,f,56,56,51,97.084,95.488,16.656,,1,HARD+MEDIUM,8,35.8,43.00,27.2,18.2,0
+2025,2,Chinese Grand Prix,Shanghai,f,Esteban OCON,OCO,Haas F1 Team,31,11,5,10.00,f,f,56,56,50,97.785,95.740,49.969,,1,HARD+MEDIUM,11,35.8,43.00,27.2,18.2,0
+2025,2,Chinese Grand Prix,Shanghai,f,Kimi ANTONELLI,ANT,Mercedes,12,8,6,8.00,f,f,56,56,50,97.771,96.046,53.748,,1,HARD+MEDIUM,8,35.8,43.00,27.2,18.2,0
+2025,2,Chinese Grand Prix,Shanghai,f,Alexander ALBON,ALB,Williams,23,10,7,6.00,f,f,56,56,50,97.619,96.254,56.321,,1,HARD+MEDIUM,16,35.8,43.00,27.2,18.2,0
+2025,2,Chinese Grand Prix,Shanghai,f,Oliver BEARMAN,BEA,Haas F1 Team,87,17,8,4.00,f,f,56,56,50,97.407,96.363,61.303,,1,HARD+MEDIUM,24,35.8,43.00,27.2,18.2,0
+2025,2,Chinese Grand Prix,Shanghai,f,Lance STROLL,STR,Aston Martin,18,14,9,2.00,f,f,56,56,50,98.196,96.044,70.204,,1,HARD+MEDIUM,15,35.8,43.00,27.2,18.2,0
+2025,2,Chinese Grand Prix,Shanghai,f,Carlos SAINZ,SAI,Williams,55,15,10,1.00,f,f,56,56,50,97.999,96.779,76.387,,1,HARD+MEDIUM,18,35.8,43.00,27.2,18.2,0
+2025,2,Chinese Grand Prix,Shanghai,f,Isack HADJAR,HAD,Racing Bulls,6,7,11,0.00,f,f,56,56,48,97.873,95.868,78.875,,2,HARD+MEDIUM,11,35.8,43.00,27.2,18.2,0
+2025,2,Chinese Grand Prix,Shanghai,f,Liam LAWSON,LAW,Red Bull Racing,30,20,12,0.00,f,f,56,56,48,97.401,95.985,81.147,,2,HARD+MEDIUM,15,35.8,43.00,27.2,18.2,0
+2025,2,Chinese Grand Prix,Shanghai,f,Jack DOOHAN,DOO,Alpine,7,18,13,0.00,f,f,56,56,50,98.248,96.424,88.401,,1,HARD+MEDIUM,15,35.8,43.00,27.2,18.2,0
+2025,2,Chinese Grand Prix,Shanghai,f,Gabriel BORTOLETO,BOR,Kick Sauber,5,19,14,0.00,f,f,55,55,50,97.787,95.874,,1,2,HARD+MEDIUM,7,35.8,43.00,27.2,18.2,0
+2025,2,Chinese Grand Prix,Shanghai,f,Nico HULKENBERG,HUL,Kick Sauber,27,12,15,0.00,f,f,55,55,49,98.457,97.275,,1,1,HARD+MEDIUM,15,35.8,43.00,27.2,18.2,0
+2025,2,Chinese Grand Prix,Shanghai,f,Yuki TSUNODA,TSU,Racing Bulls,22,9,16,0.00,f,f,55,55,45,97.802,95.871,,1,3,HARD+MEDIUM,8,35.8,43.00,27.2,18.2,0
+2025,2,Chinese Grand Prix,Shanghai,f,Lewis HAMILTON,HAM,Ferrari,44,5,,0.00,f,t,,56,49,97.290,95.069,,,2,HARD+MEDIUM,7,35.8,43.00,27.2,18.2,0
+2025,2,Chinese Grand Prix,Shanghai,f,Pierre GASLY,GAS,Alpine,10,16,,0.00,f,t,,56,50,97.966,96.425,,,1,HARD+MEDIUM,17,35.8,43.00,27.2,18.2,0
+2025,2,Chinese Grand Prix,Shanghai,f,Fernando ALONSO,ALO,Aston Martin,14,13,,0.00,t,f,4,4,1,140.966,140.966,,,,MEDIUM,2,35.8,43.00,27.2,18.2,0
+2025,2,Chinese Grand Prix,Shanghai,f,Charles LECLERC,LEC,Ferrari,16,6,,0.00,f,t,,56,51,97.169,96.157,,,1,HARD+MEDIUM,10,35.8,43.00,27.2,18.2,0
+2025,3,Japanese Grand Prix,Suzuka,f,Max VERSTAPPEN,VER,Red Bull Racing,1,1,1,25.00,f,f,53,53,51,92.346,91.041,0.000,,1,HARD+MEDIUM,4,20.5,23.00,14.4,76.4,0
+2025,3,Japanese Grand Prix,Suzuka,f,Lando NORRIS,NOR,McLaren,4,2,2,18.00,f,f,53,53,51,92.176,91.116,1.423,,1,HARD+MEDIUM,4,20.5,23.00,14.4,76.4,0
+2025,3,Japanese Grand Prix,Suzuka,f,Oscar PIASTRI,PIA,McLaren,81,3,3,15.00,f,f,53,53,51,92.181,91.039,2.129,,1,HARD+MEDIUM,6,20.5,23.00,14.4,76.4,0
+2025,3,Japanese Grand Prix,Suzuka,f,Charles LECLERC,LEC,Ferrari,16,4,4,12.00,f,f,53,53,51,92.312,91.469,16.097,,1,HARD+MEDIUM,7,20.5,23.00,14.4,76.4,0
+2025,3,Japanese Grand Prix,Suzuka,f,George RUSSELL,RUS,Mercedes,63,5,5,10.00,f,f,53,53,51,92.411,91.357,17.362,,1,HARD+MEDIUM,7,20.5,23.00,14.4,76.4,0
+2025,3,Japanese Grand Prix,Suzuka,f,Kimi ANTONELLI,ANT,Mercedes,12,6,6,8.00,f,f,53,53,51,93.126,90.965,18.671,,1,HARD+MEDIUM,5,20.5,23.00,14.4,76.4,0
+2025,3,Japanese Grand Prix,Suzuka,f,Lewis HAMILTON,HAM,Ferrari,44,8,7,6.00,f,f,53,53,51,93.204,91.406,29.182,,1,HARD+MEDIUM,6,20.5,23.00,14.4,76.4,0
+2025,3,Japanese Grand Prix,Suzuka,f,Isack HADJAR,HAD,Racing Bulls,6,7,8,4.00,f,f,53,53,51,93.239,91.317,37.134,,1,HARD+MEDIUM,7,20.5,23.00,14.4,76.4,0
+2025,3,Japanese Grand Prix,Suzuka,f,Alexander ALBON,ALB,Williams,23,9,9,2.00,f,f,53,53,51,93.229,91.125,40.367,,1,HARD+MEDIUM,9,20.5,23.00,14.4,76.4,0
+2025,3,Japanese Grand Prix,Suzuka,f,Oliver BEARMAN,BEA,Haas F1 Team,87,10,10,1.00,f,f,53,53,51,93.375,92.006,54.529,,1,HARD+MEDIUM,10,20.5,23.00,14.4,76.4,0
+2025,3,Japanese Grand Prix,Suzuka,f,Fernando ALONSO,ALO,Aston Martin,14,13,11,0.00,f,f,53,53,51,92.984,91.770,57.333,,1,HARD+MEDIUM,10,20.5,23.00,14.4,76.4,0
+2025,3,Japanese Grand Prix,Suzuka,f,Yuki TSUNODA,TSU,Red Bull Racing,22,15,12,0.00,f,f,53,53,51,93.036,91.871,58.401,,1,HARD+MEDIUM,8,20.5,23.00,14.4,76.4,0
+2025,3,Japanese Grand Prix,Suzuka,f,Pierre GASLY,GAS,Alpine,10,11,13,0.00,f,f,53,53,51,92.944,91.820,62.122,,1,HARD+MEDIUM,10,20.5,23.00,14.4,76.4,0
+2025,3,Japanese Grand Prix,Suzuka,f,Carlos SAINZ,SAI,Williams,55,12,14,0.00,f,f,53,53,51,94.413,91.106,74.129,,1,MEDIUM+SOFT,10,20.5,23.00,14.4,76.4,0
+2025,3,Japanese Grand Prix,Suzuka,f,Jack DOOHAN,DOO,Alpine,7,19,15,0.00,f,f,53,53,51,93.454,92.685,81.314,,1,HARD+SOFT,8,20.5,23.00,14.4,76.4,0
+2025,3,Japanese Grand Prix,Suzuka,f,Nico HULKENBERG,HUL,Kick Sauber,27,16,16,0.00,f,f,53,53,51,93.440,92.572,81.957,,1,HARD+MEDIUM,5,20.5,23.00,14.4,76.4,0
+2025,3,Japanese Grand Prix,Suzuka,f,Liam LAWSON,LAW,Racing Bulls,30,14,17,0.00,f,f,53,53,51,94.188,92.043,82.734,,1,MEDIUM+SOFT,7,20.5,23.00,14.4,76.4,0
+2025,3,Japanese Grand Prix,Suzuka,f,Esteban OCON,OCO,Haas F1 Team,31,18,18,0.00,f,f,53,53,51,94.118,91.967,83.438,,1,HARD+MEDIUM,7,20.5,23.00,14.4,76.4,0
+2025,3,Japanese Grand Prix,Suzuka,f,Gabriel BORTOLETO,BOR,Kick Sauber,5,17,19,0.00,f,f,53,53,51,94.124,92.034,83.897,,1,HARD+MEDIUM,7,20.5,23.00,14.4,76.4,0
+2025,3,Japanese Grand Prix,Suzuka,f,Lance STROLL,STR,Aston Martin,18,20,20,0.00,f,f,52,52,48,94.036,92.052,,1,2,HARD+MEDIUM+SOFT,1,20.5,23.00,14.4,76.4,0
+2025,4,Bahrain Grand Prix,Sakhir,f,Oscar PIASTRI,PIA,McLaren,81,1,1,25.00,f,f,57,57,51,97.504,95.140,0.000,,2,MEDIUM+SOFT,7,31.9,34.80,27.1,45.3,0
+2025,4,Bahrain Grand Prix,Sakhir,f,George RUSSELL,RUS,Mercedes,63,2,2,18.00,f,f,57,57,51,97.828,95.518,15.499,,2,MEDIUM+SOFT,101,31.9,34.80,27.1,45.3,0
+2025,4,Bahrain Grand Prix,Sakhir,f,Lando NORRIS,NOR,McLaren,4,6,3,15.00,f,f,57,57,51,97.787,95.728,16.273,,2,MEDIUM+SOFT,29,31.9,34.80,27.1,45.3,0
+2025,4,Bahrain Grand Prix,Sakhir,f,Charles LECLERC,LEC,Ferrari,16,3,4,12.00,f,f,57,57,51,97.666,96.132,19.679,,2,HARD+MEDIUM,18,31.9,34.80,27.1,45.3,0
+2025,4,Bahrain Grand Prix,Sakhir,f,Lewis HAMILTON,HAM,Ferrari,44,9,5,10.00,f,f,57,57,51,97.924,96.235,27.993,,2,HARD+MEDIUM,33,31.9,34.80,27.1,45.3,0
+2025,4,Bahrain Grand Prix,Sakhir,f,Max VERSTAPPEN,VER,Red Bull Racing,1,7,6,8.00,f,f,57,57,49,98.287,96.167,34.395,,2,HARD+MEDIUM+SOFT,36,31.9,34.80,27.1,45.3,0
+2025,4,Bahrain Grand Prix,Sakhir,f,Pierre GASLY,GAS,Alpine,10,5,7,6.00,f,f,57,57,49,98.193,96.531,36.002,,2,HARD+MEDIUM+SOFT,27,31.9,34.80,27.1,45.3,0
+2025,4,Bahrain Grand Prix,Sakhir,f,Esteban OCON,OCO,Haas F1 Team,31,14,8,4.00,f,f,57,57,49,98.332,97.098,44.244,,2,HARD+MEDIUM+SOFT,30,31.9,34.80,27.1,45.3,0
+2025,4,Bahrain Grand Prix,Sakhir,f,Yuki TSUNODA,TSU,Red Bull Racing,22,10,9,2.00,f,f,57,57,51,98.539,97.225,45.061,,2,MEDIUM+SOFT,31,31.9,34.80,27.1,45.3,0
+2025,4,Bahrain Grand Prix,Sakhir,f,Oliver BEARMAN,BEA,Haas F1 Team,87,20,10,1.00,f,f,57,57,51,98.636,97.303,47.594,,2,HARD+SOFT,29,31.9,34.80,27.1,45.3,0
+2025,4,Bahrain Grand Prix,Sakhir,f,Kimi ANTONELLI,ANT,Mercedes,12,4,11,0.00,f,f,57,57,49,98.427,96.690,48.016,,3,MEDIUM+SOFT,47,31.9,34.80,27.1,45.3,0
+2025,4,Bahrain Grand Prix,Sakhir,f,Alexander ALBON,ALB,Williams,23,15,12,0.00,f,f,57,57,51,98.614,97.141,48.839,,2,HARD+MEDIUM+SOFT,35,31.9,34.80,27.1,45.3,0
+2025,4,Bahrain Grand Prix,Sakhir,f,Isack HADJAR,HAD,Racing Bulls,6,12,13,0.00,f,f,57,57,49,98.749,96.952,56.314,,2,HARD+MEDIUM+SOFT,31,31.9,34.80,27.1,45.3,0
+2025,4,Bahrain Grand Prix,Sakhir,f,Jack DOOHAN,DOO,Alpine,7,11,14,0.00,f,f,57,57,49,98.580,96.682,57.806,,2,HARD+MEDIUM+SOFT,32,31.9,34.80,27.1,45.3,0
+2025,4,Bahrain Grand Prix,Sakhir,f,Fernando ALONSO,ALO,Aston Martin,14,13,15,0.00,f,f,57,57,51,98.683,97.906,60.340,,2,HARD+MEDIUM,30,31.9,34.80,27.1,45.3,0
+2025,4,Bahrain Grand Prix,Sakhir,f,Liam LAWSON,LAW,Racing Bulls,30,17,16,0.00,f,f,57,57,52,99.024,97.380,64.435,,2,HARD+MEDIUM+SOFT,26,31.9,34.80,27.1,45.3,0
+2025,4,Bahrain Grand Prix,Sakhir,f,Lance STROLL,STR,Aston Martin,18,19,17,0.00,f,f,57,57,52,99.185,98.064,65.489,,2,HARD+MEDIUM+SOFT,25,31.9,34.80,27.1,45.3,0
+2025,4,Bahrain Grand Prix,Sakhir,f,Gabriel BORTOLETO,BOR,Kick Sauber,5,18,18,0.00,f,f,57,57,52,99.264,98.006,66.872,,2,HARD+MEDIUM,20,31.9,34.80,27.1,45.3,0
+2025,4,Bahrain Grand Prix,Sakhir,f,Carlos SAINZ,SAI,Williams,55,8,,0.00,t,f,45,45,37,99.023,96.954,,,3,HARD+MEDIUM+SOFT,34,31.9,34.80,27.1,45.3,0
+2025,4,Bahrain Grand Prix,Sakhir,f,Nico HULKENBERG,HUL,Kick Sauber,27,16,,0.00,f,t,,57,49,98.998,97.338,,,2,MEDIUM+SOFT,21,31.9,34.80,27.1,45.3,0
+2025,5,Saudi Arabian Grand Prix,Jeddah,t,Oscar PIASTRI,PIA,McLaren,81,2,1,25.00,f,f,50,50,45,92.938,92.228,0.000,,1,HARD+MEDIUM,7,37.8,39.40,29.5,62.7,0
+2025,5,Saudi Arabian Grand Prix,Jeddah,t,Max VERSTAPPEN,VER,Red Bull Racing,1,1,2,18.00,f,f,50,50,45,93.020,92.280,2.843,,1,HARD+MEDIUM,4,37.8,39.40,29.5,62.7,0
+2025,5,Saudi Arabian Grand Prix,Jeddah,t,Charles LECLERC,LEC,Ferrari,16,4,3,15.00,f,f,50,50,45,93.485,92.192,8.104,,1,HARD+MEDIUM,7,37.8,39.40,29.5,62.7,0
+2025,5,Saudi Arabian Grand Prix,Jeddah,t,Lando NORRIS,NOR,McLaren,4,10,4,12.00,f,f,50,50,45,93.342,91.778,9.196,,1,HARD+MEDIUM,14,37.8,39.40,29.5,62.7,0
+2025,5,Saudi Arabian Grand Prix,Jeddah,t,George RUSSELL,RUS,Mercedes,63,3,5,10.00,f,f,50,50,45,93.857,92.893,27.236,,1,HARD+MEDIUM,5,37.8,39.40,29.5,62.7,0
+2025,5,Saudi Arabian Grand Prix,Jeddah,t,Kimi ANTONELLI,ANT,Mercedes,12,5,6,8.00,f,f,50,50,45,93.792,92.396,34.688,,1,HARD+MEDIUM,6,37.8,39.40,29.5,62.7,0
+2025,5,Saudi Arabian Grand Prix,Jeddah,t,Lewis HAMILTON,HAM,Ferrari,44,7,7,6.00,f,f,50,50,45,93.810,92.600,39.073,,1,HARD+MEDIUM,8,37.8,39.40,29.5,62.7,0
+2025,5,Saudi Arabian Grand Prix,Jeddah,t,Carlos SAINZ,SAI,Williams,55,6,8,4.00,f,f,50,50,45,94.455,92.466,64.630,,1,HARD+MEDIUM,9,37.8,39.40,29.5,62.7,0
+2025,5,Saudi Arabian Grand Prix,Jeddah,t,Alexander ALBON,ALB,Williams,23,11,9,2.00,f,f,50,50,45,94.231,93.477,66.515,,1,HARD+MEDIUM,11,37.8,39.40,29.5,62.7,0
+2025,5,Saudi Arabian Grand Prix,Jeddah,t,Isack HADJAR,HAD,Racing Bulls,6,14,10,1.00,f,f,50,50,45,94.621,93.257,67.091,,1,HARD+MEDIUM,9,37.8,39.40,29.5,62.7,0
+2025,5,Saudi Arabian Grand Prix,Jeddah,t,Fernando ALONSO,ALO,Aston Martin,14,13,11,0.00,f,f,50,50,45,94.676,93.009,75.917,,1,HARD+MEDIUM,10,37.8,39.40,29.5,62.7,0
+2025,5,Saudi Arabian Grand Prix,Jeddah,t,Liam LAWSON,LAW,Racing Bulls,30,12,12,0.00,f,f,50,50,45,94.725,92.998,78.451,,1,HARD+MEDIUM,9,37.8,39.40,29.5,62.7,0
+2025,5,Saudi Arabian Grand Prix,Jeddah,t,Oliver BEARMAN,BEA,Haas F1 Team,87,15,13,0.00,f,f,50,50,45,94.735,93.238,79.194,,1,HARD+MEDIUM,7,37.8,39.40,29.5,62.7,0
+2025,5,Saudi Arabian Grand Prix,Jeddah,t,Esteban OCON,OCO,Haas F1 Team,31,19,14,0.00,f,f,50,50,47,95.602,94.309,99.723,,1,HARD+MEDIUM,10,37.8,39.40,29.5,62.7,0
+2025,5,Saudi Arabian Grand Prix,Jeddah,t,Nico HULKENBERG,HUL,Kick Sauber,27,18,15,0.00,f,f,49,49,44,95.505,93.446,,1,1,HARD+MEDIUM,10,37.8,39.40,29.5,62.7,0
+2025,5,Saudi Arabian Grand Prix,Jeddah,t,Lance STROLL,STR,Aston Martin,18,16,16,0.00,f,f,49,49,44,95.575,92.745,,1,1,HARD+MEDIUM,8,37.8,39.40,29.5,62.7,0
+2025,5,Saudi Arabian Grand Prix,Jeddah,t,Jack DOOHAN,DOO,Alpine,7,17,17,0.00,f,f,49,49,44,95.824,93.150,,1,2,HARD+MEDIUM,8,37.8,39.40,29.5,62.7,0
+2025,5,Saudi Arabian Grand Prix,Jeddah,t,Gabriel BORTOLETO,BOR,Kick Sauber,5,20,18,0.00,f,f,49,49,46,95.988,94.447,,1,1,HARD+MEDIUM,11,37.8,39.40,29.5,62.7,0
+2025,5,Saudi Arabian Grand Prix,Jeddah,t,Pierre GASLY,GAS,Alpine,10,9,,0.00,t,f,0,,,,,,,,MEDIUM,1,37.8,39.40,29.5,62.7,0
+2025,5,Saudi Arabian Grand Prix,Jeddah,t,Yuki TSUNODA,TSU,Red Bull Racing,22,8,,0.00,t,f,1,1,,,,,,,MEDIUM,1,37.8,39.40,29.5,62.7,0
+2025,6,Miami Grand Prix,Miami,t,Oscar PIASTRI,PIA,McLaren,81,4,1,25.00,f,f,57,33,31,90.370,89.822,0.000,,1,HARD+MEDIUM,4,38.7,45.20,26.6,63.0,1
+2025,6,Miami Grand Prix,Miami,t,Lando NORRIS,NOR,McLaren,4,2,2,18.00,f,f,57,33,31,90.196,89.746,4.630,,1,HARD+MEDIUM,7,38.7,45.20,26.6,63.0,1
+2025,6,Miami Grand Prix,Miami,t,George RUSSELL,RUS,Mercedes,63,5,3,15.00,f,f,57,33,31,90.859,90.318,37.644,,1,HARD+MEDIUM,3,38.7,45.20,26.6,63.0,1
+2025,6,Miami Grand Prix,Miami,t,Max VERSTAPPEN,VER,Red Bull Racing,1,1,4,12.00,f,f,57,33,31,90.829,90.466,39.956,,1,HARD+MEDIUM,5,38.7,45.20,26.6,63.0,1
+2025,6,Miami Grand Prix,Miami,t,Alexander ALBON,ALB,Williams,23,7,5,10.00,f,f,57,33,31,91.073,90.482,48.067,,1,HARD+MEDIUM,9,38.7,45.20,26.6,63.0,1
+2025,6,Miami Grand Prix,Miami,t,Kimi ANTONELLI,ANT,Mercedes,12,3,6,8.00,f,f,57,33,32,91.188,90.795,55.502,,1,HARD+MEDIUM,6,38.7,45.20,26.6,63.0,1
+2025,6,Miami Grand Prix,Miami,t,Charles LECLERC,LEC,Ferrari,16,8,7,6.00,f,f,57,33,31,91.022,90.461,57.036,,1,HARD+MEDIUM,7,38.7,45.20,26.6,63.0,1
+2025,6,Miami Grand Prix,Miami,t,Lewis HAMILTON,HAM,Ferrari,44,12,8,4.00,f,f,57,34,32,91.036,90.562,60.186,,1,HARD+MEDIUM,13,38.7,45.20,26.6,63.0,1
+2025,6,Miami Grand Prix,Miami,t,Carlos SAINZ,SAI,Williams,55,6,9,2.00,f,f,57,33,32,91.188,90.703,60.577,,1,HARD+MEDIUM,9,38.7,45.20,26.6,63.0,1
+2025,6,Miami Grand Prix,Miami,t,Yuki TSUNODA,TSU,Red Bull Racing,22,10,10,1.00,f,f,57,33,31,91.345,90.964,74.434,,1,HARD+MEDIUM,9,38.7,45.20,26.6,63.0,1
+2025,6,Miami Grand Prix,Miami,t,Isack HADJAR,HAD,Racing Bulls,6,11,11,0.00,f,f,57,34,34,91.498,90.971,74.602,,1,HARD+MEDIUM,5,38.7,45.20,26.6,63.0,1
+2025,6,Miami Grand Prix,Miami,t,Esteban OCON,OCO,Haas F1 Team,31,9,12,0.00,f,f,57,34,34,91.666,91.122,82.006,,1,HARD+MEDIUM,6,38.7,45.20,26.6,63.0,1
+2025,6,Miami Grand Prix,Miami,t,Pierre GASLY,GAS,Alpine,10,18,13,0.00,f,f,57,34,32,91.640,91.159,90.445,,1,HARD+MEDIUM,11,38.7,45.20,26.6,63.0,1
+2025,6,Miami Grand Prix,Miami,t,Nico HULKENBERG,HUL,Kick Sauber,27,16,14,0.00,f,f,56,33,31,91.419,91.015,,1,1,HARD+MEDIUM,9,38.7,45.20,26.6,63.0,1
+2025,6,Miami Grand Prix,Miami,t,Fernando ALONSO,ALO,Aston Martin,14,17,15,0.00,f,f,56,33,31,92.440,91.287,,1,1,HARD+MEDIUM,10,38.7,45.20,26.6,63.0,1
+2025,6,Miami Grand Prix,Miami,t,Lance STROLL,STR,Aston Martin,18,19,16,0.00,f,f,56,33,33,92.387,91.769,,1,1,HARD+MEDIUM,7,38.7,45.20,26.6,63.0,1
+2025,6,Miami Grand Prix,Miami,t,Jack DOOHAN,DOO,Alpine,7,14,,0.00,t,f,0,,,,,,,,MEDIUM,1,38.7,45.20,26.6,63.0,1
+2025,6,Miami Grand Prix,Miami,t,Liam LAWSON,LAW,Racing Bulls,30,15,,0.00,t,f,36,13,11,94.337,91.770,,,1,HARD+MEDIUM,4,38.7,45.20,26.6,63.0,1
+2025,6,Miami Grand Prix,Miami,t,Oliver BEARMAN,BEA,Haas F1 Team,87,20,,0.00,t,f,27,4,4,93.329,92.680,,,,HARD,9,38.7,45.20,26.6,63.0,1
+2025,6,Miami Grand Prix,Miami,t,Gabriel BORTOLETO,BOR,Kick Sauber,5,13,,0.00,t,f,30,7,7,93.275,92.420,,,1,HARD+MEDIUM,4,38.7,45.20,26.6,63.0,1
+2025,7,Emilia Romagna Grand Prix,Imola,t,Max VERSTAPPEN,VER,Red Bull Racing,1,2,1,25.00,f,f,63,63,52,81.001,77.988,0.000,,2,HARD+MEDIUM,2,42.7,45.90,24.0,38.3,0
+2025,7,Emilia Romagna Grand Prix,Imola,t,Lando NORRIS,NOR,McLaren,4,4,2,18.00,f,f,63,63,51,80.833,78.311,6.109,,2,HARD+MEDIUM,10,42.7,45.90,24.0,38.3,0
+2025,7,Emilia Romagna Grand Prix,Imola,t,Oscar PIASTRI,PIA,McLaren,81,1,3,15.00,f,f,63,63,50,80.813,78.894,12.956,,2,HARD+MEDIUM,12,42.7,45.90,24.0,38.3,0
+2025,7,Emilia Romagna Grand Prix,Imola,t,Lewis HAMILTON,HAM,Ferrari,44,12,4,12.00,f,f,63,63,52,81.624,78.265,14.356,,2,HARD+MEDIUM,15,42.7,45.90,24.0,38.3,0
+2025,7,Emilia Romagna Grand Prix,Imola,t,Alexander ALBON,ALB,Williams,23,7,5,10.00,f,f,63,63,51,81.666,78.289,17.945,,2,HARD+MEDIUM,10,42.7,45.90,24.0,38.3,0
+2025,7,Emilia Romagna Grand Prix,Imola,t,Charles LECLERC,LEC,Ferrari,16,11,6,8.00,f,f,63,63,50,80.917,79.048,20.774,,2,HARD+MEDIUM,20,42.7,45.90,24.0,38.3,0
+2025,7,Emilia Romagna Grand Prix,Imola,t,George RUSSELL,RUS,Mercedes,63,3,7,6.00,f,f,63,63,49,81.385,79.733,22.034,,2,HARD+MEDIUM,12,42.7,45.90,24.0,38.3,0
+2025,7,Emilia Romagna Grand Prix,Imola,t,Carlos SAINZ,SAI,Williams,55,6,8,4.00,f,f,63,63,49,81.430,79.836,22.898,,2,HARD+MEDIUM,11,42.7,45.90,24.0,38.3,0
+2025,7,Emilia Romagna Grand Prix,Imola,t,Isack HADJAR,HAD,Racing Bulls,6,9,9,2.00,f,f,63,63,52,81.846,79.473,23.586,,2,HARD+MEDIUM,10,42.7,45.90,24.0,38.3,0
+2025,7,Emilia Romagna Grand Prix,Imola,t,Yuki TSUNODA,TSU,Red Bull Racing,22,,10,1.00,f,f,63,63,51,82.260,80.039,26.446,,1,HARD+MEDIUM,16,42.7,45.90,24.0,38.3,0
+2025,7,Emilia Romagna Grand Prix,Imola,t,Fernando ALONSO,ALO,Aston Martin,14,5,11,0.00,f,f,63,63,50,81.979,79.894,27.250,,2,HARD+MEDIUM,14,42.7,45.90,24.0,38.3,0
+2025,7,Emilia Romagna Grand Prix,Imola,t,Nico HULKENBERG,HUL,Kick Sauber,27,17,12,0.00,f,f,63,63,51,82.325,80.401,30.296,,1,HARD+MEDIUM,19,42.7,45.90,24.0,38.3,0
+2025,7,Emilia Romagna Grand Prix,Imola,t,Pierre GASLY,GAS,Alpine,10,10,13,0.00,f,f,63,63,49,81.584,80.398,31.424,,2,HARD+MEDIUM,12,42.7,45.90,24.0,38.3,0
+2025,7,Emilia Romagna Grand Prix,Imola,t,Liam LAWSON,LAW,Racing Bulls,30,16,14,0.00,f,f,63,63,50,81.985,80.473,32.511,,2,HARD+MEDIUM,14,42.7,45.90,24.0,38.3,0
+2025,7,Emilia Romagna Grand Prix,Imola,t,Lance STROLL,STR,Aston Martin,18,8,15,0.00,f,f,63,63,50,82.093,80.501,32.993,,2,HARD+MEDIUM,13,42.7,45.90,24.0,38.3,0
+2025,7,Emilia Romagna Grand Prix,Imola,t,Franco COLAPINTO,COL,Alpine,43,15,16,0.00,f,f,63,63,50,82.181,80.345,33.411,,2,HARD+MEDIUM,20,42.7,45.90,24.0,38.3,0
+2025,7,Emilia Romagna Grand Prix,Imola,t,Oliver BEARMAN,BEA,Haas F1 Team,87,19,17,0.00,f,f,63,63,50,82.032,79.649,33.808,,2,HARD+MEDIUM,14,42.7,45.90,24.0,38.3,0
+2025,7,Emilia Romagna Grand Prix,Imola,t,Gabriel BORTOLETO,BOR,Kick Sauber,5,14,18,0.00,f,f,63,63,50,81.933,80.630,38.572,,3,HARD+MEDIUM,11,42.7,45.90,24.0,38.3,0
+2025,7,Emilia Romagna Grand Prix,Imola,t,Kimi ANTONELLI,ANT,Mercedes,12,13,,0.00,t,f,44,44,42,82.220,80.620,,,1,HARD+MEDIUM,11,42.7,45.90,24.0,38.3,0
+2025,7,Emilia Romagna Grand Prix,Imola,t,Esteban OCON,OCO,Haas F1 Team,31,18,,0.00,t,f,27,27,25,82.432,81.413,,,1,HARD+MEDIUM,8,42.7,45.90,24.0,38.3,0
+2025,8,Monaco Grand Prix,Monte Carlo,f,Lando NORRIS,NOR,McLaren,4,1,1,25.00,f,f,78,78,65,75.237,73.221,0.000,,2,HARD+MEDIUM,4,43.3,45.20,22.2,52.5,0
+2025,8,Monaco Grand Prix,Monte Carlo,f,Charles LECLERC,LEC,Ferrari,16,2,2,18.00,f,f,78,78,65,75.269,74.055,3.131,,2,HARD+MEDIUM,3,43.3,45.20,22.2,52.5,0
+2025,8,Monaco Grand Prix,Monte Carlo,f,Oscar PIASTRI,PIA,McLaren,81,3,3,15.00,f,f,78,78,65,75.113,73.745,3.658,,2,HARD+MEDIUM,3,43.3,45.20,22.2,52.5,0
+2025,8,Monaco Grand Prix,Monte Carlo,f,Max VERSTAPPEN,VER,Red Bull Racing,1,5,4,12.00,f,f,78,78,65,75.291,74.230,20.572,,2,HARD+MEDIUM+SOFT,9,43.3,45.20,22.2,52.5,0
+2025,8,Monaco Grand Prix,Monte Carlo,f,Lewis HAMILTON,HAM,Ferrari,44,4,5,10.00,f,f,78,78,65,75.694,74.090,51.387,,2,HARD+MEDIUM,6,43.3,45.20,22.2,52.5,0
+2025,8,Monaco Grand Prix,Monte Carlo,f,Isack HADJAR,HAD,Racing Bulls,6,6,6,8.00,f,f,77,77,64,77.239,75.981,,1,2,HARD+MEDIUM+SOFT,10,43.3,45.20,22.2,52.5,0
+2025,8,Monaco Grand Prix,Monte Carlo,f,Esteban OCON,OCO,Haas F1 Team,31,8,7,6.00,f,f,77,77,64,77.333,75.157,,1,2,HARD+MEDIUM,11,43.3,45.20,22.2,52.5,0
+2025,8,Monaco Grand Prix,Monte Carlo,f,Liam LAWSON,LAW,Racing Bulls,30,9,8,4.00,f,f,77,77,64,76.824,75.321,,1,2,HARD+MEDIUM+SOFT,9,43.3,45.20,22.2,52.5,0
+2025,8,Monaco Grand Prix,Monte Carlo,f,Alexander ALBON,ALB,Williams,23,10,9,2.00,f,f,76,76,63,77.086,74.597,,2,2,HARD+MEDIUM,12,43.3,45.20,22.2,52.5,0
+2025,8,Monaco Grand Prix,Monte Carlo,f,Carlos SAINZ,SAI,Williams,55,11,10,1.00,f,f,76,76,63,77.064,73.988,,2,2,HARD+MEDIUM,8,43.3,45.20,22.2,52.5,0
+2025,8,Monaco Grand Prix,Monte Carlo,f,George RUSSELL,RUS,Mercedes,63,14,11,0.00,f,f,76,76,61,78.479,73.405,,2,3,HARD+MEDIUM,9,43.3,45.20,22.2,52.5,0
+2025,8,Monaco Grand Prix,Monte Carlo,f,Oliver BEARMAN,BEA,Haas F1 Team,87,17,12,0.00,f,f,76,76,66,78.378,74.855,,2,2,HARD+MEDIUM,15,43.3,45.20,22.2,52.5,0
+2025,8,Monaco Grand Prix,Monte Carlo,f,Franco COLAPINTO,COL,Alpine,43,20,13,0.00,f,f,76,76,63,78.351,75.298,,2,2,HARD+MEDIUM,15,43.3,45.20,22.2,52.5,0
+2025,8,Monaco Grand Prix,Monte Carlo,f,Gabriel BORTOLETO,BOR,Kick Sauber,5,16,14,0.00,f,f,76,76,64,78.240,74.970,,2,3,HARD+MEDIUM+SOFT,12,43.3,45.20,22.2,52.5,0
+2025,8,Monaco Grand Prix,Monte Carlo,f,Lance STROLL,STR,Aston Martin,18,19,15,0.00,f,f,76,76,63,78.580,74.877,,2,2,HARD+MEDIUM,15,43.3,45.20,22.2,52.5,0
+2025,8,Monaco Grand Prix,Monte Carlo,f,Nico HULKENBERG,HUL,Kick Sauber,27,13,16,0.00,f,f,76,76,63,78.508,75.223,,2,2,HARD+MEDIUM+SOFT,16,43.3,45.20,22.2,52.5,0
+2025,8,Monaco Grand Prix,Monte Carlo,f,Yuki TSUNODA,TSU,Red Bull Racing,22,12,17,0.00,f,f,76,76,65,78.811,74.913,,2,2,HARD+MEDIUM+SOFT,8,43.3,45.20,22.2,52.5,0
+2025,8,Monaco Grand Prix,Monte Carlo,f,Kimi ANTONELLI,ANT,Mercedes,12,15,18,0.00,f,f,75,75,62,78.918,73.518,,3,2,HARD+MEDIUM,19,43.3,45.20,22.2,52.5,0
+2025,8,Monaco Grand Prix,Monte Carlo,f,Fernando ALONSO,ALO,Aston Martin,14,7,,0.00,t,f,36,36,26,77.033,75.593,,,1,HARD,2,43.3,45.20,22.2,52.5,0
+2025,8,Monaco Grand Prix,Monte Carlo,f,Pierre GASLY,GAS,Alpine,10,18,,0.00,t,f,7,7,3,78.864,78.054,,,1,MEDIUM,2,43.3,45.20,22.2,52.5,0
+2025,9,Spanish Grand Prix,Catalunya,f,Oscar PIASTRI,PIA,McLaren,81,1,1,25.00,f,f,66,66,56,80.055,75.743,0.000,,3,MEDIUM+SOFT,1,48.5,50.40,29.1,54.6,0
+2025,9,Spanish Grand Prix,Catalunya,f,Lando NORRIS,NOR,McLaren,4,2,2,18.00,f,f,66,66,56,80.003,76.187,2.471,,3,MEDIUM+SOFT,2,48.5,50.40,29.1,54.6,0
+2025,9,Spanish Grand Prix,Catalunya,f,Charles LECLERC,LEC,Ferrari,16,7,3,15.00,f,f,66,66,56,80.073,77.259,10.455,,3,MEDIUM+SOFT,13,48.5,50.40,29.1,54.6,0
+2025,9,Spanish Grand Prix,Catalunya,f,George RUSSELL,RUS,Mercedes,63,4,4,12.00,f,f,66,66,56,80.463,77.244,11.359,,3,MEDIUM+SOFT,10,48.5,50.40,29.1,54.6,0
+2025,9,Spanish Grand Prix,Catalunya,f,Nico HULKENBERG,HUL,Kick Sauber,27,16,5,10.00,f,f,66,66,55,81.549,77.575,13.648,,3,MEDIUM+SOFT,19,48.5,50.40,29.1,54.6,0
+2025,9,Spanish Grand Prix,Catalunya,f,Lewis HAMILTON,HAM,Ferrari,44,5,6,8.00,f,f,66,66,56,80.549,77.706,15.508,,3,MEDIUM+SOFT,10,48.5,50.40,29.1,54.6,0
+2025,9,Spanish Grand Prix,Catalunya,f,Isack HADJAR,HAD,Racing Bulls,6,9,7,6.00,f,f,66,66,55,81.033,77.770,16.022,,3,MEDIUM+SOFT,12,48.5,50.40,29.1,54.6,0
+2025,9,Spanish Grand Prix,Catalunya,f,Pierre GASLY,GAS,Alpine,10,8,8,4.00,f,f,66,66,55,81.681,77.896,17.882,,3,MEDIUM+SOFT,15,48.5,50.40,29.1,54.6,0
+2025,9,Spanish Grand Prix,Catalunya,f,Fernando ALONSO,ALO,Aston Martin,14,10,9,2.00,f,f,66,66,55,81.616,78.128,21.564,,3,MEDIUM+SOFT,25,48.5,50.40,29.1,54.6,0
+2025,9,Spanish Grand Prix,Catalunya,f,Max VERSTAPPEN,VER,Red Bull Racing,1,3,10,1.00,f,f,66,66,54,79.876,77.019,21.826,,4,HARD+MEDIUM+SOFT,11,48.5,50.40,29.1,54.6,0
+2025,9,Spanish Grand Prix,Catalunya,f,Liam LAWSON,LAW,Racing Bulls,30,13,11,0.00,f,f,66,66,55,81.473,79.424,25.532,,2,MEDIUM+SOFT,17,48.5,50.40,29.1,54.6,0
+2025,9,Spanish Grand Prix,Catalunya,f,Gabriel BORTOLETO,BOR,Kick Sauber,5,12,12,0.00,f,f,66,66,55,81.547,78.297,25.996,,2,MEDIUM+SOFT,24,48.5,50.40,29.1,54.6,0
+2025,9,Spanish Grand Prix,Catalunya,f,Yuki TSUNODA,TSU,Red Bull Racing,22,20,13,0.00,f,f,66,66,53,81.348,77.998,28.822,,4,MEDIUM+SOFT,20,48.5,50.40,29.1,54.6,0
+2025,9,Spanish Grand Prix,Catalunya,f,Carlos SAINZ,SAI,Williams,55,18,14,0.00,f,f,66,66,55,81.568,79.317,29.309,,3,MEDIUM+SOFT,24,48.5,50.40,29.1,54.6,0
+2025,9,Spanish Grand Prix,Catalunya,f,Franco COLAPINTO,COL,Alpine,43,19,15,0.00,f,f,66,66,54,82.520,78.353,31.381,,3,MEDIUM+SOFT,17,48.5,50.40,29.1,54.6,0
+2025,9,Spanish Grand Prix,Catalunya,f,Esteban OCON,OCO,Haas F1 Team,31,17,16,0.00,f,f,66,66,55,81.617,78.624,32.197,,2,MEDIUM+SOFT,25,48.5,50.40,29.1,54.6,0
+2025,9,Spanish Grand Prix,Catalunya,f,Oliver BEARMAN,BEA,Haas F1 Team,87,15,17,0.00,f,f,66,66,55,81.860,78.907,37.065,,3,MEDIUM+SOFT,18,48.5,50.40,29.1,54.6,0
+2025,9,Spanish Grand Prix,Catalunya,f,Alexander ALBON,ALB,Williams,23,11,,0.00,t,f,27,27,23,81.963,80.508,,,2,SOFT,12,48.5,50.40,29.1,54.6,0
+2025,9,Spanish Grand Prix,Catalunya,f,Kimi ANTONELLI,ANT,Mercedes,12,6,,0.00,t,f,53,53,49,80.924,78.255,,,2,MEDIUM+SOFT,10,48.5,50.40,29.1,54.6,0
+2025,10,Canadian Grand Prix,Montreal,t,George RUSSELL,RUS,Mercedes,63,1,1,25.00,f,f,70,70,60,75.576,74.119,0.000,,5,HARD+MEDIUM,9,49.3,50.40,24.0,28.0,1
+2025,10,Canadian Grand Prix,Montreal,t,Max VERSTAPPEN,VER,Red Bull Racing,1,2,2,18.00,f,f,70,70,60,75.727,74.287,0.228,,5,HARD+MEDIUM,11,49.3,50.40,24.0,28.0,1
+2025,10,Canadian Grand Prix,Montreal,t,Kimi ANTONELLI,ANT,Mercedes,12,4,3,15.00,f,f,70,70,60,75.556,74.455,1.014,,5,HARD+MEDIUM,14,49.3,50.40,24.0,28.0,1
+2025,10,Canadian Grand Prix,Montreal,t,Oscar PIASTRI,PIA,McLaren,81,3,4,12.00,f,f,70,70,60,75.618,74.255,2.109,,5,HARD+MEDIUM+SOFT,14,49.3,50.40,24.0,28.0,1
+2025,10,Canadian Grand Prix,Montreal,t,Charles LECLERC,LEC,Ferrari,16,8,5,10.00,f,f,70,70,59,75.715,74.261,3.442,,5,HARD+MEDIUM,12,49.3,50.40,24.0,28.0,1
+2025,10,Canadian Grand Prix,Montreal,t,Lewis HAMILTON,HAM,Ferrari,44,5,6,8.00,f,f,70,70,60,76.200,74.805,10.713,,5,HARD+MEDIUM,7,49.3,50.40,24.0,28.0,1
+2025,10,Canadian Grand Prix,Montreal,t,Fernando ALONSO,ALO,Aston Martin,14,6,7,6.00,f,f,70,70,60,76.566,75.024,10.972,,6,HARD+MEDIUM,19,49.3,50.40,24.0,28.0,1
+2025,10,Canadian Grand Prix,Montreal,t,Nico HULKENBERG,HUL,Kick Sauber,27,13,8,4.00,f,f,70,70,62,77.098,75.372,15.364,,5,HARD+MEDIUM,19,49.3,50.40,24.0,28.0,1
+2025,10,Canadian Grand Prix,Montreal,t,Esteban OCON,OCO,Haas F1 Team,31,15,9,2.00,f,f,69,69,61,77.239,74.593,,1,4,HARD+MEDIUM,11,49.3,50.40,24.0,28.0,1
+2025,10,Canadian Grand Prix,Montreal,t,Carlos SAINZ,SAI,Williams,55,17,10,1.00,f,f,69,69,61,77.280,74.389,,1,4,HARD+MEDIUM,13,49.3,50.40,24.0,28.0,1
+2025,10,Canadian Grand Prix,Montreal,t,Oliver BEARMAN,BEA,Haas F1 Team,87,14,11,0.00,f,f,69,69,61,77.169,75.397,,1,4,HARD+MEDIUM+SOFT,17,49.3,50.40,24.0,28.0,1
+2025,10,Canadian Grand Prix,Montreal,t,Yuki TSUNODA,TSU,Red Bull Racing,22,11,12,0.00,f,f,69,69,61,77.393,75.358,,1,4,HARD+MEDIUM,14,49.3,50.40,24.0,28.0,1
+2025,10,Canadian Grand Prix,Montreal,t,Franco COLAPINTO,COL,Alpine,43,12,13,0.00,f,f,69,69,61,77.402,76.076,,1,4,HARD+MEDIUM,16,49.3,50.40,24.0,28.0,1
+2025,10,Canadian Grand Prix,Montreal,t,Gabriel BORTOLETO,BOR,Kick Sauber,5,16,14,0.00,f,f,69,69,61,77.567,75.414,,1,4,HARD+MEDIUM,15,49.3,50.40,24.0,28.0,1
+2025,10,Canadian Grand Prix,Montreal,t,Pierre GASLY,GAS,Alpine,10,20,15,0.00,f,f,69,69,61,77.699,74.993,,1,4,HARD+MEDIUM,13,49.3,50.40,24.0,28.0,1
+2025,10,Canadian Grand Prix,Montreal,t,Isack HADJAR,HAD,Racing Bulls,6,9,16,0.00,f,f,69,69,61,77.340,76.292,,1,4,HARD+MEDIUM+SOFT,15,49.3,50.40,24.0,28.0,1
+2025,10,Canadian Grand Prix,Montreal,t,Lance STROLL,STR,Aston Martin,18,18,17,0.00,f,f,69,69,59,77.220,74.902,,1,5,HARD+MEDIUM+SOFT,14,49.3,50.40,24.0,28.0,1
+2025,10,Canadian Grand Prix,Montreal,t,Lando NORRIS,NOR,McLaren,4,7,18,0.00,t,f,66,66,62,75.401,74.229,,,2,HARD+MEDIUM,14,49.3,50.40,24.0,28.0,1
+2025,10,Canadian Grand Prix,Montreal,t,Alexander ALBON,ALB,Williams,23,10,,0.00,t,f,46,46,44,77.360,76.197,,,1,HARD+MEDIUM,16,49.3,50.40,24.0,28.0,1
+2025,10,Canadian Grand Prix,Montreal,t,Liam LAWSON,LAW,Racing Bulls,30,19,,0.00,t,f,53,53,49,77.728,76.320,,,1,HARD+MEDIUM,9,49.3,50.40,24.0,28.0,1
+2025,11,Austrian Grand Prix,Spielberg,f,Lando NORRIS,NOR,McLaren,4,1,1,25.00,f,f,70,70,62,69.641,68.272,0.000,,2,HARD+MEDIUM,5,49.2,51.90,30.3,32.0,0
+2025,11,Austrian Grand Prix,Spielberg,f,Oscar PIASTRI,PIA,McLaren,81,3,2,18.00,f,f,70,70,62,69.520,67.924,2.695,,2,HARD+MEDIUM,6,49.2,51.90,30.3,32.0,0
+2025,11,Austrian Grand Prix,Spielberg,f,Charles LECLERC,LEC,Ferrari,16,2,3,15.00,f,f,70,70,62,69.776,68.765,19.820,,2,HARD+MEDIUM,6,49.2,51.90,30.3,32.0,0
+2025,11,Austrian Grand Prix,Spielberg,f,Lewis HAMILTON,HAM,Ferrari,44,4,4,12.00,f,f,70,70,62,70.097,68.628,29.020,,2,HARD+MEDIUM,7,49.2,51.90,30.3,32.0,0
+2025,11,Austrian Grand Prix,Spielberg,f,George RUSSELL,RUS,Mercedes,63,5,5,10.00,f,f,70,70,62,70.560,69.372,62.396,,2,HARD+MEDIUM,12,49.2,51.90,30.3,32.0,0
+2025,11,Austrian Grand Prix,Spielberg,f,Liam LAWSON,LAW,Racing Bulls,30,6,6,8.00,f,f,70,70,64,70.689,69.977,67.754,,1,HARD+MEDIUM,14,49.2,51.90,30.3,32.0,0
+2025,11,Austrian Grand Prix,Spielberg,f,Fernando ALONSO,ALO,Aston Martin,14,11,7,6.00,f,f,69,69,63,70.934,69.935,,1,1,HARD+MEDIUM,17,49.2,51.90,30.3,32.0,0
+2025,11,Austrian Grand Prix,Spielberg,f,Gabriel BORTOLETO,BOR,Kick Sauber,5,8,8,4.00,f,f,69,69,61,70.795,69.247,,1,2,HARD+MEDIUM,17,49.2,51.90,30.3,32.0,0
+2025,11,Austrian Grand Prix,Spielberg,f,Nico HULKENBERG,HUL,Kick Sauber,27,20,9,2.00,f,f,69,69,61,70.797,69.459,,1,2,MEDIUM+SOFT,20,49.2,51.90,30.3,32.0,0
+2025,11,Austrian Grand Prix,Spielberg,f,Esteban OCON,OCO,Haas F1 Team,31,17,10,1.00,f,f,69,69,61,70.790,69.550,,1,2,HARD+MEDIUM,25,49.2,51.90,30.3,32.0,0
+2025,11,Austrian Grand Prix,Spielberg,f,Oliver BEARMAN,BEA,Haas F1 Team,87,15,11,0.00,f,f,69,69,61,71.184,69.960,,1,2,HARD+MEDIUM+SOFT,22,49.2,51.90,30.3,32.0,0
+2025,11,Austrian Grand Prix,Spielberg,f,Isack HADJAR,HAD,Racing Bulls,6,13,12,0.00,f,f,69,69,63,71.315,70.204,,1,2,HARD+MEDIUM+SOFT,21,49.2,51.90,30.3,32.0,0
+2025,11,Austrian Grand Prix,Spielberg,f,Pierre GASLY,GAS,Alpine,10,10,13,0.00,f,f,69,69,61,71.097,70.151,,1,2,HARD+MEDIUM+SOFT,17,49.2,51.90,30.3,32.0,0
+2025,11,Austrian Grand Prix,Spielberg,f,Lance STROLL,STR,Aston Martin,18,16,14,0.00,f,f,69,69,61,71.073,69.214,,1,2,HARD+MEDIUM+SOFT,20,49.2,51.90,30.3,32.0,0
+2025,11,Austrian Grand Prix,Spielberg,f,Franco COLAPINTO,COL,Alpine,43,14,15,0.00,f,f,69,69,61,71.013,69.621,,1,2,HARD+MEDIUM+SOFT,19,49.2,51.90,30.3,32.0,0
+2025,11,Austrian Grand Prix,Spielberg,f,Yuki TSUNODA,TSU,Red Bull Racing,22,18,16,0.00,f,f,68,68,59,70.840,69.802,,2,3,HARD+MEDIUM+SOFT,17,49.2,51.90,30.3,32.0,0
+2025,11,Austrian Grand Prix,Spielberg,f,Max VERSTAPPEN,VER,Red Bull Racing,1,7,,0.00,t,f,0,,,,,,,,MEDIUM,1,49.2,51.90,30.3,32.0,0
+2025,11,Austrian Grand Prix,Spielberg,f,Carlos SAINZ,SAI,Williams,55,19,,0.00,f,f,0,,,,,,,,MEDIUM,,49.2,51.90,30.3,32.0,0
+2025,11,Austrian Grand Prix,Spielberg,f,Alexander ALBON,ALB,Williams,23,12,,0.00,t,f,15,15,10,71.240,70.641,,,1,MEDIUM,6,49.2,51.90,30.3,32.0,0
+2025,11,Austrian Grand Prix,Spielberg,f,Kimi ANTONELLI,ANT,Mercedes,12,9,,0.00,t,f,0,,,,,,,,MEDIUM,,49.2,51.90,30.3,32.0,0
+2025,12,British Grand Prix,Silverstone,f,Lando NORRIS,NOR,McLaren,4,3,1,25.00,f,f,52,52,29,101.136,89.734,0.000,,2,INTERMEDIATE+MEDIUM,5,23.6,29.60,17.9,78.4,1
+2025,12,British Grand Prix,Silverstone,f,Oscar PIASTRI,PIA,McLaren,81,2,2,18.00,f,f,52,52,31,101.386,89.337,6.812,,2,INTERMEDIATE+MEDIUM,2,23.6,29.60,17.9,78.4,1
+2025,12,British Grand Prix,Silverstone,f,Nico HULKENBERG,HUL,Kick Sauber,27,19,3,15.00,f,f,52,52,29,103.089,90.933,34.742,,2,INTERMEDIATE+MEDIUM,26,23.6,29.60,17.9,78.4,1
+2025,12,British Grand Prix,Silverstone,f,Lewis HAMILTON,HAM,Ferrari,44,5,4,12.00,f,f,52,52,28,102.745,90.016,39.812,,2,INTERMEDIATE+SOFT,13,23.6,29.60,17.9,78.4,1
+2025,12,British Grand Prix,Silverstone,f,Max VERSTAPPEN,VER,Red Bull Racing,1,1,5,10.00,f,f,52,52,28,103.913,90.179,56.781,,2,INTERMEDIATE+MEDIUM,11,23.6,29.60,17.9,78.4,1
+2025,12,British Grand Prix,Silverstone,f,Pierre GASLY,GAS,Alpine,10,10,6,8.00,f,f,52,52,28,103.390,90.751,59.857,,2,INTERMEDIATE+MEDIUM,15,23.6,29.60,17.9,78.4,1
+2025,12,British Grand Prix,Silverstone,f,Lance STROLL,STR,Aston Martin,18,18,7,6.00,f,f,52,52,27,103.467,92.088,60.603,,3,INTERMEDIATE+SOFT,30,23.6,29.60,17.9,78.4,1
+2025,12,British Grand Prix,Silverstone,f,Alexander ALBON,ALB,Williams,23,14,8,4.00,f,f,52,52,31,104.063,90.047,64.135,,2,INTERMEDIATE+MEDIUM,27,23.6,29.60,17.9,78.4,1
+2025,12,British Grand Prix,Silverstone,f,Fernando ALONSO,ALO,Aston Martin,14,9,9,2.00,f,f,52,52,28,103.645,90.353,65.858,,2,INTERMEDIATE+MEDIUM,16,23.6,29.60,17.9,78.4,1
+2025,12,British Grand Prix,Silverstone,f,George RUSSELL,RUS,Mercedes,63,4,10,1.00,f,f,52,52,29,102.795,90.869,70.674,,2,HARD+INTERMEDIATE,22,23.6,29.60,17.9,78.4,1
+2025,12,British Grand Prix,Silverstone,f,Oliver BEARMAN,BEA,Haas F1 Team,87,8,11,0.00,f,f,52,52,29,103.157,90.921,72.095,,2,HARD+INTERMEDIATE+MEDIUM,20,23.6,29.60,17.9,78.4,1
+2025,12,British Grand Prix,Silverstone,f,Carlos SAINZ,SAI,Williams,55,11,12,0.00,f,f,52,52,29,104.229,90.645,76.592,,2,INTERMEDIATE+MEDIUM,13,23.6,29.60,17.9,78.4,1
+2025,12,British Grand Prix,Silverstone,f,Esteban OCON,OCO,Haas F1 Team,31,15,13,0.00,f,f,52,52,32,103.918,90.818,77.301,,2,INTERMEDIATE+MEDIUM,29,23.6,29.60,17.9,78.4,1
+2025,12,British Grand Prix,Silverstone,f,Charles LECLERC,LEC,Ferrari,16,6,14,0.00,f,f,52,52,30,103.205,90.819,84.477,,2,INTERMEDIATE+MEDIUM+SOFT,17,23.6,29.60,17.9,78.4,1
+2025,12,British Grand Prix,Silverstone,f,Yuki TSUNODA,TSU,Red Bull Racing,22,12,15,0.00,f,f,51,51,28,104.639,90.873,,1,2,INTERMEDIATE+MEDIUM,16,23.6,29.60,17.9,78.4,1
+2025,12,British Grand Prix,Silverstone,f,Isack HADJAR,HAD,Racing Bulls,6,13,,0.00,t,f,17,17,3,103.759,101.705,,,1,INTERMEDIATE+MEDIUM,3,23.6,29.60,17.9,78.4,1
+2025,12,British Grand Prix,Silverstone,f,Liam LAWSON,LAW,Racing Bulls,30,16,,0.00,t,f,0,,,,,,,,INTERMEDIATE,5,23.6,29.60,17.9,78.4,1
+2025,12,British Grand Prix,Silverstone,f,Gabriel BORTOLETO,BOR,Kick Sauber,5,17,,0.00,t,f,3,3,,,,,,,MEDIUM,1,23.6,29.60,17.9,78.4,1
+2025,12,British Grand Prix,Silverstone,f,Franco COLAPINTO,COL,Alpine,43,20,,0.00,f,f,0,,,,,,,,HARD,,23.6,29.60,17.9,78.4,1
+2025,12,British Grand Prix,Silverstone,f,Kimi ANTONELLI,ANT,Mercedes,12,7,,0.00,t,f,23,23,4,107.724,105.576,,,3,HARD+INTERMEDIATE,20,23.6,29.60,17.9,78.4,1
+2025,13,Belgian Grand Prix,Spa-Francorchamps,f,Oscar PIASTRI,PIA,McLaren,81,2,1,25.00,f,f,44,44,42,106.538,105.706,0.000,,1,INTERMEDIATE+MEDIUM,2,24.1,27.60,17.0,84.4,1
+2025,13,Belgian Grand Prix,Spa-Francorchamps,f,Lando NORRIS,NOR,McLaren,4,1,2,18.00,f,f,44,44,42,106.539,105.257,3.415,,1,HARD+INTERMEDIATE,1,24.1,27.60,17.0,84.4,1
+2025,13,Belgian Grand Prix,Spa-Francorchamps,f,Charles LECLERC,LEC,Ferrari,16,3,3,15.00,f,f,44,44,42,106.909,106.174,20.185,,1,INTERMEDIATE+MEDIUM,3,24.1,27.60,17.0,84.4,1
+2025,13,Belgian Grand Prix,Spa-Francorchamps,f,Max VERSTAPPEN,VER,Red Bull Racing,1,4,4,12.00,f,f,44,44,42,106.868,106.096,21.731,,1,INTERMEDIATE+MEDIUM,3,24.1,27.60,17.0,84.4,1
+2025,13,Belgian Grand Prix,Spa-Francorchamps,f,George RUSSELL,RUS,Mercedes,63,6,5,10.00,f,f,44,44,42,107.304,106.566,34.863,,1,INTERMEDIATE+MEDIUM,4,24.1,27.60,17.0,84.4,1
+2025,13,Belgian Grand Prix,Spa-Francorchamps,f,Alexander ALBON,ALB,Williams,23,5,6,8.00,f,f,44,44,42,107.472,106.813,39.926,,1,INTERMEDIATE+MEDIUM,1,24.1,27.60,17.0,84.4,1
+2025,13,Belgian Grand Prix,Spa-Francorchamps,f,Lewis HAMILTON,HAM,Ferrari,44,16,7,6.00,f,f,44,44,42,107.446,106.534,40.679,,1,INTERMEDIATE+MEDIUM,15,24.1,27.60,17.0,84.4,1
+2025,13,Belgian Grand Prix,Spa-Francorchamps,f,Liam LAWSON,LAW,Racing Bulls,30,9,8,4.00,f,f,44,44,42,107.649,106.649,52.033,,1,INTERMEDIATE+MEDIUM,5,24.1,27.60,17.0,84.4,1
+2025,13,Belgian Grand Prix,Spa-Francorchamps,f,Gabriel BORTOLETO,BOR,Kick Sauber,5,10,9,2.00,f,f,44,44,42,107.621,106.966,56.434,,1,INTERMEDIATE+MEDIUM,5,24.1,27.60,17.0,84.4,1
+2025,13,Belgian Grand Prix,Spa-Francorchamps,f,Pierre GASLY,GAS,Alpine,10,13,10,1.00,f,f,44,44,42,108.203,107.177,72.714,,1,INTERMEDIATE+MEDIUM,7,24.1,27.60,17.0,84.4,1
+2025,13,Belgian Grand Prix,Spa-Francorchamps,f,Oliver BEARMAN,BEA,Haas F1 Team,87,12,11,0.00,f,f,44,44,42,108.046,106.709,73.145,,1,INTERMEDIATE+MEDIUM,6,24.1,27.60,17.0,84.4,1
+2025,13,Belgian Grand Prix,Spa-Francorchamps,f,Nico HULKENBERG,HUL,Kick Sauber,27,14,12,0.00,f,f,44,44,40,108.302,105.068,73.628,,2,INTERMEDIATE+MEDIUM,12,24.1,27.60,17.0,84.4,1
+2025,13,Belgian Grand Prix,Spa-Francorchamps,f,Yuki TSUNODA,TSU,Red Bull Racing,22,7,13,0.00,f,f,44,44,42,108.177,107.241,75.395,,1,INTERMEDIATE+MEDIUM,3,24.1,27.60,17.0,84.4,1
+2025,13,Belgian Grand Prix,Spa-Francorchamps,f,Lance STROLL,STR,Aston Martin,18,20,14,0.00,f,f,44,44,42,108.192,107.212,79.831,,1,INTERMEDIATE+MEDIUM,13,24.1,27.60,17.0,84.4,1
+2025,13,Belgian Grand Prix,Spa-Francorchamps,f,Esteban OCON,OCO,Haas F1 Team,31,11,15,0.00,f,f,44,44,42,108.330,106.744,86.063,,1,INTERMEDIATE+MEDIUM,10,24.1,27.60,17.0,84.4,1
+2025,13,Belgian Grand Prix,Spa-Francorchamps,f,Kimi ANTONELLI,ANT,Mercedes,12,18,16,0.00,f,f,44,44,40,108.031,104.861,86.721,,2,INTERMEDIATE+MEDIUM,11,24.1,27.60,17.0,84.4,1
+2025,13,Belgian Grand Prix,Spa-Francorchamps,f,Fernando ALONSO,ALO,Aston Martin,14,19,17,0.00,f,f,44,44,40,108.222,105.849,87.924,,2,INTERMEDIATE+MEDIUM,10,24.1,27.60,17.0,84.4,1
+2025,13,Belgian Grand Prix,Spa-Francorchamps,f,Carlos SAINZ,SAI,Williams,55,15,18,0.00,f,f,44,44,40,108.686,106.073,92.024,,2,HARD+INTERMEDIATE+MEDIUM,8,24.1,27.60,17.0,84.4,1
+2025,13,Belgian Grand Prix,Spa-Francorchamps,f,Franco COLAPINTO,COL,Alpine,43,17,19,0.00,f,f,44,44,40,108.855,106.104,95.250,,2,INTERMEDIATE+MEDIUM,6,24.1,27.60,17.0,84.4,1
+2025,13,Belgian Grand Prix,Spa-Francorchamps,f,Isack HADJAR,HAD,Racing Bulls,6,8,20,0.00,f,f,43,43,39,109.323,107.667,,1,2,HARD+INTERMEDIATE+MEDIUM,1,24.1,27.60,17.0,84.4,1
+2025,14,Hungarian Grand Prix,Hungaroring,f,Lando NORRIS,NOR,McLaren,4,3,1,25.00,f,f,70,70,68,80.942,79.918,0.000,,1,HARD+MEDIUM,6,32.0,36.50,22.1,57.1,0
+2025,14,Hungarian Grand Prix,Hungaroring,f,Oscar PIASTRI,PIA,McLaren,81,2,2,18.00,f,f,70,70,66,81.128,79.412,0.698,,2,HARD+MEDIUM,5,32.0,36.50,22.1,57.1,0
+2025,14,Hungarian Grand Prix,Hungaroring,f,George RUSSELL,RUS,Mercedes,63,4,3,15.00,f,f,70,70,66,81.431,79.409,21.916,,2,HARD+MEDIUM,7,32.0,36.50,22.1,57.1,0
+2025,14,Hungarian Grand Prix,Hungaroring,f,Charles LECLERC,LEC,Ferrari,16,1,4,12.00,f,f,70,70,66,81.622,80.440,42.560,,2,HARD+MEDIUM,4,32.0,36.50,22.1,57.1,0
+2025,14,Hungarian Grand Prix,Hungaroring,f,Fernando ALONSO,ALO,Aston Martin,14,5,5,10.00,f,f,70,70,68,82.507,80.113,59.040,,1,HARD+MEDIUM,6,32.0,36.50,22.1,57.1,0
+2025,14,Hungarian Grand Prix,Hungaroring,f,Gabriel BORTOLETO,BOR,Kick Sauber,5,7,6,8.00,f,f,70,70,68,82.873,80.705,66.169,,1,HARD+MEDIUM,5,32.0,36.50,22.1,57.1,0
+2025,14,Hungarian Grand Prix,Hungaroring,f,Lance STROLL,STR,Aston Martin,18,6,7,6.00,f,f,70,70,68,82.889,80.708,68.174,,1,HARD+MEDIUM,7,32.0,36.50,22.1,57.1,0
+2025,14,Hungarian Grand Prix,Hungaroring,f,Liam LAWSON,LAW,Racing Bulls,30,9,8,4.00,f,f,70,70,68,83.028,80.457,69.451,,1,HARD+MEDIUM,9,32.0,36.50,22.1,57.1,0
+2025,14,Hungarian Grand Prix,Hungaroring,f,Max VERSTAPPEN,VER,Red Bull Racing,1,8,9,2.00,f,f,70,70,66,81.951,79.576,72.645,,2,HARD+MEDIUM,13,32.0,36.50,22.1,57.1,0
+2025,14,Hungarian Grand Prix,Hungaroring,f,Kimi ANTONELLI,ANT,Mercedes,12,15,10,1.00,f,f,69,69,67,82.478,80.745,,1,1,HARD+MEDIUM,14,32.0,36.50,22.1,57.1,0
+2025,14,Hungarian Grand Prix,Hungaroring,f,Isack HADJAR,HAD,Racing Bulls,6,10,11,0.00,f,f,69,69,67,83.116,80.802,,1,1,HARD+MEDIUM,12,32.0,36.50,22.1,57.1,0
+2025,14,Hungarian Grand Prix,Hungaroring,f,Lewis HAMILTON,HAM,Ferrari,44,12,12,0.00,f,f,69,69,67,83.085,80.022,,1,1,HARD+MEDIUM,16,32.0,36.50,22.1,57.1,0
+2025,14,Hungarian Grand Prix,Hungaroring,f,Nico HULKENBERG,HUL,Kick Sauber,27,19,13,0.00,f,f,69,69,65,82.379,80.013,,1,2,MEDIUM+SOFT,25,32.0,36.50,22.1,57.1,0
+2025,14,Hungarian Grand Prix,Hungaroring,f,Carlos SAINZ,SAI,Williams,55,13,14,0.00,f,f,69,69,65,82.741,79.790,,1,2,HARD+MEDIUM+SOFT,22,32.0,36.50,22.1,57.1,0
+2025,14,Hungarian Grand Prix,Hungaroring,f,Alexander ALBON,ALB,Williams,23,20,15,0.00,f,f,69,69,65,82.646,80.779,,1,2,HARD+MEDIUM+SOFT,19,32.0,36.50,22.1,57.1,0
+2025,14,Hungarian Grand Prix,Hungaroring,f,Esteban OCON,OCO,Haas F1 Team,31,18,16,0.00,f,f,69,69,67,83.007,81.916,,1,1,HARD+MEDIUM,13,32.0,36.50,22.1,57.1,0
+2025,14,Hungarian Grand Prix,Hungaroring,f,Yuki TSUNODA,TSU,Red Bull Racing,22,16,17,0.00,f,f,69,69,65,82.679,81.180,,1,2,HARD+MEDIUM+SOFT,13,32.0,36.50,22.1,57.1,0
+2025,14,Hungarian Grand Prix,Hungaroring,f,Franco COLAPINTO,COL,Alpine,43,14,18,0.00,f,f,69,69,65,82.185,80.827,,1,2,HARD+MEDIUM,8,32.0,36.50,22.1,57.1,0
+2025,14,Hungarian Grand Prix,Hungaroring,f,Pierre GASLY,GAS,Alpine,10,17,19,0.00,f,f,69,69,67,83.437,81.433,,1,1,HARD+MEDIUM,18,32.0,36.50,22.1,57.1,0
+2025,14,Hungarian Grand Prix,Hungaroring,f,Oliver BEARMAN,BEA,Haas F1 Team,87,11,,0.00,t,f,48,48,46,83.652,81.989,,,1,HARD+MEDIUM,10,32.0,36.50,22.1,57.1,0
+2025,15,Dutch Grand Prix,Zandvoort,f,Oscar PIASTRI,PIA,McLaren,81,1,1,25.00,f,f,72,72,,,,0.000,,2,HARD+MEDIUM,,28.0,29.30,20.1,71.2,0
+2025,15,Dutch Grand Prix,Zandvoort,f,Max VERSTAPPEN,VER,Red Bull Racing,1,3,2,18.00,f,f,72,72,,,,1.271,,2,MEDIUM+SOFT,3,28.0,29.30,20.1,71.2,0
+2025,15,Dutch Grand Prix,Zandvoort,f,Isack HADJAR,HAD,Racing Bulls,6,4,3,15.00,f,f,72,72,,,,3.233,,2,HARD+MEDIUM+SOFT,1,28.0,29.30,20.1,71.2,0
+2025,15,Dutch Grand Prix,Zandvoort,f,George RUSSELL,RUS,Mercedes,63,5,4,12.00,f,f,72,72,,,,5.654,,2,HARD+MEDIUM+SOFT,4,28.0,29.30,20.1,71.2,0
+2025,15,Dutch Grand Prix,Zandvoort,f,Alexander ALBON,ALB,Williams,23,15,5,10.00,f,f,72,72,,,,6.327,,2,HARD+MEDIUM+SOFT,13,28.0,29.30,20.1,71.2,0
+2025,15,Dutch Grand Prix,Zandvoort,f,Oliver BEARMAN,BEA,Haas F1 Team,87,19,6,8.00,f,f,72,72,,,,9.044,,1,HARD+MEDIUM,19,28.0,29.30,20.1,71.2,0
+2025,15,Dutch Grand Prix,Zandvoort,f,Lance STROLL,STR,Aston Martin,18,,7,6.00,f,f,72,72,,,,9.497,,2,HARD+MEDIUM,28,28.0,29.30,20.1,71.2,0
+2025,15,Dutch Grand Prix,Zandvoort,f,Fernando ALONSO,ALO,Aston Martin,14,10,8,4.00,f,f,72,72,,,,11.709,,2,HARD+MEDIUM,21,28.0,29.30,20.1,71.2,0
+2025,15,Dutch Grand Prix,Zandvoort,f,Yuki TSUNODA,TSU,Red Bull Racing,22,12,9,2.00,f,f,72,72,,,,13.597,,2,HARD+SOFT,14,28.0,29.30,20.1,71.2,0
+2025,15,Dutch Grand Prix,Zandvoort,f,Esteban OCON,OCO,Haas F1 Team,31,18,10,1.00,f,f,72,72,,,,14.063,,1,HARD+MEDIUM,21,28.0,29.30,20.1,71.2,0
+2025,15,Dutch Grand Prix,Zandvoort,f,Franco COLAPINTO,COL,Alpine,43,16,11,0.00,f,f,72,72,,,,14.511,,3,HARD+MEDIUM+SOFT,19,28.0,29.30,20.1,71.2,0
+2025,15,Dutch Grand Prix,Zandvoort,f,Liam LAWSON,LAW,Racing Bulls,30,8,12,0.00,f,f,72,72,,,,17.063,,3,HARD+MEDIUM+SOFT,10,28.0,29.30,20.1,71.2,0
+2025,15,Dutch Grand Prix,Zandvoort,f,Carlos SAINZ,SAI,Williams,55,9,13,0.00,f,f,72,72,,,,17.376,,4,HARD+MEDIUM+SOFT,11,28.0,29.30,20.1,71.2,0
+2025,15,Dutch Grand Prix,Zandvoort,f,Nico HULKENBERG,HUL,Kick Sauber,27,17,14,0.00,f,f,72,72,,,,19.725,,2,HARD+MEDIUM+SOFT,18,28.0,29.30,20.1,71.2,0
+2025,15,Dutch Grand Prix,Zandvoort,f,Gabriel BORTOLETO,BOR,Kick Sauber,5,13,15,0.00,f,f,72,72,,,,21.565,,2,HARD+MEDIUM+SOFT,19,28.0,29.30,20.1,71.2,0
+2025,15,Dutch Grand Prix,Zandvoort,f,Kimi ANTONELLI,ANT,Mercedes,12,11,16,0.00,f,f,72,72,,,,22.029,,3,HARD+MEDIUM+SOFT,13,28.0,29.30,20.1,71.2,0
+2025,15,Dutch Grand Prix,Zandvoort,f,Pierre GASLY,GAS,Alpine,10,14,17,0.00,f,f,72,72,,,,23.629,,1,HARD+MEDIUM,14,28.0,29.30,20.1,71.2,0
+2025,15,Dutch Grand Prix,Zandvoort,f,Lando NORRIS,NOR,McLaren,4,2,18,0.00,t,f,64,64,,,,,,2,HARD+MEDIUM,2,28.0,29.30,20.1,71.2,0
+2025,15,Dutch Grand Prix,Zandvoort,f,Charles LECLERC,LEC,Ferrari,16,6,,0.00,t,f,52,52,,,,,,2,HARD+MEDIUM+SOFT,6,28.0,29.30,20.1,71.2,0
+2025,15,Dutch Grand Prix,Zandvoort,f,Lewis HAMILTON,HAM,Ferrari,44,7,,0.00,t,f,22,22,,,,,,,MEDIUM,1,28.0,29.30,20.1,71.2,0
+2025,16,Italian Grand Prix,Monza,f,Max VERSTAPPEN,VER,Red Bull Racing,1,1,1,25.00,f,f,53,53,49,82.890,81.003,0.000,,1,HARD+MEDIUM,4,43.3,45.90,26.8,42.6,0
+2025,16,Italian Grand Prix,Monza,f,Lando NORRIS,NOR,McLaren,4,2,2,18.00,f,f,53,53,50,82.966,80.901,19.207,,1,MEDIUM+SOFT,4,43.3,45.90,26.8,42.6,0
+2025,16,Italian Grand Prix,Monza,f,Oscar PIASTRI,PIA,McLaren,81,3,3,15.00,f,f,53,53,50,82.957,81.245,21.351,,1,MEDIUM+SOFT,4,43.3,45.90,26.8,42.6,0
+2025,16,Italian Grand Prix,Monza,f,Charles LECLERC,LEC,Ferrari,16,4,4,12.00,f,f,53,53,50,83.132,81.294,25.624,,1,HARD+MEDIUM,4,43.3,45.90,26.8,42.6,0
+2025,16,Italian Grand Prix,Monza,f,George RUSSELL,RUS,Mercedes,63,6,5,10.00,f,f,53,53,50,83.456,81.800,32.881,,1,HARD+MEDIUM,9,43.3,45.90,26.8,42.6,0
+2025,16,Italian Grand Prix,Monza,f,Lewis HAMILTON,HAM,Ferrari,44,5,6,8.00,f,f,53,53,50,83.455,81.546,37.449,,1,HARD+MEDIUM,8,43.3,45.90,26.8,42.6,0
+2025,16,Italian Grand Prix,Monza,f,Alexander ALBON,ALB,Williams,23,14,7,6.00,f,f,53,53,50,83.725,81.368,50.537,,1,HARD+MEDIUM,17,43.3,45.90,26.8,42.6,0
+2025,16,Italian Grand Prix,Monza,f,Gabriel BORTOLETO,BOR,Kick Sauber,5,8,8,4.00,f,f,53,53,50,83.530,82.139,58.484,,1,HARD+MEDIUM,14,43.3,45.90,26.8,42.6,0
+2025,16,Italian Grand Prix,Monza,f,Kimi ANTONELLI,ANT,Mercedes,12,7,9,2.00,f,f,53,53,50,83.680,81.968,59.762,,1,HARD+MEDIUM,13,43.3,45.90,26.8,42.6,0
+2025,16,Italian Grand Prix,Monza,f,Isack HADJAR,HAD,Racing Bulls,6,16,10,1.00,f,f,53,53,50,83.863,82.133,63.891,,1,HARD+MEDIUM,18,43.3,45.90,26.8,42.6,0
+2025,16,Italian Grand Prix,Monza,f,Carlos SAINZ,SAI,Williams,55,13,11,0.00,f,f,53,53,50,83.832,81.740,64.469,,1,HARD+MEDIUM,14,43.3,45.90,26.8,42.6,0
+2025,16,Italian Grand Prix,Monza,f,Oliver BEARMAN,BEA,Haas F1 Team,87,11,12,0.00,f,f,53,53,50,83.351,81.820,79.288,,1,HARD+MEDIUM,11,43.3,45.90,26.8,42.6,0
+2025,16,Italian Grand Prix,Monza,f,Yuki TSUNODA,TSU,Red Bull Racing,22,10,13,0.00,f,f,53,53,50,83.992,82.712,80.701,,1,HARD+MEDIUM,10,43.3,45.90,26.8,42.6,0
+2025,16,Italian Grand Prix,Monza,f,Liam LAWSON,LAW,Racing Bulls,30,20,14,0.00,f,f,53,53,50,83.812,82.777,82.351,,1,HARD+SOFT,13,43.3,45.90,26.8,42.6,0
+2025,16,Italian Grand Prix,Monza,f,Esteban OCON,OCO,Haas F1 Team,31,15,15,0.00,f,f,52,52,49,83.945,82.892,,1,1,HARD+SOFT,11,43.3,45.90,26.8,42.6,0
+2025,16,Italian Grand Prix,Monza,f,Pierre GASLY,GAS,Alpine,10,19,16,0.00,f,f,52,52,49,84.133,82.185,,1,1,HARD+SOFT,13,43.3,45.90,26.8,42.6,0
+2025,16,Italian Grand Prix,Monza,f,Franco COLAPINTO,COL,Alpine,43,18,17,0.00,f,f,52,52,49,84.399,82.239,,1,1,HARD+MEDIUM,14,43.3,45.90,26.8,42.6,0
+2025,16,Italian Grand Prix,Monza,f,Lance STROLL,STR,Aston Martin,18,17,18,0.00,f,f,52,52,49,83.991,82.164,,1,1,HARD+SOFT,16,43.3,45.90,26.8,42.6,0
+2025,16,Italian Grand Prix,Monza,f,Fernando ALONSO,ALO,Aston Martin,14,9,,0.00,t,f,24,24,22,84.496,83.757,,,1,HARD+MEDIUM,5,43.3,45.90,26.8,42.6,0
+2025,16,Italian Grand Prix,Monza,f,Nico HULKENBERG,HUL,Kick Sauber,27,12,,0.00,f,f,0,,,,,,,,MEDIUM,,43.3,45.90,26.8,42.6,0
+2025,17,Azerbaijan Grand Prix,Baku,t,Max VERSTAPPEN,VER,Red Bull Racing,1,1,1,25.00,f,f,51,51,41,104.950,103.388,0.000,,1,HARD+MEDIUM,,26.1,29.00,20.6,59.8,0
+2025,17,Azerbaijan Grand Prix,Baku,t,George RUSSELL,RUS,Mercedes,63,5,2,18.00,f,f,51,51,41,105.247,103.754,14.609,,1,HARD+MEDIUM,6,26.1,29.00,20.6,59.8,0
+2025,17,Azerbaijan Grand Prix,Baku,t,Carlos SAINZ,SAI,Williams,55,2,3,15.00,f,f,51,51,41,105.230,103.972,19.199,,1,HARD+MEDIUM,3,26.1,29.00,20.6,59.8,0
+2025,17,Azerbaijan Grand Prix,Baku,t,Kimi ANTONELLI,ANT,Mercedes,12,4,4,12.00,f,f,51,51,43,105.197,104.091,21.760,,1,HARD+MEDIUM,9,26.1,29.00,20.6,59.8,0
+2025,17,Azerbaijan Grand Prix,Baku,t,Liam LAWSON,LAW,Racing Bulls,30,3,5,10.00,f,f,51,51,41,105.533,104.531,33.290,,1,HARD+MEDIUM,6,26.1,29.00,20.6,59.8,0
+2025,17,Azerbaijan Grand Prix,Baku,t,Yuki TSUNODA,TSU,Red Bull Racing,22,6,6,8.00,f,f,51,51,41,105.548,104.434,33.808,,1,HARD+MEDIUM,5,26.1,29.00,20.6,59.8,0
+2025,17,Azerbaijan Grand Prix,Baku,t,Lando NORRIS,NOR,McLaren,4,7,7,6.00,f,f,51,51,42,105.471,104.155,34.227,,1,HARD+MEDIUM,8,26.1,29.00,20.6,59.8,0
+2025,17,Azerbaijan Grand Prix,Baku,t,Lewis HAMILTON,HAM,Ferrari,44,12,8,4.00,f,f,51,51,42,105.871,103.977,36.310,,1,HARD+MEDIUM,10,26.1,29.00,20.6,59.8,0
+2025,17,Azerbaijan Grand Prix,Baku,t,Charles LECLERC,LEC,Ferrari,16,10,9,2.00,f,f,51,51,42,105.552,104.274,36.774,,1,HARD+MEDIUM,11,26.1,29.00,20.6,59.8,0
+2025,17,Azerbaijan Grand Prix,Baku,t,Isack HADJAR,HAD,Racing Bulls,6,8,10,1.00,f,f,51,51,42,105.604,103.884,38.982,,1,HARD+MEDIUM,5,26.1,29.00,20.6,59.8,0
+2025,17,Azerbaijan Grand Prix,Baku,t,Gabriel BORTOLETO,BOR,Kick Sauber,5,13,11,0.00,f,f,51,51,42,106.544,104.930,67.606,,1,HARD+MEDIUM,12,26.1,29.00,20.6,59.8,0
+2025,17,Azerbaijan Grand Prix,Baku,t,Oliver BEARMAN,BEA,Haas F1 Team,87,15,12,0.00,f,f,51,51,42,105.926,104.288,68.262,,1,HARD+MEDIUM,11,26.1,29.00,20.6,59.8,0
+2025,17,Azerbaijan Grand Prix,Baku,t,Alexander ALBON,ALB,Williams,23,19,13,0.00,f,f,51,51,42,105.650,104.152,72.870,,2,HARD+MEDIUM,14,26.1,29.00,20.6,59.8,0
+2025,17,Azerbaijan Grand Prix,Baku,t,Esteban OCON,OCO,Haas F1 Team,31,,14,0.00,f,f,51,51,44,107.040,105.388,77.580,,2,HARD+MEDIUM,14,26.1,29.00,20.6,59.8,0
+2025,17,Azerbaijan Grand Prix,Baku,t,Fernando ALONSO,ALO,Aston Martin,14,11,15,0.00,f,f,51,51,42,106.442,105.002,78.707,,1,HARD+MEDIUM,9,26.1,29.00,20.6,59.8,0
+2025,17,Azerbaijan Grand Prix,Baku,t,Nico HULKENBERG,HUL,Kick Sauber,27,17,16,0.00,f,f,51,51,42,107.024,104.370,80.237,,1,HARD+MEDIUM,9,26.1,29.00,20.6,59.8,0
+2025,17,Azerbaijan Grand Prix,Baku,t,Lance STROLL,STR,Aston Martin,18,14,17,0.00,f,f,51,51,42,107.049,105.083,96.392,,1,HARD+MEDIUM,5,26.1,29.00,20.6,59.8,0
+2025,17,Azerbaijan Grand Prix,Baku,t,Pierre GASLY,GAS,Alpine,10,18,18,0.00,f,f,50,50,41,107.211,105.492,,1,1,HARD+MEDIUM,13,26.1,29.00,20.6,59.8,0
+2025,17,Azerbaijan Grand Prix,Baku,t,Franco COLAPINTO,COL,Alpine,43,16,19,0.00,f,f,50,50,42,106.810,106.055,,1,1,HARD+MEDIUM,6,26.1,29.00,20.6,59.8,0
+2025,17,Azerbaijan Grand Prix,Baku,t,Oscar PIASTRI,PIA,McLaren,81,9,,0.00,t,f,0,,,,,,,,MEDIUM,2,26.1,29.00,20.6,59.8,0
+2025,18,Singapore Grand Prix,Singapore,t,George RUSSELL,RUS,Mercedes,63,1,1,25.00,f,f,62,62,58,96.558,95.676,0.000,,1,HARD+MEDIUM,2,33.9,38.80,29.1,74.4,1
+2025,18,Singapore Grand Prix,Singapore,t,Max VERSTAPPEN,VER,Red Bull Racing,1,2,2,18.00,f,f,62,62,58,96.464,95.649,5.430,,1,HARD+SOFT,5,33.9,38.80,29.1,74.4,1
+2025,18,Singapore Grand Prix,Singapore,t,Lando NORRIS,NOR,McLaren,4,5,3,15.00,f,f,62,62,58,96.679,95.555,6.066,,1,HARD+MEDIUM,5,33.9,38.80,29.1,74.4,1
+2025,18,Singapore Grand Prix,Singapore,t,Oscar PIASTRI,PIA,McLaren,81,3,4,12.00,f,f,62,62,58,96.655,95.408,8.146,,1,HARD+MEDIUM,3,33.9,38.80,29.1,74.4,1
+2025,18,Singapore Grand Prix,Singapore,t,Kimi ANTONELLI,ANT,Mercedes,12,4,5,10.00,f,f,62,62,58,96.970,95.303,33.681,,1,HARD+MEDIUM,4,33.9,38.80,29.1,74.4,1
+2025,18,Singapore Grand Prix,Singapore,t,Charles LECLERC,LEC,Ferrari,16,7,6,8.00,f,f,62,62,58,97.259,95.983,45.996,,1,HARD+MEDIUM,8,33.9,38.80,29.1,74.4,1
+2025,18,Singapore Grand Prix,Singapore,t,Fernando ALONSO,ALO,Aston Martin,14,10,7,6.00,f,f,62,62,58,97.839,95.862,80.667,,1,MEDIUM+SOFT,15,33.9,38.80,29.1,74.4,1
+2025,18,Singapore Grand Prix,Singapore,t,Lewis HAMILTON,HAM,Ferrari,44,6,8,4.00,f,f,62,62,56,96.462,93.808,85.251,,2,HARD+MEDIUM+SOFT,5,33.9,38.80,29.1,74.4,1
+2025,18,Singapore Grand Prix,Singapore,t,Oliver BEARMAN,BEA,Haas F1 Team,87,9,9,2.00,f,f,62,62,58,98.255,96.201,93.527,,1,HARD+MEDIUM,20,33.9,38.80,29.1,74.4,1
+2025,18,Singapore Grand Prix,Singapore,t,Carlos SAINZ,SAI,Williams,55,,10,1.00,f,f,61,61,57,98.439,94.963,,1,1,MEDIUM+SOFT,17,33.9,38.80,29.1,74.4,1
+2025,18,Singapore Grand Prix,Singapore,t,Isack HADJAR,HAD,Racing Bulls,6,8,11,0.00,f,f,61,61,57,98.372,96.938,,1,1,HARD+SOFT,11,33.9,38.80,29.1,74.4,1
+2025,18,Singapore Grand Prix,Singapore,t,Yuki TSUNODA,TSU,Red Bull Racing,22,13,12,0.00,f,f,61,61,57,98.353,96.831,,1,1,HARD+SOFT,10,33.9,38.80,29.1,74.4,1
+2025,18,Singapore Grand Prix,Singapore,t,Lance STROLL,STR,Aston Martin,18,15,13,0.00,f,f,61,61,57,98.645,95.851,,1,1,MEDIUM+SOFT,22,33.9,38.80,29.1,74.4,1
+2025,18,Singapore Grand Prix,Singapore,t,Alexander ALBON,ALB,Williams,23,,14,0.00,f,f,61,61,57,98.469,95.648,,1,1,MEDIUM+SOFT,18,33.9,38.80,29.1,74.4,1
+2025,18,Singapore Grand Prix,Singapore,t,Liam LAWSON,LAW,Racing Bulls,30,12,15,0.00,f,f,61,61,57,98.614,95.641,,1,1,MEDIUM+SOFT,12,33.9,38.80,29.1,74.4,1
+2025,18,Singapore Grand Prix,Singapore,t,Franco COLAPINTO,COL,Alpine,43,16,16,0.00,f,f,61,61,57,98.617,97.182,,1,1,MEDIUM+SOFT,10,33.9,38.80,29.1,74.4,1
+2025,18,Singapore Grand Prix,Singapore,t,Gabriel BORTOLETO,BOR,Kick Sauber,5,14,17,0.00,f,f,61,61,57,98.638,97.126,,1,1,HARD+MEDIUM,11,33.9,38.80,29.1,74.4,1
+2025,18,Singapore Grand Prix,Singapore,t,Esteban OCON,OCO,Haas F1 Team,31,17,18,0.00,f,f,61,61,57,98.609,96.646,,1,1,HARD+MEDIUM,16,33.9,38.80,29.1,74.4,1
+2025,18,Singapore Grand Prix,Singapore,t,Pierre GASLY,GAS,Alpine,10,18,19,0.00,f,f,61,61,55,98.623,94.573,,1,2,HARD+MEDIUM+SOFT,13,33.9,38.80,29.1,74.4,1
+2025,18,Singapore Grand Prix,Singapore,t,Nico HULKENBERG,HUL,Kick Sauber,27,11,20,0.00,f,f,61,61,56,98.408,95.404,,1,2,HARD+MEDIUM+SOFT,18,33.9,38.80,29.1,74.4,1
+2025,19,United States Grand Prix,Austin,f,Max VERSTAPPEN,VER,Red Bull Racing,1,1,1,25.00,f,f,56,56,49,99.454,98.107,0.000,,1,MEDIUM+SOFT,,45.0,46.30,28.3,22.5,0
+2025,19,United States Grand Prix,Austin,f,Lando NORRIS,NOR,McLaren,4,2,2,18.00,f,f,56,56,49,99.556,97.735,7.959,,1,MEDIUM+SOFT,3,45.0,46.30,28.3,22.5,0
+2025,19,United States Grand Prix,Austin,f,Charles LECLERC,LEC,Ferrari,16,3,3,15.00,f,f,56,56,49,99.378,98.231,15.373,,1,MEDIUM+SOFT,8,45.0,46.30,28.3,22.5,0
+2025,19,United States Grand Prix,Austin,f,Lewis HAMILTON,HAM,Ferrari,44,5,4,12.00,f,f,56,56,48,99.817,98.361,28.536,,1,MEDIUM+SOFT,6,45.0,46.30,28.3,22.5,0
+2025,19,United States Grand Prix,Austin,f,Oscar PIASTRI,PIA,McLaren,81,6,5,10.00,f,f,56,56,49,99.934,98.564,29.678,,1,MEDIUM+SOFT,5,45.0,46.30,28.3,22.5,0
+2025,19,United States Grand Prix,Austin,f,George RUSSELL,RUS,Mercedes,63,4,6,8.00,f,f,56,56,50,100.145,98.224,33.456,,1,MEDIUM+SOFT,4,45.0,46.30,28.3,22.5,0
+2025,19,United States Grand Prix,Austin,f,Yuki TSUNODA,TSU,Red Bull Racing,22,13,7,6.00,f,f,56,56,49,99.945,98.803,52.714,,1,MEDIUM+SOFT,10,45.0,46.30,28.3,22.5,0
+2025,19,United States Grand Prix,Austin,f,Nico HULKENBERG,HUL,Kick Sauber,27,11,8,4.00,f,f,56,56,50,100.293,98.372,57.249,,1,MEDIUM+SOFT,10,45.0,46.30,28.3,22.5,0
+2025,19,United States Grand Prix,Austin,f,Oliver BEARMAN,BEA,Haas F1 Team,87,8,9,2.00,f,f,56,56,49,100.212,99.119,64.722,,1,MEDIUM+SOFT,8,45.0,46.30,28.3,22.5,0
+2025,19,United States Grand Prix,Austin,f,Fernando ALONSO,ALO,Aston Martin,14,10,10,1.00,f,f,56,56,49,100.539,98.789,70.001,,1,MEDIUM+SOFT,8,45.0,46.30,28.3,22.5,0
+2025,19,United States Grand Prix,Austin,f,Liam LAWSON,LAW,Racing Bulls,30,12,11,0.00,f,f,56,56,49,100.789,98.983,73.209,,1,MEDIUM+SOFT,8,45.0,46.30,28.3,22.5,0
+2025,19,United States Grand Prix,Austin,f,Lance STROLL,STR,Aston Martin,18,18,12,0.00,f,f,56,56,49,100.165,99.071,74.778,,1,MEDIUM+SOFT,14,45.0,46.30,28.3,22.5,0
+2025,19,United States Grand Prix,Austin,f,Kimi ANTONELLI,ANT,Mercedes,12,7,13,0.00,f,f,56,56,49,99.880,97.577,75.746,,1,MEDIUM+SOFT,17,45.0,46.30,28.3,22.5,0
+2025,19,United States Grand Prix,Austin,f,Alexander ALBON,ALB,Williams,23,19,14,0.00,f,f,56,56,49,100.155,98.328,80.000,,2,HARD+MEDIUM+SOFT,20,45.0,46.30,28.3,22.5,0
+2025,19,United States Grand Prix,Austin,f,Esteban OCON,OCO,Haas F1 Team,31,17,15,0.00,f,f,56,56,49,99.903,99.263,83.043,,1,HARD+MEDIUM,12,45.0,46.30,28.3,22.5,0
+2025,19,United States Grand Prix,Austin,f,Isack HADJAR,HAD,Racing Bulls,6,,16,0.00,f,f,56,56,49,100.772,98.724,92.807,,1,HARD+SOFT,13,45.0,46.30,28.3,22.5,0
+2025,19,United States Grand Prix,Austin,f,Franco COLAPINTO,COL,Alpine,43,15,17,0.00,f,f,55,55,48,101.142,99.173,,1,1,MEDIUM+SOFT,14,45.0,46.30,28.3,22.5,0
+2025,19,United States Grand Prix,Austin,f,Gabriel BORTOLETO,BOR,Kick Sauber,5,16,18,0.00,f,f,55,55,46,100.587,98.275,,1,2,MEDIUM+SOFT,14,45.0,46.30,28.3,22.5,0
+2025,19,United States Grand Prix,Austin,f,Pierre GASLY,GAS,Alpine,10,14,19,0.00,f,f,55,55,48,101.116,99.270,,1,1,MEDIUM+SOFT,8,45.0,46.30,28.3,22.5,0
+2025,19,United States Grand Prix,Austin,f,Carlos SAINZ,SAI,Williams,55,9,,0.00,t,f,5,5,4,100.716,100.327,,,,MEDIUM,4,45.0,46.30,28.3,22.5,0
+2025,20,Mexico City Grand Prix,Mexico City,f,Lando NORRIS,NOR,McLaren,4,1,1,25.00,f,f,71,71,63,82.062,80.764,0.000,,1,MEDIUM+SOFT,1,50.6,53.20,26.4,23.2,0
+2025,20,Mexico City Grand Prix,Mexico City,f,Charles LECLERC,LEC,Ferrari,16,2,2,18.00,f,f,71,71,62,82.236,81.588,30.324,,1,MEDIUM+SOFT,3,50.6,53.20,26.4,23.2,0
+2025,20,Mexico City Grand Prix,Mexico City,f,Max VERSTAPPEN,VER,Red Bull Racing,1,5,3,15.00,f,f,71,71,62,82.936,81.108,31.049,,1,MEDIUM+SOFT,26,50.6,53.20,26.4,23.2,0
+2025,20,Mexico City Grand Prix,Mexico City,f,Oliver BEARMAN,BEA,Haas F1 Team,87,10,4,12.00,f,f,71,71,60,82.427,80.705,40.955,,2,MEDIUM+SOFT,17,50.6,53.20,26.4,23.2,0
+2025,20,Mexico City Grand Prix,Mexico City,f,Oscar PIASTRI,PIA,McLaren,81,8,5,10.00,f,f,71,71,60,82.340,80.422,42.065,,2,MEDIUM+SOFT,21,50.6,53.20,26.4,23.2,0
+2025,20,Mexico City Grand Prix,Mexico City,f,Kimi ANTONELLI,ANT,Mercedes,12,6,6,8.00,f,f,71,71,60,82.452,80.826,47.837,,2,MEDIUM+SOFT,27,50.6,53.20,26.4,23.2,0
+2025,20,Mexico City Grand Prix,Mexico City,f,George RUSSELL,RUS,Mercedes,63,4,7,6.00,f,f,71,71,60,82.383,80.052,50.287,,2,MEDIUM+SOFT,13,50.6,53.20,26.4,23.2,0
+2025,20,Mexico City Grand Prix,Mexico City,f,Lewis HAMILTON,HAM,Ferrari,44,3,8,4.00,f,f,71,71,60,82.294,80.601,56.446,,2,MEDIUM+SOFT,17,50.6,53.20,26.4,23.2,0
+2025,20,Mexico City Grand Prix,Mexico City,f,Esteban OCON,OCO,Haas F1 Team,31,12,9,2.00,f,f,71,71,63,82.664,81.869,75.464,,1,MEDIUM+SOFT,18,50.6,53.20,26.4,23.2,0
+2025,20,Mexico City Grand Prix,Mexico City,f,Gabriel BORTOLETO,BOR,Kick Sauber,5,16,10,1.00,f,f,71,71,63,83.606,81.121,76.863,,1,MEDIUM+SOFT,20,50.6,53.20,26.4,23.2,0
+2025,20,Mexico City Grand Prix,Mexico City,f,Yuki TSUNODA,TSU,Red Bull Racing,22,11,11,0.00,f,f,71,71,63,83.374,81.486,79.048,,1,MEDIUM+SOFT,16,50.6,53.20,26.4,23.2,0
+2025,20,Mexico City Grand Prix,Mexico City,f,Alexander ALBON,ALB,Williams,23,17,12,0.00,f,f,70,70,62,83.617,80.480,,1,1,HARD+SOFT,24,50.6,53.20,26.4,23.2,0
+2025,20,Mexico City Grand Prix,Mexico City,f,Isack HADJAR,HAD,Racing Bulls,6,9,13,0.00,f,f,70,70,62,83.655,81.714,,1,1,MEDIUM+SOFT,16,50.6,53.20,26.4,23.2,0
+2025,20,Mexico City Grand Prix,Mexico City,f,Lance STROLL,STR,Aston Martin,18,19,14,0.00,f,f,70,70,60,82.588,80.593,,1,2,MEDIUM+SOFT,24,50.6,53.20,26.4,23.2,0
+2025,20,Mexico City Grand Prix,Mexico City,f,Pierre GASLY,GAS,Alpine,10,18,15,0.00,f,f,70,70,61,83.886,82.271,,1,1,MEDIUM+SOFT,18,50.6,53.20,26.4,23.2,0
+2025,20,Mexico City Grand Prix,Mexico City,f,Franco COLAPINTO,COL,Alpine,43,20,16,0.00,f,f,70,70,61,84.271,81.342,,1,1,HARD+SOFT,9,50.6,53.20,26.4,23.2,0
+2025,20,Mexico City Grand Prix,Mexico City,f,Carlos SAINZ,SAI,Williams,55,7,17,0.00,t,f,67,67,57,82.622,80.098,,,3,MEDIUM+SOFT,19,50.6,53.20,26.4,23.2,0
+2025,20,Mexico City Grand Prix,Mexico City,f,Nico HULKENBERG,HUL,Kick Sauber,27,13,,0.00,t,f,25,25,21,84.235,83.091,,,,SOFT,11,50.6,53.20,26.4,23.2,0
+2025,20,Mexico City Grand Prix,Mexico City,f,Fernando ALONSO,ALO,Aston Martin,14,14,,0.00,t,f,34,34,28,83.885,81.708,,,1,MEDIUM+SOFT,10,50.6,53.20,26.4,23.2,0
+2025,20,Mexico City Grand Prix,Mexico City,f,Liam LAWSON,LAW,Racing Bulls,30,15,,0.00,t,f,5,5,1,94.252,94.252,,,1,HARD+SOFT,10,50.6,53.20,26.4,23.2,0
+2025,21,São Paulo Grand Prix,Interlagos,f,Lando NORRIS,NOR,McLaren,4,1,1,25.00,f,f,71,71,59,74.304,73.040,0.000,,2,MEDIUM+SOFT,5,30.7,32.80,17.3,70.6,0
+2025,21,São Paulo Grand Prix,Interlagos,f,Kimi ANTONELLI,ANT,Mercedes,12,2,2,18.00,f,f,71,71,59,74.268,73.123,10.388,,2,MEDIUM+SOFT,13,30.7,32.80,17.3,70.6,0
+2025,21,São Paulo Grand Prix,Interlagos,f,Max VERSTAPPEN,VER,Red Bull Racing,1,16,3,15.00,f,f,71,71,59,73.840,72.447,10.750,,3,HARD+MEDIUM+SOFT,29,30.7,32.80,17.3,70.6,0
+2025,21,São Paulo Grand Prix,Interlagos,f,George RUSSELL,RUS,Mercedes,63,6,4,12.00,f,f,71,71,59,74.119,73.097,15.267,,2,MEDIUM+SOFT,14,30.7,32.80,17.3,70.6,0
+2025,21,São Paulo Grand Prix,Interlagos,f,Oscar PIASTRI,PIA,McLaren,81,4,5,10.00,f,f,71,71,59,74.159,72.742,15.749,,2,MEDIUM+SOFT,10,30.7,32.80,17.3,70.6,0
+2025,21,São Paulo Grand Prix,Interlagos,f,Oliver BEARMAN,BEA,Haas F1 Team,87,8,6,8.00,f,f,71,71,59,74.390,73.483,29.630,,2,MEDIUM+SOFT,23,30.7,32.80,17.3,70.6,0
+2025,21,São Paulo Grand Prix,Interlagos,f,Liam LAWSON,LAW,Racing Bulls,30,7,7,6.00,f,f,71,71,61,75.266,74.029,52.642,,1,MEDIUM+SOFT,33,30.7,32.80,17.3,70.6,0
+2025,21,São Paulo Grand Prix,Interlagos,f,Isack HADJAR,HAD,Racing Bulls,6,5,8,4.00,f,f,71,71,59,74.755,73.694,52.873,,2,MEDIUM+SOFT,22,30.7,32.80,17.3,70.6,0
+2025,21,São Paulo Grand Prix,Interlagos,f,Nico HULKENBERG,HUL,Kick Sauber,27,10,9,2.00,f,f,71,71,61,75.153,73.474,53.324,,1,MEDIUM+SOFT,20,30.7,32.80,17.3,70.6,0
+2025,21,São Paulo Grand Prix,Interlagos,f,Pierre GASLY,GAS,Alpine,10,9,10,1.00,f,f,71,71,59,74.780,73.736,53.914,,2,MEDIUM+SOFT,25,30.7,32.80,17.3,70.6,0
+2025,21,São Paulo Grand Prix,Interlagos,f,Alexander ALBON,ALB,Williams,23,12,11,0.00,f,f,71,71,59,75.021,72.400,54.184,,2,MEDIUM+SOFT,23,30.7,32.80,17.3,70.6,0
+2025,21,São Paulo Grand Prix,Interlagos,f,Esteban OCON,OCO,Haas F1 Team,31,17,12,0.00,f,f,71,71,60,75.112,73.481,54.696,,2,HARD+MEDIUM,28,30.7,32.80,17.3,70.6,0
+2025,21,São Paulo Grand Prix,Interlagos,f,Carlos SAINZ,SAI,Williams,55,15,13,0.00,f,f,71,71,59,74.926,73.683,55.420,,2,MEDIUM+SOFT,20,30.7,32.80,17.3,70.6,0
+2025,21,São Paulo Grand Prix,Interlagos,f,Fernando ALONSO,ALO,Aston Martin,14,11,14,0.00,f,f,71,71,59,74.654,73.312,55.766,,2,HARD+MEDIUM,21,30.7,32.80,17.3,70.6,0
+2025,21,São Paulo Grand Prix,Interlagos,f,Franco COLAPINTO,COL,Alpine,43,18,15,0.00,f,f,71,71,59,74.622,72.816,57.777,,2,MEDIUM+SOFT,24,30.7,32.80,17.3,70.6,0
+2025,21,São Paulo Grand Prix,Interlagos,f,Lance STROLL,STR,Aston Martin,18,14,16,0.00,f,f,71,71,59,74.836,73.094,58.247,,2,HARD+MEDIUM,23,30.7,32.80,17.3,70.6,0
+2025,21,São Paulo Grand Prix,Interlagos,f,Yuki TSUNODA,TSU,Red Bull Racing,22,19,17,0.00,f,f,71,71,59,74.911,72.774,69.176,,3,HARD+MEDIUM,20,30.7,32.80,17.3,70.6,0
+2025,21,São Paulo Grand Prix,Interlagos,f,Charles LECLERC,LEC,Ferrari,16,3,,0.00,t,f,5,5,,,,,,,MEDIUM,3,30.7,32.80,17.3,70.6,0
+2025,21,São Paulo Grand Prix,Interlagos,f,Lewis HAMILTON,HAM,Ferrari,44,13,,0.00,t,f,37,37,25,75.580,73.844,,,3,HARD+MEDIUM+SOFT,11,30.7,32.80,17.3,70.6,0
+2025,21,São Paulo Grand Prix,Interlagos,f,Gabriel BORTOLETO,BOR,Kick Sauber,5,,,0.00,t,f,0,,,,,,,,SOFT,2,30.7,32.80,17.3,70.6,0
+2025,22,Las Vegas Grand Prix,Las Vegas,t,Max VERSTAPPEN,VER,Red Bull Racing,1,2,1,25.00,f,f,50,50,44,95.113,93.365,0.000,,1,HARD+MEDIUM,1,19.5,29.50,16.7,37.8,0
+2025,22,Las Vegas Grand Prix,Las Vegas,t,George RUSSELL,RUS,Mercedes,63,4,2,18.00,f,f,50,50,44,95.478,94.592,23.546,,1,HARD+MEDIUM,5,19.5,29.50,16.7,37.8,0
+2025,22,Las Vegas Grand Prix,Las Vegas,t,Kimi ANTONELLI,ANT,Mercedes,12,17,3,15.00,f,f,50,50,46,95.649,93.998,30.488,,1,HARD+SOFT,16,19.5,29.50,16.7,37.8,0
+2025,22,Las Vegas Grand Prix,Las Vegas,t,Charles LECLERC,LEC,Ferrari,16,9,4,12.00,f,f,50,50,44,95.338,94.304,30.678,,1,HARD+MEDIUM,11,19.5,29.50,16.7,37.8,0
+2025,22,Las Vegas Grand Prix,Las Vegas,t,Carlos SAINZ,SAI,Williams,55,3,5,10.00,f,f,50,50,44,95.471,94.496,34.924,,1,HARD+MEDIUM,5,19.5,29.50,16.7,37.8,0
+2025,22,Las Vegas Grand Prix,Las Vegas,t,Isack HADJAR,HAD,Racing Bulls,6,8,6,8.00,f,f,50,50,44,95.638,94.620,45.257,,1,HARD+MEDIUM,7,19.5,29.50,16.7,37.8,0
+2025,22,Las Vegas Grand Prix,Las Vegas,t,Nico HULKENBERG,HUL,Kick Sauber,27,11,7,6.00,f,f,50,50,44,96.144,94.592,51.134,,1,HARD+MEDIUM,8,19.5,29.50,16.7,37.8,0
+2025,22,Las Vegas Grand Prix,Las Vegas,t,Lewis HAMILTON,HAM,Ferrari,44,20,8,4.00,f,f,50,50,44,95.991,94.553,59.369,,1,HARD+MEDIUM,16,19.5,29.50,16.7,37.8,0
+2025,22,Las Vegas Grand Prix,Las Vegas,t,Esteban OCON,OCO,Haas F1 Team,31,13,9,2.00,f,f,50,50,44,96.106,94.557,60.635,,1,HARD+MEDIUM,12,19.5,29.50,16.7,37.8,0
+2025,22,Las Vegas Grand Prix,Las Vegas,t,Oliver BEARMAN,BEA,Haas F1 Team,87,14,10,1.00,f,f,50,50,44,96.497,94.519,70.549,,1,HARD+MEDIUM,10,19.5,29.50,16.7,37.8,0
+2025,22,Las Vegas Grand Prix,Las Vegas,t,Fernando ALONSO,ALO,Aston Martin,14,7,11,0.00,f,f,50,50,45,96.956,95.629,85.308,,1,HARD+MEDIUM,6,19.5,29.50,16.7,37.8,0
+2025,22,Las Vegas Grand Prix,Las Vegas,t,Yuki TSUNODA,TSU,Red Bull Racing,22,19,12,0.00,f,f,50,50,44,96.366,94.967,86.974,,2,HARD+MEDIUM,12,19.5,29.50,16.7,37.8,0
+2025,22,Las Vegas Grand Prix,Las Vegas,t,Pierre GASLY,GAS,Alpine,10,10,13,0.00,f,f,50,50,45,96.997,95.674,91.702,,1,HARD+MEDIUM,7,19.5,29.50,16.7,37.8,0
+2025,22,Las Vegas Grand Prix,Las Vegas,t,Liam LAWSON,LAW,Racing Bulls,30,6,14,0.00,f,f,49,49,42,96.833,94.837,,1,2,HARD+MEDIUM,6,19.5,29.50,16.7,37.8,0
+2025,22,Las Vegas Grand Prix,Las Vegas,t,Franco COLAPINTO,COL,Alpine,43,15,15,0.00,f,f,49,49,43,97.217,95.780,,1,1,HARD+MEDIUM,11,19.5,29.50,16.7,37.8,0
+2025,22,Las Vegas Grand Prix,Las Vegas,t,Oscar PIASTRI,PIA,McLaren,81,5,,0.00,f,t,,50,44,95.322,94.086,,,1,HARD+MEDIUM,9,19.5,29.50,16.7,37.8,0
+2025,22,Las Vegas Grand Prix,Las Vegas,t,Lance STROLL,STR,Aston Martin,18,12,,0.00,t,f,0,,,,,,,,MEDIUM,1,19.5,29.50,16.7,37.8,0
+2025,22,Las Vegas Grand Prix,Las Vegas,t,Alexander ALBON,ALB,Williams,23,16,,0.00,t,f,35,35,27,96.394,95.184,,,3,HARD+MEDIUM,10,19.5,29.50,16.7,37.8,0
+2025,22,Las Vegas Grand Prix,Las Vegas,t,Gabriel BORTOLETO,BOR,Kick Sauber,5,18,,0.00,t,f,2,2,,,,,,1,HARD+MEDIUM,2,19.5,29.50,16.7,37.8,0
+2025,22,Las Vegas Grand Prix,Las Vegas,t,Lando NORRIS,NOR,McLaren,4,1,,0.00,f,t,,50,44,95.652,93.965,,,1,HARD+MEDIUM,3,19.5,29.50,16.7,37.8,0
+2025,23,Qatar Grand Prix,Lusail,f,Max VERSTAPPEN,VER,Red Bull Racing,1,3,1,25.00,f,f,57,57,51,85.405,83.498,0.000,,2,HARD+MEDIUM,21,28.2,29.80,22.6,69.0,0
+2025,23,Qatar Grand Prix,Lusail,f,Oscar PIASTRI,PIA,McLaren,81,1,2,18.00,f,f,57,57,49,84.951,82.996,7.995,,2,HARD+MEDIUM,20,28.2,29.80,22.6,69.0,0
+2025,23,Qatar Grand Prix,Lusail,f,Carlos SAINZ,SAI,Williams,55,7,3,15.00,f,f,57,57,51,86.195,83.859,22.665,,2,HARD+MEDIUM,11,28.2,29.80,22.6,69.0,0
+2025,23,Qatar Grand Prix,Lusail,f,Lando NORRIS,NOR,McLaren,4,2,4,12.00,f,f,57,57,49,85.167,83.197,23.315,,2,HARD+MEDIUM,21,28.2,29.80,22.6,69.0,0
+2025,23,Qatar Grand Prix,Lusail,f,Kimi ANTONELLI,ANT,Mercedes,12,5,5,10.00,f,f,57,57,51,86.425,83.955,28.317,,2,HARD+MEDIUM,8,28.2,29.80,22.6,69.0,0
+2025,23,Qatar Grand Prix,Lusail,f,George RUSSELL,RUS,Mercedes,63,4,6,8.00,f,f,57,57,51,86.637,83.198,48.599,,2,HARD+MEDIUM,19,28.2,29.80,22.6,69.0,0
+2025,23,Qatar Grand Prix,Lusail,f,Fernando ALONSO,ALO,Aston Martin,14,8,7,6.00,f,f,57,57,51,86.439,83.940,54.045,,2,HARD+MEDIUM,10,28.2,29.80,22.6,69.0,0
+2025,23,Qatar Grand Prix,Lusail,f,Charles LECLERC,LEC,Ferrari,16,10,8,4.00,f,f,57,57,51,86.990,84.432,56.785,,2,HARD+MEDIUM,11,28.2,29.80,22.6,69.0,0
+2025,23,Qatar Grand Prix,Lusail,f,Liam LAWSON,LAW,Racing Bulls,30,12,9,2.00,f,f,57,57,51,87.007,83.971,60.073,,2,HARD+MEDIUM,12,28.2,29.80,22.6,69.0,0
+2025,23,Qatar Grand Prix,Lusail,f,Yuki TSUNODA,TSU,Red Bull Racing,22,16,10,1.00,f,f,57,57,51,87.293,84.139,61.770,,2,HARD+MEDIUM,14,28.2,29.80,22.6,69.0,0
+2025,23,Qatar Grand Prix,Lusail,f,Alexander ALBON,ALB,Williams,23,15,11,0.00,f,f,57,57,51,87.343,84.261,66.931,,2,HARD+MEDIUM,15,28.2,29.80,22.6,69.0,0
+2025,23,Qatar Grand Prix,Lusail,f,Lewis HAMILTON,HAM,Ferrari,44,18,12,0.00,f,f,57,57,51,87.160,84.848,77.730,,2,MEDIUM+SOFT,16,28.2,29.80,22.6,69.0,0
+2025,23,Qatar Grand Prix,Lusail,f,Gabriel BORTOLETO,BOR,Kick Sauber,5,14,13,0.00,f,f,57,57,51,87.398,85.233,84.812,,2,MEDIUM+SOFT,15,28.2,29.80,22.6,69.0,0
+2025,23,Qatar Grand Prix,Lusail,f,Franco COLAPINTO,COL,Alpine,43,20,14,0.00,f,f,56,56,50,87.397,85.644,,1,2,HARD+MEDIUM,8,28.2,29.80,22.6,69.0,0
+2025,23,Qatar Grand Prix,Lusail,f,Esteban OCON,OCO,Haas F1 Team,31,17,15,0.00,f,f,56,56,50,87.414,85.056,,1,3,HARD+MEDIUM,33,28.2,29.80,22.6,69.0,0
+2025,23,Qatar Grand Prix,Lusail,f,Pierre GASLY,GAS,Alpine,10,9,16,0.00,f,f,56,56,50,87.391,85.376,,1,2,HARD+MEDIUM,12,28.2,29.80,22.6,69.0,0
+2025,23,Qatar Grand Prix,Lusail,f,Lance STROLL,STR,Aston Martin,18,19,17,0.00,t,f,55,55,47,86.624,83.484,,,3,MEDIUM+SOFT,20,28.2,29.80,22.6,69.0,0
+2025,23,Qatar Grand Prix,Lusail,f,Isack HADJAR,HAD,Racing Bulls,6,6,18,0.00,t,f,55,55,49,86.714,84.317,,,2,HARD+MEDIUM,10,28.2,29.80,22.6,69.0,0
+2025,23,Qatar Grand Prix,Lusail,f,Nico HULKENBERG,HUL,Kick Sauber,27,11,,0.00,t,f,6,6,6,88.382,88.139,,,,SOFT,8,28.2,29.80,22.6,69.0,0
+2025,23,Qatar Grand Prix,Lusail,f,Oliver BEARMAN,BEA,Haas F1 Team,87,13,,0.00,t,f,41,41,33,87.548,84.930,,,3,HARD+MEDIUM,8,28.2,29.80,22.6,69.0,0
+2025,24,Abu Dhabi Grand Prix,Yas Marina Circuit,f,Max VERSTAPPEN,VER,Red Bull Racing,1,1,1,25.00,f,f,58,58,56,88.425,87.625,0.000,,1,HARD+MEDIUM,1,31.1,34.60,26.7,60.4,0
+2025,24,Abu Dhabi Grand Prix,Yas Marina Circuit,f,Oscar PIASTRI,PIA,McLaren,81,3,2,18.00,f,f,58,58,56,89.261,86.765,12.594,,1,HARD+MEDIUM,2,31.1,34.60,26.7,60.4,0
+2025,24,Abu Dhabi Grand Prix,Yas Marina Circuit,f,Lando NORRIS,NOR,McLaren,4,2,3,15.00,f,f,58,58,54,88.291,86.818,16.572,,2,HARD+MEDIUM,7,31.1,34.60,26.7,60.4,0
+2025,24,Abu Dhabi Grand Prix,Yas Marina Circuit,f,Charles LECLERC,LEC,Ferrari,16,5,4,12.00,f,f,58,58,54,88.510,86.725,23.279,,2,HARD+MEDIUM,8,31.1,34.60,26.7,60.4,0
+2025,24,Abu Dhabi Grand Prix,Yas Marina Circuit,f,George RUSSELL,RUS,Mercedes,63,4,5,10.00,f,f,58,58,56,89.388,88.599,48.563,,1,HARD+MEDIUM,12,31.1,34.60,26.7,60.4,0
+2025,24,Abu Dhabi Grand Prix,Yas Marina Circuit,f,Fernando ALONSO,ALO,Aston Martin,14,6,6,8.00,f,f,58,58,56,89.969,88.279,67.562,,1,HARD+MEDIUM,11,31.1,34.60,26.7,60.4,0
+2025,24,Abu Dhabi Grand Prix,Yas Marina Circuit,f,Esteban OCON,OCO,Haas F1 Team,31,8,7,6.00,f,f,58,58,56,89.675,88.655,69.876,,1,HARD+MEDIUM,25,31.1,34.60,26.7,60.4,0
+2025,24,Abu Dhabi Grand Prix,Yas Marina Circuit,f,Lewis HAMILTON,HAM,Ferrari,44,16,8,4.00,f,f,58,58,54,89.380,88.094,72.670,,2,HARD+MEDIUM+SOFT,30,31.1,34.60,26.7,60.4,0
+2025,24,Abu Dhabi Grand Prix,Yas Marina Circuit,f,Nico HULKENBERG,HUL,Kick Sauber,27,18,9,2.00,f,f,58,58,54,89.606,87.050,79.014,,2,HARD+MEDIUM+SOFT,30,31.1,34.60,26.7,60.4,0
+2025,24,Abu Dhabi Grand Prix,Yas Marina Circuit,f,Lance STROLL,STR,Aston Martin,18,15,10,1.00,f,f,58,58,56,89.995,87.626,79.523,,1,HARD+MEDIUM,27,31.1,34.60,26.7,60.4,0
+2025,24,Abu Dhabi Grand Prix,Yas Marina Circuit,f,Gabriel BORTOLETO,BOR,Kick Sauber,5,7,11,0.00,f,f,58,58,56,90.072,89.114,81.043,,1,HARD+MEDIUM,13,31.1,34.60,26.7,60.4,0
+2025,24,Abu Dhabi Grand Prix,Yas Marina Circuit,f,Oliver BEARMAN,BEA,Haas F1 Team,87,11,12,0.00,f,f,58,58,56,89.775,88.976,81.166,,1,HARD+MEDIUM,18,31.1,34.60,26.7,60.4,0
+2025,24,Abu Dhabi Grand Prix,Yas Marina Circuit,f,Carlos SAINZ,SAI,Williams,55,12,13,0.00,f,f,58,58,56,89.857,89.052,82.158,,1,HARD+MEDIUM,21,31.1,34.60,26.7,60.4,0
+2025,24,Abu Dhabi Grand Prix,Yas Marina Circuit,f,Yuki TSUNODA,TSU,Red Bull Racing,22,10,14,0.00,f,f,58,58,56,90.083,88.557,83.794,,1,HARD+MEDIUM,18,31.1,34.60,26.7,60.4,0
+2025,24,Abu Dhabi Grand Prix,Yas Marina Circuit,f,Kimi ANTONELLI,ANT,Mercedes,12,14,15,0.00,f,f,58,58,56,90.109,88.029,84.399,,1,HARD+MEDIUM,25,31.1,34.60,26.7,60.4,0
+2025,24,Abu Dhabi Grand Prix,Yas Marina Circuit,f,Alexander ALBON,ALB,Williams,23,17,16,0.00,f,f,58,58,54,89.758,88.367,90.327,,2,HARD+MEDIUM+SOFT,27,31.1,34.60,26.7,60.4,0
+2025,24,Abu Dhabi Grand Prix,Yas Marina Circuit,f,Isack HADJAR,HAD,Racing Bulls,6,9,17,0.00,f,f,57,57,55,90.142,89.375,,1,1,HARD+MEDIUM,15,31.1,34.60,26.7,60.4,0
+2025,24,Abu Dhabi Grand Prix,Yas Marina Circuit,f,Liam LAWSON,LAW,Racing Bulls,30,13,18,0.00,f,f,57,57,55,89.762,88.886,,1,1,HARD+MEDIUM,20,31.1,34.60,26.7,60.4,0
+2025,24,Abu Dhabi Grand Prix,Yas Marina Circuit,f,Pierre GASLY,GAS,Alpine,10,19,19,0.00,f,f,57,57,53,89.908,87.767,,1,2,HARD+MEDIUM,16,31.1,34.60,26.7,60.4,0
+2025,24,Abu Dhabi Grand Prix,Yas Marina Circuit,f,Franco COLAPINTO,COL,Alpine,43,20,20,0.00,f,f,57,57,53,89.847,87.710,,1,2,HARD+MEDIUM,16,31.1,34.60,26.7,60.4,0
+2026,1,Australian Grand Prix,Melbourne,t,George RUSSELL,RUS,Mercedes,63,1,1,25.00,f,f,58,55,49,83.087,82.670,0.000,,1,HARD,5,36.1,39.10,24.2,54.0,0
+2026,1,Australian Grand Prix,Melbourne,t,Kimi ANTONELLI,ANT,Mercedes,12,2,2,18.00,f,f,58,56,49,83.017,82.417,2.974,,1,HARD+MEDIUM,9,36.1,39.10,24.2,54.0,0
+2026,1,Australian Grand Prix,Melbourne,t,Charles LECLERC,LEC,Ferrari,16,4,3,15.00,f,f,58,55,47,83.160,82.579,15.519,,2,HARD+MEDIUM,7,36.1,39.10,24.2,54.0,0
+2026,1,Australian Grand Prix,Melbourne,t,Lewis HAMILTON,HAM,Ferrari,44,7,4,12.00,f,f,58,55,46,83.248,82.423,16.144,,2,HARD+MEDIUM,9,36.1,39.10,24.2,54.0,0
+2026,1,Australian Grand Prix,Melbourne,t,Lando NORRIS,NOR,McLaren,1,6,5,10.00,f,f,58,56,49,83.534,82.358,51.741,,2,HARD+MEDIUM,8,36.1,39.10,24.2,54.0,0
+2026,1,Australian Grand Prix,Melbourne,t,Max VERSTAPPEN,VER,Red Bull Racing,3,,6,8.00,f,f,58,56,49,83.536,82.091,54.617,,2,HARD+MEDIUM,20,36.1,39.10,24.2,54.0,0
+2026,1,Australian Grand Prix,Melbourne,t,Oliver BEARMAN,BEA,Haas F1 Team,87,12,7,6.00,f,f,57,55,48,84.621,84.020,,1,1,HARD+MEDIUM,22,36.1,39.10,24.2,54.0,0
+2026,1,Australian Grand Prix,Melbourne,t,Arvid LINDBLAD,LIN,Racing Bulls,41,9,8,4.00,f,f,57,55,48,84.863,84.182,,1,1,HARD+MEDIUM,11,36.1,39.10,24.2,54.0,0
+2026,1,Australian Grand Prix,Melbourne,t,Gabriel BORTOLETO,BOR,Audi,5,10,9,2.00,f,f,57,55,48,84.621,83.257,,1,2,HARD+MEDIUM,19,36.1,39.10,24.2,54.0,0
+2026,1,Australian Grand Prix,Melbourne,t,Pierre GASLY,GAS,Alpine,10,14,10,1.00,f,f,57,55,48,85.190,84.486,,1,1,HARD,20,36.1,39.10,24.2,54.0,0
+2026,1,Australian Grand Prix,Melbourne,t,Esteban OCON,OCO,Haas F1 Team,31,13,11,0.00,f,f,57,55,48,85.239,84.424,,1,1,HARD,17,36.1,39.10,24.2,54.0,0
+2026,1,Australian Grand Prix,Melbourne,t,Alexander ALBON,ALB,Williams,23,15,12,0.00,f,f,57,55,48,85.316,84.375,,1,2,HARD+SOFT,18,36.1,39.10,24.2,54.0,0
+2026,1,Australian Grand Prix,Melbourne,t,Liam LAWSON,LAW,Racing Bulls,30,8,13,0.00,f,f,57,55,48,85.168,83.783,,1,2,HARD+SOFT,14,36.1,39.10,24.2,54.0,0
+2026,1,Australian Grand Prix,Melbourne,t,Franco COLAPINTO,COL,Alpine,43,16,14,0.00,f,f,56,54,45,85.633,82.926,,2,2,HARD+SOFT,21,36.1,39.10,24.2,54.0,0
+2026,1,Australian Grand Prix,Melbourne,t,Carlos SAINZ,SAI,Williams,55,,15,0.00,f,f,56,54,46,85.649,83.590,,2,3,HARD+MEDIUM+SOFT,24,36.1,39.10,24.2,54.0,0
+2026,1,Australian Grand Prix,Melbourne,t,Sergio PEREZ,PER,Cadillac,11,18,16,0.00,f,f,55,53,44,87.526,86.070,,3,2,HARD+SOFT,16,36.1,39.10,24.2,54.0,0
+2026,1,Australian Grand Prix,Melbourne,t,Lance STROLL,STR,Aston Martin,18,,,0.00,f,f,43,41,31,87.480,85.410,,15,6,HARD+MEDIUM+SOFT,12,36.1,39.10,24.2,54.0,0
+2026,1,Australian Grand Prix,Melbourne,t,Oscar PIASTRI,PIA,McLaren,81,5,,0.00,f,f,0,,,,,,,,,,36.1,39.10,24.2,54.0,0
+2026,1,Australian Grand Prix,Melbourne,t,Nico HULKENBERG,HUL,Audi,27,11,,0.00,f,f,0,,,,,,,,HARD,,36.1,39.10,24.2,54.0,0
+2026,1,Australian Grand Prix,Melbourne,t,Fernando ALONSO,ALO,Aston Martin,14,17,,0.00,t,f,21,19,15,87.424,85.713,,,2,SOFT,20,36.1,39.10,24.2,54.0,0
+2026,1,Australian Grand Prix,Melbourne,t,Valtteri BOTTAS,BOT,Cadillac,77,19,,0.00,t,f,15,13,10,87.771,87.364,,,1,HARD,20,36.1,39.10,24.2,54.0,0
+2026,1,Australian Grand Prix,Melbourne,t,Isack HADJAR,HAD,Red Bull Racing,6,3,,0.00,t,f,10,8,8,85.359,85.239,,,,MEDIUM,7,36.1,39.10,24.2,54.0,0
+2026,2,Chinese Grand Prix,Shanghai,f,Kimi ANTONELLI,ANT,Mercedes,12,1,1,25.00,f,f,56,56,47,96.378,95.275,0.000,,1,HARD+MEDIUM,2,22.6,27.60,15.6,55.0,0
+2026,2,Chinese Grand Prix,Shanghai,f,George RUSSELL,RUS,Mercedes,63,2,2,18.00,f,f,56,56,47,96.420,95.400,5.515,,1,HARD+MEDIUM,6,22.6,27.60,15.6,55.0,0
+2026,2,Chinese Grand Prix,Shanghai,f,Lewis HAMILTON,HAM,Ferrari,44,3,3,15.00,f,f,56,56,47,96.876,96.092,25.267,,1,HARD+MEDIUM,10,22.6,27.60,15.6,55.0,0
+2026,2,Chinese Grand Prix,Shanghai,f,Charles LECLERC,LEC,Ferrari,16,4,4,12.00,f,f,56,56,47,96.840,96.011,28.894,,1,HARD+MEDIUM,10,22.6,27.60,15.6,55.0,0
+2026,2,Chinese Grand Prix,Shanghai,f,Oliver BEARMAN,BEA,Haas F1 Team,87,10,5,10.00,f,f,56,56,47,97.496,96.429,57.268,,1,HARD+MEDIUM,17,22.6,27.60,15.6,55.0,0
+2026,2,Chinese Grand Prix,Shanghai,f,Pierre GASLY,GAS,Alpine,10,7,6,8.00,f,f,56,56,45,97.566,96.569,59.647,,1,HARD+MEDIUM,10,22.6,27.60,15.6,55.0,0
+2026,2,Chinese Grand Prix,Shanghai,f,Liam LAWSON,LAW,Racing Bulls,30,14,7,6.00,f,f,56,56,44,97.995,97.096,80.588,,1,HARD+MEDIUM,18,22.6,27.60,15.6,55.0,0
+2026,2,Chinese Grand Prix,Shanghai,f,Isack HADJAR,HAD,Red Bull Racing,6,9,8,4.00,f,f,56,56,45,98.039,97.311,87.247,,2,HARD+SOFT,16,22.6,27.60,15.6,55.0,0
+2026,2,Chinese Grand Prix,Shanghai,f,Carlos SAINZ,SAI,Williams,55,17,9,2.00,f,f,55,55,44,98.726,97.981,,1,1,HARD+MEDIUM,21,22.6,27.60,15.6,55.0,0
+2026,2,Chinese Grand Prix,Shanghai,f,Franco COLAPINTO,COL,Alpine,43,12,10,1.00,f,f,55,55,44,98.384,96.783,,1,1,HARD+MEDIUM,14,22.6,27.60,15.6,55.0,0
+2026,2,Chinese Grand Prix,Shanghai,f,Nico HULKENBERG,HUL,Audi,27,11,11,0.00,f,f,55,55,42,98.388,96.180,,1,1,HARD+MEDIUM,21,22.6,27.60,15.6,55.0,0
+2026,2,Chinese Grand Prix,Shanghai,f,Arvid LINDBLAD,LIN,Racing Bulls,41,15,12,0.00,f,f,55,55,43,98.543,96.099,,1,1,HARD+MEDIUM,19,22.6,27.60,15.6,55.0,0
+2026,2,Chinese Grand Prix,Shanghai,f,Valtteri BOTTAS,BOT,Cadillac,77,20,13,0.00,f,f,55,55,45,99.768,98.393,,1,1,HARD+MEDIUM,21,22.6,27.60,15.6,55.0,0
+2026,2,Chinese Grand Prix,Shanghai,f,Esteban OCON,OCO,Haas F1 Team,31,13,14,0.00,f,f,55,55,41,98.357,95.964,,1,2,HARD+MEDIUM+SOFT,26,22.6,27.60,15.6,55.0,0
+2026,2,Chinese Grand Prix,Shanghai,f,Sergio PEREZ,PER,Cadillac,11,22,15,0.00,f,f,55,55,45,100.004,98.523,,1,1,HARD+MEDIUM,21,22.6,27.60,15.6,55.0,0
+2026,2,Chinese Grand Prix,Shanghai,f,Oscar PIASTRI,PIA,McLaren,81,5,,0.00,f,f,0,,,,,,,,MEDIUM,,22.6,27.60,15.6,55.0,0
+2026,2,Chinese Grand Prix,Shanghai,f,Lando NORRIS,NOR,McLaren,1,6,,0.00,f,f,0,,,,,,,,HARD,,22.6,27.60,15.6,55.0,0
+2026,2,Chinese Grand Prix,Shanghai,f,Max VERSTAPPEN,VER,Red Bull Racing,3,8,,0.00,t,f,45,45,35,97.869,97.046,,,1,HARD+SOFT,22,22.6,27.60,15.6,55.0,0
+2026,2,Chinese Grand Prix,Shanghai,f,Gabriel BORTOLETO,BOR,Audi,5,16,,0.00,f,f,0,,,,,,,,HARD,,22.6,27.60,15.6,55.0,0
+2026,2,Chinese Grand Prix,Shanghai,f,Alexander ALBON,ALB,Williams,23,18,,0.00,f,f,0,,,,,,,,HARD,,22.6,27.60,15.6,55.0,0
+2026,2,Chinese Grand Prix,Shanghai,f,Fernando ALONSO,ALO,Aston Martin,14,19,,0.00,t,f,32,32,22,100.353,99.721,,,1,HARD+MEDIUM,17,22.6,27.60,15.6,55.0,0
+2026,2,Chinese Grand Prix,Shanghai,f,Lance STROLL,STR,Aston Martin,18,21,,0.00,t,f,9,9,8,101.083,100.883,,,,HARD,8,22.6,27.60,15.6,55.0,0
+2026,3,Japanese Grand Prix,Suzuka,f,Kimi ANTONELLI,ANT,Mercedes,12,1,1,25.00,f,f,53,53,47,93.589,92.432,0.000,,1,HARD+MEDIUM,6,34.1,38.30,18.6,52.5,0
+2026,3,Japanese Grand Prix,Suzuka,f,Oscar PIASTRI,PIA,McLaren,81,3,2,18.00,f,f,53,53,45,93.712,92.996,13.722,,1,HARD+MEDIUM,7,34.1,38.30,18.6,52.5,0
+2026,3,Japanese Grand Prix,Suzuka,f,Charles LECLERC,LEC,Ferrari,16,4,3,15.00,f,f,53,53,45,93.915,92.634,15.270,,1,HARD+MEDIUM,7,34.1,38.30,18.6,52.5,0
+2026,3,Japanese Grand Prix,Suzuka,f,George RUSSELL,RUS,Mercedes,63,2,4,12.00,f,f,53,53,46,94.140,92.549,15.754,,1,HARD+MEDIUM,8,34.1,38.30,18.6,52.5,0
+2026,3,Japanese Grand Prix,Suzuka,f,Lando NORRIS,NOR,McLaren,1,5,5,10.00,f,f,53,53,45,94.131,93.208,23.479,,1,HARD+MEDIUM,8,34.1,38.30,18.6,52.5,0
+2026,3,Japanese Grand Prix,Suzuka,f,Lewis HAMILTON,HAM,Ferrari,44,6,6,8.00,f,f,53,53,47,94.676,92.777,25.037,,1,HARD+MEDIUM,8,34.1,38.30,18.6,52.5,0
+2026,3,Japanese Grand Prix,Suzuka,f,Pierre GASLY,GAS,Alpine,10,7,7,6.00,f,f,53,53,47,94.619,93.691,32.340,,1,HARD+MEDIUM,6,34.1,38.30,18.6,52.5,0
+2026,3,Japanese Grand Prix,Suzuka,f,Max VERSTAPPEN,VER,Red Bull Racing,3,11,8,4.00,f,f,53,53,47,94.752,93.552,32.677,,1,HARD+MEDIUM,9,34.1,38.30,18.6,52.5,0
+2026,3,Japanese Grand Prix,Suzuka,f,Liam LAWSON,LAW,Racing Bulls,30,14,9,2.00,f,f,53,53,46,94.947,94.230,50.180,,1,HARD+MEDIUM,49,34.1,38.30,18.6,52.5,0
+2026,3,Japanese Grand Prix,Suzuka,f,Esteban OCON,OCO,Haas F1 Team,31,12,10,1.00,f,f,53,53,44,94.910,94.256,51.216,,1,HARD+MEDIUM,12,34.1,38.30,18.6,52.5,0
+2026,3,Japanese Grand Prix,Suzuka,f,Nico HULKENBERG,HUL,Audi,27,13,11,0.00,f,f,53,53,46,95.667,93.732,52.280,,1,HARD+MEDIUM,17,34.1,38.30,18.6,52.5,0
+2026,3,Japanese Grand Prix,Suzuka,f,Isack HADJAR,HAD,Red Bull Racing,6,8,12,0.00,f,f,53,53,44,95.777,93.837,56.154,,1,HARD+MEDIUM,11,34.1,38.30,18.6,52.5,0
+2026,3,Japanese Grand Prix,Suzuka,f,Gabriel BORTOLETO,BOR,Audi,5,9,13,0.00,f,f,53,53,46,95.827,94.164,59.078,,1,HARD+MEDIUM,13,34.1,38.30,18.6,52.5,0
+2026,3,Japanese Grand Prix,Suzuka,f,Arvid LINDBLAD,LIN,Racing Bulls,41,10,14,0.00,f,f,53,53,44,95.433,94.314,59.848,,1,HARD+MEDIUM,8,34.1,38.30,18.6,52.5,0
+2026,3,Japanese Grand Prix,Suzuka,f,Carlos SAINZ,SAI,Williams,55,16,15,0.00,f,f,53,53,46,96.128,94.514,65.008,,1,HARD+MEDIUM,9,34.1,38.30,18.6,52.5,0
+2026,3,Japanese Grand Prix,Suzuka,f,Franco COLAPINTO,COL,Alpine,43,15,16,0.00,f,f,53,53,44,95.648,94.512,65.773,,1,HARD+MEDIUM,8,34.1,38.30,18.6,52.5,0
+2026,3,Japanese Grand Prix,Suzuka,f,Sergio PEREZ,PER,Cadillac,11,19,17,0.00,f,f,53,53,46,96.593,95.637,92.453,,1,HARD+MEDIUM,5,34.1,38.30,18.6,52.5,0
+2026,3,Japanese Grand Prix,Suzuka,f,Fernando ALONSO,ALO,Aston Martin,14,21,18,0.00,f,f,52,52,45,97.909,96.221,,1,2,HARD+MEDIUM,4,34.1,38.30,18.6,52.5,0
+2026,3,Japanese Grand Prix,Suzuka,f,Valtteri BOTTAS,BOT,Cadillac,77,20,19,0.00,f,f,52,52,44,97.761,96.269,,1,1,HARD+MEDIUM,5,34.1,38.30,18.6,52.5,0
+2026,3,Japanese Grand Prix,Suzuka,f,Alexander ALBON,ALB,Williams,23,17,20,0.00,f,f,51,51,38,96.771,93.427,,2,6,HARD+MEDIUM+SOFT,7,34.1,38.30,18.6,52.5,0
+2026,3,Japanese Grand Prix,Suzuka,f,Oliver BEARMAN,BEA,Haas F1 Team,87,18,,0.00,t,f,20,20,18,96.714,95.604,,,1,HARD+MEDIUM,7,34.1,38.30,18.6,52.5,0
+2026,3,Japanese Grand Prix,Suzuka,f,Lance STROLL,STR,Aston Martin,18,22,,0.00,t,f,30,30,23,98.426,97.217,,,2,HARD+MEDIUM,4,34.1,38.30,18.6,52.5,0
+2026,6,Miami Grand Prix,Miami,t,Kimi ANTONELLI,ANT,Mercedes,12,1,1,25.00,f,f,57,57,45,92.496,91.968,0.000,,1,HARD+MEDIUM,8,37.0,42.30,27.1,70.4,1
+2026,6,Miami Grand Prix,Miami,t,Lando NORRIS,NOR,McLaren,1,4,2,18.00,f,f,57,57,45,92.662,91.869,3.264,,1,HARD+MEDIUM,6,37.0,42.30,27.1,70.4,1
+2026,6,Miami Grand Prix,Miami,t,Oscar PIASTRI,PIA,McLaren,81,7,3,15.00,f,f,57,57,45,93.246,91.949,27.092,,1,HARD+MEDIUM,14,37.0,42.30,27.1,70.4,1
+2026,6,Miami Grand Prix,Miami,t,George RUSSELL,RUS,Mercedes,63,5,4,12.00,f,f,57,57,44,93.459,92.446,43.051,,1,HARD+MEDIUM,17,37.0,42.30,27.1,70.4,1
+2026,6,Miami Grand Prix,Miami,t,Max VERSTAPPEN,VER,Red Bull Racing,3,2,5,10.00,f,f,57,57,47,93.582,93.110,48.949,,1,HARD+MEDIUM,27,37.0,42.30,27.1,70.4,1
+2026,6,Miami Grand Prix,Miami,t,Lewis HAMILTON,HAM,Ferrari,44,6,6,8.00,f,f,57,57,45,93.669,92.676,53.753,,1,HARD+MEDIUM,9,37.0,42.30,27.1,70.4,1
+2026,6,Miami Grand Prix,Miami,t,Franco COLAPINTO,COL,Alpine,43,8,7,6.00,f,f,57,57,45,93.951,93.035,61.871,,1,HARD+MEDIUM,10,37.0,42.30,27.1,70.4,1
+2026,6,Miami Grand Prix,Miami,t,Charles LECLERC,LEC,Ferrari,16,3,8,4.00,f,f,57,57,45,92.993,92.515,64.245,,1,HARD+MEDIUM,15,37.0,42.30,27.1,70.4,1
+2026,6,Miami Grand Prix,Miami,t,Carlos SAINZ,SAI,Williams,55,13,9,2.00,f,f,57,57,45,94.234,93.026,82.072,,1,HARD+MEDIUM,16,37.0,42.30,27.1,70.4,1
+2026,6,Miami Grand Prix,Miami,t,Alexander ALBON,ALB,Williams,23,15,10,1.00,f,f,57,57,45,94.366,93.784,90.972,,1,HARD+MEDIUM,14,37.0,42.30,27.1,70.4,1
+2026,6,Miami Grand Prix,Miami,t,Oliver BEARMAN,BEA,Haas F1 Team,87,12,11,0.00,f,f,56,56,44,94.603,93.744,,1,1,HARD+MEDIUM,13,37.0,42.30,27.1,70.4,1
+2026,6,Miami Grand Prix,Miami,t,Gabriel BORTOLETO,BOR,Audi,5,21,12,0.00,f,f,56,56,44,94.942,93.500,,1,1,HARD+MEDIUM,18,37.0,42.30,27.1,70.4,1
+2026,6,Miami Grand Prix,Miami,t,Esteban OCON,OCO,Haas F1 Team,31,14,13,0.00,f,f,56,56,44,94.984,93.712,,1,1,HARD+MEDIUM,14,37.0,42.30,27.1,70.4,1
+2026,6,Miami Grand Prix,Miami,t,Arvid LINDBLAD,LIN,Racing Bulls,41,16,14,0.00,f,f,56,56,43,95.071,94.058,,1,1,HARD+MEDIUM,13,37.0,42.30,27.1,70.4,1
+2026,6,Miami Grand Prix,Miami,t,Fernando ALONSO,ALO,Aston Martin,14,17,15,0.00,f,f,56,56,44,96.388,93.512,,1,1,MEDIUM+SOFT,16,37.0,42.30,27.1,70.4,1
+2026,6,Miami Grand Prix,Miami,t,Sergio PEREZ,PER,Cadillac,11,20,16,0.00,f,f,56,56,44,96.421,94.895,,1,1,HARD+MEDIUM,17,37.0,42.30,27.1,70.4,1
+2026,6,Miami Grand Prix,Miami,t,Lance STROLL,STR,Aston Martin,18,18,17,0.00,f,f,56,56,42,95.796,94.716,,1,2,MEDIUM+SOFT,9,37.0,42.30,27.1,70.4,1
+2026,6,Miami Grand Prix,Miami,t,Valtteri BOTTAS,BOT,Cadillac,77,19,18,0.00,f,f,55,55,41,97.641,96.080,,2,3,MEDIUM+SOFT,8,37.0,42.30,27.1,70.4,1
+2026,6,Miami Grand Prix,Miami,t,Isack HADJAR,HAD,Red Bull Racing,6,,,0.00,t,f,4,4,4,95.628,94.833,,,,HARD,7,37.0,42.30,27.1,70.4,1
+2026,6,Miami Grand Prix,Miami,t,Pierre GASLY,GAS,Alpine,10,9,,0.00,t,f,4,4,4,95.311,94.856,,,,MEDIUM,5,37.0,42.30,27.1,70.4,1
+2026,6,Miami Grand Prix,Miami,t,Nico HULKENBERG,HUL,Audi,27,10,,0.00,t,f,7,7,2,94.727,94.523,,,1,MEDIUM,5,37.0,42.30,27.1,70.4,1
+2026,6,Miami Grand Prix,Miami,t,Liam LAWSON,LAW,Racing Bulls,30,11,,0.00,t,f,6,6,4,96.132,94.814,,,,MEDIUM,6,37.0,42.30,27.1,70.4,1
+2026,7,Canadian Grand Prix,Montreal,t,Kimi ANTONELLI,ANT,Mercedes,12,2,1,25.00,f,f,68,68,57,75.559,74.210,0.000,,1,MEDIUM+SOFT,8,17.8,19.10,12.8,71.7,0
+2026,7,Canadian Grand Prix,Montreal,t,Lewis HAMILTON,HAM,Ferrari,44,5,2,18.00,f,f,68,68,56,75.972,74.646,10.768,,1,MEDIUM+SOFT,4,17.8,19.10,12.8,71.7,0
+2026,7,Canadian Grand Prix,Montreal,t,Max VERSTAPPEN,VER,Red Bull Racing,3,6,3,15.00,f,f,68,68,56,76.047,74.398,11.276,,1,MEDIUM+SOFT,4,17.8,19.10,12.8,71.7,0
+2026,7,Canadian Grand Prix,Montreal,t,Charles LECLERC,LEC,Ferrari,16,8,4,12.00,f,f,68,68,57,76.279,75.297,44.151,,1,MEDIUM+SOFT,6,17.8,19.10,12.8,71.7,0
+2026,7,Canadian Grand Prix,Montreal,t,Isack HADJAR,HAD,Red Bull Racing,6,7,5,10.00,f,f,67,67,54,76.320,74.578,,1,3,MEDIUM+SOFT,5,17.8,19.10,12.8,71.7,0
+2026,7,Canadian Grand Prix,Montreal,t,Franco COLAPINTO,COL,Alpine,43,10,6,8.00,f,f,67,67,54,77.068,75.462,,1,1,HARD+MEDIUM,4,17.8,19.10,12.8,71.7,0
+2026,7,Canadian Grand Prix,Montreal,t,Liam LAWSON,LAW,Racing Bulls,30,12,7,6.00,f,f,67,67,54,77.509,75.604,,1,1,MEDIUM+SOFT,6,17.8,19.10,12.8,71.7,0
+2026,7,Canadian Grand Prix,Montreal,t,Pierre GASLY,GAS,Alpine,10,14,8,4.00,f,f,67,67,55,77.419,75.390,,1,1,HARD+MEDIUM,16,17.8,19.10,12.8,71.7,0
+2026,7,Canadian Grand Prix,Montreal,t,Carlos SAINZ,SAI,Williams,55,15,9,2.00,f,f,67,67,53,77.140,75.852,,1,2,INTERMEDIATE+MEDIUM,18,17.8,19.10,12.8,71.7,0
+2026,7,Canadian Grand Prix,Montreal,t,Oliver BEARMAN,BEA,Haas F1 Team,87,16,10,1.00,f,f,67,67,55,77.425,76.002,,1,1,MEDIUM+SOFT,14,17.8,19.10,12.8,71.7,0
+2026,7,Canadian Grand Prix,Montreal,t,Oscar PIASTRI,PIA,McLaren,81,4,11,0.00,f,f,66,66,52,76.997,75.456,,2,3,INTERMEDIATE+MEDIUM+SOFT,20,17.8,19.10,12.8,71.7,0
+2026,7,Canadian Grand Prix,Montreal,t,Nico HULKENBERG,HUL,Audi,27,11,12,0.00,f,f,66,66,49,77.186,76.275,,2,2,INTERMEDIATE+MEDIUM+SOFT,14,17.8,19.10,12.8,71.7,0
+2026,7,Canadian Grand Prix,Montreal,t,Gabriel BORTOLETO,BOR,Audi,5,13,13,0.00,f,f,66,66,50,77.589,76.221,,2,2,INTERMEDIATE+MEDIUM+SOFT,14,17.8,19.10,12.8,71.7,0
+2026,7,Canadian Grand Prix,Montreal,t,Esteban OCON,OCO,Haas F1 Team,31,17,14,0.00,f,f,66,66,52,78.563,76.577,,2,2,MEDIUM+SOFT,17,17.8,19.10,12.8,71.7,0
+2026,7,Canadian Grand Prix,Montreal,t,Lance STROLL,STR,Aston Martin,18,21,15,0.00,f,f,64,64,49,80.571,78.721,,4,2,MEDIUM+SOFT,14,17.8,19.10,12.8,71.7,0
+2026,7,Canadian Grand Prix,Montreal,t,Valtteri BOTTAS,BOT,Cadillac,77,22,16,0.00,f,f,64,64,48,79.511,77.725,,4,4,INTERMEDIATE+MEDIUM+SOFT,13,17.8,19.10,12.8,71.7,0
+2026,7,Canadian Grand Prix,Montreal,t,Fernando ALONSO,ALO,Aston Martin,14,19,,0.00,t,f,23,23,17,80.619,79.635,,,1,SOFT,16,17.8,19.10,12.8,71.7,0
+2026,7,Canadian Grand Prix,Montreal,t,Sergio PEREZ,PER,Cadillac,11,20,,0.00,t,f,39,39,28,78.579,76.915,,,3,INTERMEDIATE+MEDIUM+SOFT,13,17.8,19.10,12.8,71.7,0
+2026,7,Canadian Grand Prix,Montreal,t,Arvid LINDBLAD,LIN,Racing Bulls,41,9,,0.00,f,f,0,,,,,,,,MEDIUM,,17.8,19.10,12.8,71.7,0
+2026,7,Canadian Grand Prix,Montreal,t,Lando NORRIS,NOR,McLaren,1,3,,0.00,t,f,38,38,27,77.029,75.845,,,2,INTERMEDIATE+MEDIUM,15,17.8,19.10,12.8,71.7,0
+2026,7,Canadian Grand Prix,Montreal,t,George RUSSELL,RUS,Mercedes,63,1,,0.00,t,f,29,29,26,76.297,75.477,,,,SOFT,7,17.8,19.10,12.8,71.7,0
+2026,7,Canadian Grand Prix,Montreal,t,Alexander ALBON,ALB,Williams,23,18,,0.00,t,f,11,11,11,79.217,77.221,,,,SOFT,15,17.8,19.10,12.8,71.7,0
+2026,8,Monaco Grand Prix,Monte Carlo,f,Kimi ANTONELLI,ANT,Mercedes,12,1,1,25.00,f,f,78,78,64,76.647,73.481,0.000,,4,HARD+MEDIUM+SOFT,,38.0,46.00,23.7,62.2,0
+2026,8,Monaco Grand Prix,Monte Carlo,f,Lewis HAMILTON,HAM,Ferrari,44,3,2,18.00,f,f,78,78,64,77.010,74.643,6.271,,5,HARD+MEDIUM+SOFT,2,38.0,46.00,23.7,62.2,0
+2026,8,Monaco Grand Prix,Monte Carlo,f,Pierre GASLY,GAS,Alpine,10,9,3,15.00,f,f,78,78,63,78.386,75.497,20.369,,4,HARD+MEDIUM+SOFT,8,38.0,46.00,23.7,62.2,0
+2026,8,Monaco Grand Prix,Monte Carlo,f,Isack HADJAR,HAD,Red Bull Racing,6,5,4,12.00,f,f,78,78,63,77.890,75.669,23.394,,4,HARD+MEDIUM+SOFT,8,38.0,46.00,23.7,62.2,0
+2026,8,Monaco Grand Prix,Monte Carlo,f,Oscar PIASTRI,PIA,McLaren,81,7,5,10.00,f,f,78,78,63,78.230,75.816,24.261,,5,HARD+MEDIUM+SOFT,6,38.0,46.00,23.7,62.2,0
+2026,8,Monaco Grand Prix,Monte Carlo,f,Liam LAWSON,LAW,Racing Bulls,30,10,6,8.00,f,f,78,78,62,78.710,75.754,26.553,,4,MEDIUM+SOFT,5,38.0,46.00,23.7,62.2,0
+2026,8,Monaco Grand Prix,Monte Carlo,f,Arvid LINDBLAD,LIN,Racing Bulls,41,15,7,6.00,f,f,78,78,64,79.226,75.908,29.010,,4,MEDIUM+SOFT,12,38.0,46.00,23.7,62.2,0
+2026,8,Monaco Grand Prix,Monte Carlo,f,Alexander ALBON,ALB,Williams,23,11,8,4.00,f,f,78,78,62,79.132,76.393,33.413,,5,MEDIUM+SOFT,8,38.0,46.00,23.7,62.2,0
+2026,8,Monaco Grand Prix,Monte Carlo,f,Esteban OCON,OCO,Haas F1 Team,31,17,9,2.00,f,f,78,78,62,79.373,76.914,37.140,,5,HARD+MEDIUM+SOFT,10,38.0,46.00,23.7,62.2,0
+2026,8,Monaco Grand Prix,Monte Carlo,f,Fernando ALONSO,ALO,Aston Martin,14,21,10,1.00,f,f,78,78,62,79.313,77.120,41.899,,6,MEDIUM+SOFT,10,38.0,46.00,23.7,62.2,0
+2026,8,Monaco Grand Prix,Monte Carlo,f,Gabriel BORTOLETO,BOR,Audi,5,16,11,0.00,f,f,78,78,60,79.102,76.803,42.748,,7,HARD+MEDIUM+SOFT,9,38.0,46.00,23.7,62.2,0
+2026,8,Monaco Grand Prix,Monte Carlo,f,George RUSSELL,RUS,Mercedes,63,6,12,0.00,f,f,78,78,61,77.905,75.773,43.353,,5,HARD+MEDIUM+SOFT,7,38.0,46.00,23.7,62.2,0
+2026,8,Monaco Grand Prix,Monte Carlo,f,Nico HULKENBERG,HUL,Audi,27,13,13,0.00,f,f,78,78,62,79.659,76.332,44.102,,6,HARD+MEDIUM+SOFT,8,38.0,46.00,23.7,62.2,0
+2026,8,Monaco Grand Prix,Monte Carlo,f,Franco COLAPINTO,COL,Alpine,43,14,14,0.00,f,f,78,78,62,79.475,76.316,48.964,,5,HARD+MEDIUM+SOFT,6,38.0,46.00,23.7,62.2,0
+2026,8,Monaco Grand Prix,Monte Carlo,f,Sergio PEREZ,PER,Cadillac,11,18,15,0.00,f,f,78,78,59,79.656,76.891,49.153,,6,MEDIUM+SOFT,10,38.0,46.00,23.7,62.2,0
+2026,8,Monaco Grand Prix,Monte Carlo,f,Carlos SAINZ,SAI,Williams,55,12,16,0.00,t,f,70,70,55,79.211,78.022,,,5,MEDIUM+SOFT,5,38.0,46.00,23.7,62.2,0
+2026,8,Monaco Grand Prix,Monte Carlo,f,Lando NORRIS,NOR,McLaren,1,8,,0.00,t,f,43,43,42,78.471,77.670,,,,MEDIUM,3,38.0,46.00,23.7,62.2,0
+2026,8,Monaco Grand Prix,Monte Carlo,f,Oliver BEARMAN,BEA,Haas F1 Team,87,19,,0.00,t,f,27,27,25,80.485,78.475,,,1,HARD+MEDIUM,3,38.0,46.00,23.7,62.2,0
+2026,8,Monaco Grand Prix,Monte Carlo,f,Lance STROLL,STR,Aston Martin,18,22,,0.00,t,f,56,56,53,79.331,78.845,,,1,MEDIUM+SOFT,7,38.0,46.00,23.7,62.2,0
+2026,8,Monaco Grand Prix,Monte Carlo,f,Valtteri BOTTAS,BOT,Cadillac,77,20,,0.00,t,f,15,15,13,81.293,80.494,,,1,MEDIUM+SOFT,3,38.0,46.00,23.7,62.2,0
+2026,8,Monaco Grand Prix,Monte Carlo,f,Max VERSTAPPEN,VER,Red Bull Racing,3,2,,0.00,t,f,0,,,,,,,,MEDIUM,,38.0,46.00,23.7,62.2,0
+2026,8,Monaco Grand Prix,Monte Carlo,f,Charles LECLERC,LEC,Ferrari,16,4,,0.00,t,f,64,64,56,77.046,75.964,,,3,HARD+MEDIUM+SOFT,2,38.0,46.00,23.7,62.2,0
+2026,9,Barcelona Grand Prix,Catalunya,f,Lewis HAMILTON,HAM,Ferrari,44,2,1,25.00,f,f,66,66,56,81.410,80.122,0.000,,3,HARD+MEDIUM+SOFT,11,50.3,52.30,30.5,28.9,0
+2026,9,Barcelona Grand Prix,Catalunya,f,George RUSSELL,RUS,Mercedes,63,1,2,18.00,f,f,66,66,55,82.271,80.640,19.561,,2,HARD+MEDIUM,6,50.3,52.30,30.5,28.9,0
+2026,9,Barcelona Grand Prix,Catalunya,f,Lando NORRIS,NOR,McLaren,1,4,3,15.00,f,f,66,66,55,82.354,80.232,23.719,,2,HARD+MEDIUM,8,50.3,52.30,30.5,28.9,0
+2026,9,Barcelona Grand Prix,Catalunya,f,Max VERSTAPPEN,VER,Red Bull Racing,3,5,4,12.00,f,f,66,66,57,82.121,80.230,40.497,,3,HARD+MEDIUM+SOFT,12,50.3,52.30,30.5,28.9,0
+2026,9,Barcelona Grand Prix,Catalunya,f,Oscar PIASTRI,PIA,McLaren,81,7,5,10.00,f,f,66,66,57,82.851,80.835,58.661,,2,HARD+MEDIUM,12,50.3,52.30,30.5,28.9,0
+2026,9,Barcelona Grand Prix,Catalunya,f,Isack HADJAR,HAD,Red Bull Racing,6,6,6,8.00,f,f,65,65,53,83.002,80.150,,1,3,HARD+MEDIUM+SOFT,18,50.3,52.30,30.5,28.9,0
+2026,9,Barcelona Grand Prix,Catalunya,f,Pierre GASLY,GAS,Alpine,10,14,7,6.00,f,f,65,65,57,84.303,81.708,,1,2,HARD+MEDIUM,19,50.3,52.30,30.5,28.9,0
+2026,9,Barcelona Grand Prix,Catalunya,f,Liam LAWSON,LAW,Racing Bulls,30,8,8,4.00,f,f,65,65,56,84.390,82.691,,1,2,HARD+MEDIUM,14,50.3,52.30,30.5,28.9,0
+2026,9,Barcelona Grand Prix,Catalunya,f,Arvid LINDBLAD,LIN,Racing Bulls,41,11,9,2.00,f,f,65,65,56,84.285,81.914,,1,2,HARD+MEDIUM,22,50.3,52.30,30.5,28.9,0
+2026,9,Barcelona Grand Prix,Catalunya,f,Franco COLAPINTO,COL,Alpine,43,13,10,1.00,f,f,65,65,55,84.333,82.449,,1,2,HARD+SOFT,17,50.3,52.30,30.5,28.9,0
+2026,9,Barcelona Grand Prix,Catalunya,f,Gabriel BORTOLETO,BOR,Audi,5,12,11,0.00,f,f,64,64,52,84.195,81.446,,2,3,HARD+MEDIUM+SOFT,23,50.3,52.30,30.5,28.9,0
+2026,9,Barcelona Grand Prix,Catalunya,f,Carlos SAINZ,SAI,Williams,55,16,12,0.00,f,f,64,64,53,84.599,82.061,,2,3,HARD+MEDIUM+SOFT,19,50.3,52.30,30.5,28.9,0
+2026,9,Barcelona Grand Prix,Catalunya,f,Esteban OCON,OCO,Haas F1 Team,31,17,13,0.00,f,f,64,64,52,84.983,81.643,,2,3,HARD+MEDIUM+SOFT,18,50.3,52.30,30.5,28.9,0
+2026,9,Barcelona Grand Prix,Catalunya,f,Sergio PEREZ,PER,Cadillac,11,19,14,0.00,f,f,63,63,52,85.721,82.820,,3,3,HARD+MEDIUM+SOFT,12,50.3,52.30,30.5,28.9,0
+2026,9,Barcelona Grand Prix,Catalunya,f,Charles LECLERC,LEC,Ferrari,16,10,15,0.00,t,f,62,62,56,82.752,80.379,,,2,HARD+MEDIUM,15,50.3,52.30,30.5,28.9,0
+2026,9,Barcelona Grand Prix,Catalunya,f,Kimi ANTONELLI,ANT,Mercedes,12,3,16,0.00,t,f,61,61,54,82.141,80.704,,,2,HARD+MEDIUM,7,50.3,52.30,30.5,28.9,0
+2026,9,Barcelona Grand Prix,Catalunya,f,Oliver BEARMAN,BEA,Haas F1 Team,87,15,17,0.00,t,f,60,60,55,84.737,82.419,,,2,HARD+MEDIUM+SOFT,23,50.3,52.30,30.5,28.9,0
+2026,9,Barcelona Grand Prix,Catalunya,f,Alexander ALBON,ALB,Williams,23,18,,0.00,f,f,55,55,45,85.217,81.744,,11,4,HARD+MEDIUM+SOFT,12,50.3,52.30,30.5,28.9,0
+2026,9,Barcelona Grand Prix,Catalunya,f,Valtteri BOTTAS,BOT,Cadillac,77,20,,0.00,t,f,15,15,13,87.170,85.745,,,1,HARD+MEDIUM,5,50.3,52.30,30.5,28.9,0
+2026,9,Barcelona Grand Prix,Catalunya,f,Nico HULKENBERG,HUL,Audi,27,9,,0.00,t,f,29,29,27,84.773,83.447,,,1,HARD+SOFT,11,50.3,52.30,30.5,28.9,0
+2026,9,Barcelona Grand Prix,Catalunya,f,Lance STROLL,STR,Aston Martin,18,21,,0.00,t,f,5,5,5,86.430,85.904,,,,HARD,,50.3,52.30,30.5,28.9,0
+2026,9,Barcelona Grand Prix,Catalunya,f,Fernando ALONSO,ALO,Aston Martin,14,22,,0.00,t,f,37,37,35,86.333,85.366,,,1,HARD,12,50.3,52.30,30.5,28.9,0
+2026,10,Austrian Grand Prix,Spielberg,f,George RUSSELL,RUS,Mercedes,63,1,1,25.00,f,f,71,71,62,71.662,70.683,0.000,,2,HARD+MEDIUM,4,50.2,53.30,34.5,29.8,0
+2026,10,Austrian Grand Prix,Spielberg,f,Max VERSTAPPEN,VER,Red Bull Racing,3,5,2,18.00,f,f,71,71,62,71.798,70.483,1.611,,2,HARD+MEDIUM,12,50.2,53.30,34.5,29.8,0
+2026,10,Austrian Grand Prix,Spielberg,f,Kimi ANTONELLI,ANT,Mercedes,12,4,3,15.00,f,f,71,71,65,71.723,70.374,1.986,,2,HARD+MEDIUM,9,50.2,53.30,34.5,29.8,0
+2026,10,Austrian Grand Prix,Spielberg,f,Oscar PIASTRI,PIA,McLaren,81,7,4,12.00,f,f,71,71,63,71.937,70.595,21.809,,2,HARD+MEDIUM,11,50.2,53.30,34.5,29.8,0
+2026,10,Austrian Grand Prix,Spielberg,f,Lewis HAMILTON,HAM,Ferrari,44,3,5,10.00,f,f,71,71,63,71.927,70.946,26.393,,3,HARD+MEDIUM+SOFT,18,50.2,53.30,34.5,29.8,0
+2026,10,Austrian Grand Prix,Spielberg,f,Isack HADJAR,HAD,Red Bull Racing,6,8,6,8.00,f,f,71,71,63,72.187,70.947,29.399,,2,HARD+MEDIUM,12,50.2,53.30,34.5,29.8,0
+2026,10,Austrian Grand Prix,Spielberg,f,Lando NORRIS,NOR,McLaren,1,6,7,6.00,f,f,71,71,63,72.078,70.652,31.505,,2,HARD+MEDIUM,12,50.2,53.30,34.5,29.8,0
+2026,10,Austrian Grand Prix,Spielberg,f,Charles LECLERC,LEC,Ferrari,16,2,8,4.00,f,f,71,71,61,71.995,70.606,45.659,,3,HARD+MEDIUM+SOFT,14,50.2,53.30,34.5,29.8,0
+2026,10,Austrian Grand Prix,Spielberg,f,Liam LAWSON,LAW,Racing Bulls,30,9,9,2.00,f,f,70,70,61,73.068,71.547,,1,2,HARD+MEDIUM,10,50.2,53.30,34.5,29.8,0
+2026,10,Austrian Grand Prix,Spielberg,f,Arvid LINDBLAD,LIN,Racing Bulls,41,10,10,1.00,f,f,70,70,61,72.963,71.587,,1,2,HARD+MEDIUM,8,50.2,53.30,34.5,29.8,0
+2026,10,Austrian Grand Prix,Spielberg,f,Gabriel BORTOLETO,BOR,Audi,5,12,11,0.00,f,f,70,70,61,73.252,71.866,,1,2,HARD+MEDIUM+SOFT,10,50.2,53.30,34.5,29.8,0
+2026,10,Austrian Grand Prix,Spielberg,f,Nico HULKENBERG,HUL,Audi,27,14,12,0.00,f,f,70,70,61,72.988,71.634,,1,2,HARD+MEDIUM,13,50.2,53.30,34.5,29.8,0
+2026,10,Austrian Grand Prix,Spielberg,f,Pierre GASLY,GAS,Alpine,10,11,13,0.00,f,f,70,70,61,73.001,71.466,,1,3,HARD+MEDIUM+SOFT,11,50.2,53.30,34.5,29.8,0
+2026,10,Austrian Grand Prix,Spielberg,f,Oliver BEARMAN,BEA,Haas F1 Team,87,13,14,0.00,f,f,70,70,64,73.592,72.207,,1,2,HARD+MEDIUM,9,50.2,53.30,34.5,29.8,0
+2026,10,Austrian Grand Prix,Spielberg,f,Franco COLAPINTO,COL,Alpine,43,16,15,0.00,f,f,70,70,62,73.587,71.795,,1,2,HARD+MEDIUM,17,50.2,53.30,34.5,29.8,0
+2026,10,Austrian Grand Prix,Spielberg,f,Esteban OCON,OCO,Haas F1 Team,31,15,16,0.00,f,f,69,69,62,73.867,72.979,,2,2,HARD+MEDIUM,16,50.2,53.30,34.5,29.8,0
+2026,10,Austrian Grand Prix,Spielberg,f,Alexander ALBON,ALB,Williams,23,18,17,0.00,f,f,69,69,61,74.202,73.137,,2,2,HARD+MEDIUM,18,50.2,53.30,34.5,29.8,0
+2026,10,Austrian Grand Prix,Spielberg,f,Fernando ALONSO,ALO,Aston Martin,14,21,18,0.00,f,f,68,68,63,75.128,72.501,,3,2,MEDIUM+SOFT,12,50.2,53.30,34.5,29.8,0
+2026,10,Austrian Grand Prix,Spielberg,f,Valtteri BOTTAS,BOT,Cadillac,77,20,,0.00,t,f,2,2,2,86.105,84.462,,,,MEDIUM,3,50.2,53.30,34.5,29.8,0
+2026,10,Austrian Grand Prix,Spielberg,f,Carlos SAINZ,SAI,Williams,55,17,,0.00,t,f,23,23,21,74.303,73.694,,,1,MEDIUM+SOFT,9,50.2,53.30,34.5,29.8,0
+2026,10,Austrian Grand Prix,Spielberg,f,Sergio PEREZ,PER,Cadillac,11,19,,0.00,t,f,4,4,4,79.219,74.448,,,,MEDIUM,4,50.2,53.30,34.5,29.8,0
+2026,10,Austrian Grand Prix,Spielberg,f,Lance STROLL,STR,Aston Martin,18,22,,0.00,t,f,45,45,42,75.470,73.796,,,1,MEDIUM+SOFT,10,50.2,53.30,34.5,29.8,0
+2026,11,British Grand Prix,Silverstone,f,Charles LECLERC,LEC,Ferrari,16,2,1,25.00,f,f,52,52,32,94.194,92.951,0.000,,2,HARD+MEDIUM+SOFT,2,40.0,43.80,24.8,49.9,0
+2026,11,British Grand Prix,Silverstone,f,George RUSSELL,RUS,Mercedes,63,4,2,18.00,f,f,52,52,30,94.573,92.489,0.427,,2,HARD+MEDIUM,12,40.0,43.80,24.8,49.9,0
+2026,11,British Grand Prix,Silverstone,f,Lewis HAMILTON,HAM,Ferrari,44,3,3,15.00,f,f,52,52,32,94.624,92.309,0.772,,2,HARD+MEDIUM+SOFT,8,40.0,43.80,24.8,49.9,0
+2026,11,British Grand Prix,Silverstone,f,Lando NORRIS,NOR,McLaren,1,6,4,12.00,f,f,52,52,32,94.808,92.901,1.149,,3,HARD+MEDIUM+SOFT,12,40.0,43.80,24.8,49.9,0
+2026,11,British Grand Prix,Silverstone,f,Isack HADJAR,HAD,Red Bull Racing,6,5,5,10.00,f,f,52,52,31,94.877,93.941,1.598,,3,HARD+MEDIUM+SOFT,8,40.0,43.80,24.8,49.9,0
+2026,11,British Grand Prix,Silverstone,f,Liam LAWSON,LAW,Racing Bulls,30,10,6,8.00,f,f,52,52,32,95.698,93.857,2.023,,2,HARD+MEDIUM+SOFT,6,40.0,43.80,24.8,49.9,0
+2026,11,British Grand Prix,Silverstone,f,Arvid LINDBLAD,LIN,Racing Bulls,41,9,7,6.00,f,f,52,52,31,95.751,93.632,2.214,,2,HARD+MEDIUM+SOFT,7,40.0,43.80,24.8,49.9,0
+2026,11,British Grand Prix,Silverstone,f,Gabriel BORTOLETO,BOR,Audi,5,11,8,4.00,f,f,52,52,31,95.766,93.650,2.413,,2,HARD+MEDIUM+SOFT,9,40.0,43.80,24.8,49.9,0
+2026,11,British Grand Prix,Silverstone,f,Franco COLAPINTO,COL,Alpine,43,19,9,2.00,f,f,52,52,31,96.072,94.281,3.229,,2,HARD+MEDIUM+SOFT,12,40.0,43.80,24.8,49.9,0
+2026,11,British Grand Prix,Silverstone,f,Pierre GASLY,GAS,Alpine,10,12,10,1.00,f,f,52,52,30,96.006,94.437,3.445,,2,HARD+MEDIUM+SOFT,15,40.0,43.80,24.8,49.9,0
+2026,11,British Grand Prix,Silverstone,f,Oscar PIASTRI,PIA,McLaren,81,8,11,0.00,f,f,52,52,31,95.224,94.363,4.014,,3,HARD+MEDIUM+SOFT,18,40.0,43.80,24.8,49.9,0
+2026,11,British Grand Prix,Silverstone,f,Oliver BEARMAN,BEA,Haas F1 Team,87,14,12,0.00,f,f,52,52,31,96.996,94.455,5.245,,2,HARD+MEDIUM+SOFT,17,40.0,43.80,24.8,49.9,0
+2026,11,British Grand Prix,Silverstone,f,Esteban OCON,OCO,Haas F1 Team,31,17,13,0.00,f,f,52,52,32,96.693,95.142,5.512,,2,HARD+MEDIUM+SOFT,16,40.0,43.80,24.8,49.9,0
+2026,11,British Grand Prix,Silverstone,f,Sergio PEREZ,PER,Cadillac,11,20,14,0.00,f,f,52,52,32,97.049,95.661,7.403,,2,HARD+MEDIUM+SOFT,14,40.0,43.80,24.8,49.9,0
+2026,11,British Grand Prix,Silverstone,f,Kimi ANTONELLI,ANT,Mercedes,12,1,15,0.00,f,f,52,52,32,94.072,91.777,8.005,,3,HARD+MEDIUM,4,40.0,43.80,24.8,49.9,0
+2026,11,British Grand Prix,Silverstone,f,Valtteri BOTTAS,BOT,Cadillac,77,18,16,0.00,f,f,52,52,31,97.759,95.893,8.162,,2,HARD+MEDIUM+SOFT,10,40.0,43.80,24.8,49.9,0
+2026,11,British Grand Prix,Silverstone,f,Carlos SAINZ,SAI,Williams,55,15,17,0.00,f,f,51,52,32,96.560,94.923,,1,2,HARD+MEDIUM+SOFT,19,40.0,43.80,24.8,49.9,0
+2026,11,British Grand Prix,Silverstone,f,Fernando ALONSO,ALO,Aston Martin,14,22,18,0.00,f,f,51,51,31,98.790,97.375,,1,2,HARD+MEDIUM+SOFT,7,40.0,43.80,24.8,49.9,0
+2026,11,British Grand Prix,Silverstone,f,Lance STROLL,STR,Aston Martin,18,21,19,0.00,f,f,51,51,30,98.946,97.272,,1,2,HARD+MEDIUM+SOFT,9,40.0,43.80,24.8,49.9,0
+2026,11,British Grand Prix,Silverstone,f,Max VERSTAPPEN,VER,Red Bull Racing,3,7,20,0.00,t,f,46,46,32,94.293,93.562,,,2,HARD+MEDIUM,12,40.0,43.80,24.8,49.9,0
+2026,11,British Grand Prix,Silverstone,f,Alexander ALBON,ALB,Williams,23,16,,0.00,t,f,43,43,27,96.460,94.897,,,5,HARD+MEDIUM+SOFT,1,40.0,43.80,24.8,49.9,0
+2026,11,British Grand Prix,Silverstone,f,Nico HULKENBERG,HUL,Audi,27,13,,0.00,t,f,36,36,29,95.962,93.433,,,2,HARD+MEDIUM+SOFT,14,40.0,43.80,24.8,49.9,0
+2026,12,Belgian Grand Prix,Spa-Francorchamps,f,Kimi ANTONELLI,ANT,Mercedes,12,1,1,25.00,f,f,44,44,35,109.886,109.098,0.000,,1,HARD+MEDIUM+SOFT,6,31.0,37.00,18.0,48.8,0
+2026,12,Belgian Grand Prix,Spa-Francorchamps,f,Charles LECLERC,LEC,Ferrari,16,5,2,18.00,f,f,44,44,36,110.158,109.333,1.952,,1,HARD+MEDIUM,6,31.0,37.00,18.0,48.8,0
+2026,12,Belgian Grand Prix,Spa-Francorchamps,f,Max VERSTAPPEN,VER,Red Bull Racing,3,2,3,15.00,f,f,44,44,35,110.306,109.618,11.586,,1,HARD+MEDIUM,5,31.0,37.00,18.0,48.8,0
+2026,12,Belgian Grand Prix,Spa-Francorchamps,f,Lewis HAMILTON,HAM,Ferrari,44,6,4,12.00,f,f,44,44,36,110.181,109.454,17.245,,1,HARD+MEDIUM,8,31.0,37.00,18.0,48.8,0
+2026,12,Belgian Grand Prix,Spa-Francorchamps,f,Oscar PIASTRI,PIA,McLaren,81,7,5,10.00,f,f,44,44,36,110.647,109.562,18.988,,1,HARD+MEDIUM,8,31.0,37.00,18.0,48.8,0
+2026,12,Belgian Grand Prix,Spa-Francorchamps,f,Isack HADJAR,HAD,Red Bull Racing,6,10,6,8.00,f,f,44,44,36,110.199,109.298,23.307,,3,HARD+MEDIUM,22,31.0,37.00,18.0,48.8,0
+2026,12,Belgian Grand Prix,Spa-Francorchamps,f,Lando NORRIS,NOR,McLaren,1,3,7,6.00,f,f,44,44,34,110.752,108.890,24.014,,1,HARD+MEDIUM,14,31.0,37.00,18.0,48.8,0
+2026,12,Belgian Grand Prix,Spa-Francorchamps,f,Gabriel BORTOLETO,BOR,Audi,5,9,8,4.00,f,f,44,44,36,111.227,110.334,49.140,,1,HARD+MEDIUM,8,31.0,37.00,18.0,48.8,0
+2026,12,Belgian Grand Prix,Spa-Francorchamps,f,Arvid LINDBLAD,LIN,Racing Bulls,41,8,9,2.00,f,f,44,44,35,111.094,110.536,50.406,,1,HARD+MEDIUM,8,31.0,37.00,18.0,48.8,0
+2026,12,Belgian Grand Prix,Spa-Francorchamps,f,Franco COLAPINTO,COL,Alpine,43,13,10,1.00,f,f,44,44,35,111.884,111.162,76.037,,1,HARD+MEDIUM,10,31.0,37.00,18.0,48.8,0
+2026,12,Belgian Grand Prix,Spa-Francorchamps,f,Pierre GASLY,GAS,Alpine,10,12,11,0.00,f,f,44,44,35,111.851,111.101,76.991,,1,HARD+MEDIUM,15,31.0,37.00,18.0,48.8,0
+2026,12,Belgian Grand Prix,Spa-Francorchamps,f,Liam LAWSON,LAW,Racing Bulls,30,11,12,0.00,f,f,44,44,35,111.986,111.075,77.523,,1,HARD+MEDIUM,11,31.0,37.00,18.0,48.8,0
+2026,12,Belgian Grand Prix,Spa-Francorchamps,f,Nico HULKENBERG,HUL,Audi,27,14,13,0.00,f,f,44,44,36,112.081,110.503,78.348,,1,HARD+MEDIUM,9,31.0,37.00,18.0,48.8,0
+2026,12,Belgian Grand Prix,Spa-Francorchamps,f,Oliver BEARMAN,BEA,Haas F1 Team,87,16,14,0.00,f,f,44,44,36,112.086,111.109,94.465,,2,HARD+MEDIUM,15,31.0,37.00,18.0,48.8,0
+2026,12,Belgian Grand Prix,Spa-Francorchamps,f,Alexander ALBON,ALB,Williams,23,17,15,0.00,f,f,44,44,36,112.659,111.894,104.684,,1,HARD+MEDIUM,10,31.0,37.00,18.0,48.8,0
+2026,12,Belgian Grand Prix,Spa-Francorchamps,f,Carlos SAINZ,SAI,Williams,55,15,16,0.00,f,f,44,44,34,112.193,111.363,105.856,,1,HARD+SOFT,10,31.0,37.00,18.0,48.8,0
+2026,12,Belgian Grand Prix,Spa-Francorchamps,f,Esteban OCON,OCO,Haas F1 Team,31,18,17,0.00,f,f,44,44,35,112.442,111.900,110.925,,2,HARD+MEDIUM,12,31.0,37.00,18.0,48.8,0
+2026,12,Belgian Grand Prix,Spa-Francorchamps,f,Valtteri BOTTAS,BOT,Cadillac,77,19,18,0.00,f,f,43,43,34,114.555,112.011,,1,2,HARD+SOFT,8,31.0,37.00,18.0,48.8,0
+2026,12,Belgian Grand Prix,Spa-Francorchamps,f,Fernando ALONSO,ALO,Aston Martin,14,21,19,0.00,f,f,42,42,31,115.810,112.948,,2,2,HARD+SOFT,11,31.0,37.00,18.0,48.8,0
+2026,12,Belgian Grand Prix,Spa-Francorchamps,f,George RUSSELL,RUS,Mercedes,63,4,,0.00,t,f,0,,,,,,,,MEDIUM,2,31.0,37.00,18.0,48.8,0
+2026,12,Belgian Grand Prix,Spa-Francorchamps,f,Lance STROLL,STR,Aston Martin,18,22,,0.00,t,f,25,25,16,116.029,113.980,,,1,HARD+SOFT,9,31.0,37.00,18.0,48.8,0
+2026,12,Belgian Grand Prix,Spa-Francorchamps,f,Sergio PEREZ,PER,Cadillac,11,20,,0.00,t,f,13,13,6,114.042,113.477,,,2,HARD+SOFT,7,31.0,37.00,18.0,48.8,0
+2026,13,Hungarian Grand Prix,Hungaroring,f,Lando NORRIS,NOR,McLaren,1,1,1,25.00,f,f,70,70,63,84.507,82.491,0.000,,2,HARD+MEDIUM+SOFT,6,50.5,53.20,30.8,25.6,0
+2026,13,Hungarian Grand Prix,Hungaroring,f,Max VERSTAPPEN,VER,Red Bull Racing,3,6,2,18.00,f,f,70,70,62,85.094,83.433,15.080,,2,HARD+MEDIUM+SOFT,10,50.5,53.20,30.8,25.6,0
+2026,13,Hungarian Grand Prix,Hungaroring,f,Kimi ANTONELLI,ANT,Mercedes,12,4,3,15.00,f,f,70,69,61,85.139,82.415,18.728,,2,HARD+MEDIUM,14,50.5,53.20,30.8,25.6,0
+2026,13,Hungarian Grand Prix,Hungaroring,f,Charles LECLERC,LEC,Ferrari,16,3,4,12.00,f,f,70,69,61,84.944,82.000,23.840,,3,HARD+SOFT,12,50.5,53.20,30.8,25.6,0
+2026,13,Hungarian Grand Prix,Hungaroring,f,Lewis HAMILTON,HAM,Ferrari,44,2,5,10.00,f,f,70,69,61,84.786,82.300,24.540,,3,HARD+SOFT,14,50.5,53.20,30.8,25.6,0
+2026,13,Hungarian Grand Prix,Hungaroring,f,Isack HADJAR,HAD,Red Bull Racing,6,8,6,8.00,f,f,70,70,62,85.490,83.218,55.488,,2,HARD+MEDIUM,13,50.5,53.20,30.8,25.6,0
+2026,13,Hungarian Grand Prix,Hungaroring,f,George RUSSELL,RUS,Mercedes,63,7,7,6.00,f,f,70,70,63,85.264,82.589,57.503,,2,HARD+MEDIUM,17,50.5,53.20,30.8,25.6,0
+2026,13,Hungarian Grand Prix,Hungaroring,f,Liam LAWSON,LAW,Racing Bulls,30,11,8,4.00,f,f,69,69,61,86.344,83.900,,1,2,HARD+MEDIUM+SOFT,12,50.5,53.20,30.8,25.6,0
+2026,13,Hungarian Grand Prix,Hungaroring,f,Nico HULKENBERG,HUL,Audi,27,10,9,2.00,f,f,69,69,61,86.394,83.964,,1,2,HARD+MEDIUM+SOFT,8,50.5,53.20,30.8,25.6,0
+2026,13,Hungarian Grand Prix,Hungaroring,f,Arvid LINDBLAD,LIN,Racing Bulls,41,9,10,1.00,f,f,69,69,62,86.732,85.931,,1,1,HARD+MEDIUM,7,50.5,53.20,30.8,25.6,0
+2026,13,Hungarian Grand Prix,Hungaroring,f,Gabriel BORTOLETO,BOR,Audi,5,14,11,0.00,f,f,69,69,63,87.136,84.783,,1,1,HARD+SOFT,15,50.5,53.20,30.8,25.6,0
+2026,13,Hungarian Grand Prix,Hungaroring,f,Pierre GASLY,GAS,Alpine,10,12,12,0.00,f,f,69,69,61,86.628,82.871,,1,3,HARD+MEDIUM+SOFT,10,50.5,53.20,30.8,25.6,0
+2026,13,Hungarian Grand Prix,Hungaroring,f,Lance STROLL,STR,Aston Martin,18,20,13,0.00,f,f,69,68,62,86.970,84.718,,1,2,MEDIUM+SOFT,18,50.5,53.20,30.8,25.6,0
+2026,13,Hungarian Grand Prix,Hungaroring,f,Fernando ALONSO,ALO,Aston Martin,14,16,14,0.00,f,f,69,68,62,87.429,83.679,,1,2,MEDIUM+SOFT,19,50.5,53.20,30.8,25.6,0
+2026,13,Hungarian Grand Prix,Hungaroring,f,Franco COLAPINTO,COL,Alpine,43,13,15,0.00,f,f,68,67,60,87.301,84.624,,2,2,HARD+MEDIUM,13,50.5,53.20,30.8,25.6,0
+2026,13,Hungarian Grand Prix,Hungaroring,f,Esteban OCON,OCO,Haas F1 Team,31,15,16,0.00,f,f,68,68,60,87.349,85.889,,2,2,HARD+MEDIUM,14,50.5,53.20,30.8,25.6,0
+2026,13,Hungarian Grand Prix,Hungaroring,f,Alexander ALBON,ALB,Williams,23,19,17,0.00,f,f,68,68,62,87.872,85.403,,2,2,HARD+MEDIUM+SOFT,13,50.5,53.20,30.8,25.6,0
+2026,13,Hungarian Grand Prix,Hungaroring,f,Carlos SAINZ,SAI,Williams,55,18,18,0.00,f,f,68,67,58,87.779,84.864,,2,3,MEDIUM+SOFT,13,50.5,53.20,30.8,25.6,0
+2026,13,Hungarian Grand Prix,Hungaroring,f,Oliver BEARMAN,BEA,Haas F1 Team,87,17,19,0.00,f,f,68,67,59,88.033,85.884,,2,2,HARD+MEDIUM,17,50.5,53.20,30.8,25.6,0
+2026,13,Hungarian Grand Prix,Hungaroring,f,Oscar PIASTRI,PIA,McLaren,81,5,,0.00,t,f,55,54,48,85.053,83.896,,,2,HARD+MEDIUM,8,50.5,53.20,30.8,25.6,0
+2026,13,Hungarian Grand Prix,Hungaroring,f,Valtteri BOTTAS,BOT,Cadillac,77,21,,0.00,t,f,13,13,13,89.003,87.959,,,,MEDIUM,6,50.5,53.20,30.8,25.6,0
+2026,13,Hungarian Grand Prix,Hungaroring,f,Sergio PEREZ,PER,Cadillac,11,22,,0.00,t,f,48,48,41,89.208,86.342,,,2,MEDIUM+SOFT,3,50.5,53.20,30.8,25.6,0
