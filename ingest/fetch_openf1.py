@@ -66,8 +66,11 @@ WINDOW = timedelta(minutes=20)
 # Guard against the known bad `date_end` on red-flagged sessions (it can sit
 # hours past the real finish). Nothing legitimately runs longer than this.
 MAX_SESSION_HOURS = 10
-# Cars are on track before the green light and after the flag; widen slightly.
-PAD = timedelta(minutes=10)
+# Cars are on track before the green light and after the flag — and sessions
+# routinely overrun their scheduled end: red flags, delayed starts. A 10-minute
+# pad turned out to truncate 30 sessions of 2026, in one case by 38 minutes,
+# taking the Q3 laps with it. 45 minutes covers every overrun observed.
+PAD = timedelta(minutes=45)
 
 # Rate limiting. The public tier hard-fails at 3 req/s; authenticated headroom
 # is higher but undocumented, so we stay conservative and back off adaptively.

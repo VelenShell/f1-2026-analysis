@@ -70,7 +70,6 @@ corner,min_speed,max_speed,mean_speed,mean_throttle,n_points,exit_speed,driver,t
 9,265,267,265.8,100.0,32,265,LEC,Ferrari,104.893,Спа,Belgian Grand Prix
 10,180,227,194.1,49.0,31,190,LEC,Ferrari,104.893,Спа,Belgian Grand Prix
 11,195,206,198.9,75.6,28,206,LEC,Ferrari,104.893,Спа,Belgian Grand Prix
-12,197,225,220.5,94.3,26,197,LEC,Ferrari,104.893,Спа,Belgian Grand Prix
 13,242,272,259.5,100.0,29,272,LEC,Ferrari,104.893,Спа,Belgian Grand Prix
 14,79,180,123.1,4.7,14,79,LEC,Ferrari,104.893,Спа,Belgian Grand Prix
 15,79,113,88.6,42.3,16,113,LEC,Ferrari,104.893,Спа,Belgian Grand Prix
@@ -87,6 +86,8 @@ corner,min_speed,max_speed,mean_speed,mean_throttle,n_points,exit_speed,driver,t
 11,188,210,199.3,83.3,29,210,HAM,Ferrari,104.895,Спа,Belgian Grand Prix
 12,171,213,187.7,49.7,26,201,HAM,Ferrari,104.895,Спа,Belgian Grand Prix
 13,244,272,261.1,100.0,29,272,HAM,Ferrari,104.895,Спа,Belgian Grand Prix
+14,83,188,119.6,1.7,14,83,HAM,Ferrari,104.895,Спа,Belgian Grand Prix
+15,77,123,91.0,44.5,16,123,HAM,Ferrari,104.895,Спа,Belgian Grand Prix
 1,81,170,108.9,14.9,22,118,PIA,McLaren,105.016,Спа,Belgian Grand Prix
 2,303,320,310.2,99.0,24,303,PIA,McLaren,105.016,Спа,Belgian Grand Prix
 3,161,218,182.7,3.2,18,161,PIA,McLaren,105.016,Спа,Belgian Grand Prix
@@ -100,6 +101,8 @@ corner,min_speed,max_speed,mean_speed,mean_throttle,n_points,exit_speed,driver,t
 11,189,208,196.6,58.6,29,208,PIA,McLaren,105.016,Спа,Belgian Grand Prix
 12,171,227,185.3,29.0,26,192,PIA,McLaren,105.016,Спа,Belgian Grand Prix
 13,238,273,257.2,99.0,29,273,PIA,McLaren,105.016,Спа,Belgian Grand Prix
+14,81,172,117.5,0.6,14,81,PIA,McLaren,105.016,Спа,Belgian Grand Prix
+15,73,118,88.4,27.2,16,118,PIA,McLaren,105.016,Спа,Belgian Grand Prix
 1,81,166,108.9,25.4,22,123,LIN,Racing Bulls,105.143,Спа,Belgian Grand Prix
 2,305,324,313.3,100.0,24,306,LIN,Racing Bulls,105.143,Спа,Belgian Grand Prix
 3,158,226,183.8,6.8,18,158,LIN,Racing Bulls,105.143,Спа,Belgian Grand Prix
@@ -113,6 +116,8 @@ corner,min_speed,max_speed,mean_speed,mean_throttle,n_points,exit_speed,driver,t
 11,190,207,196.1,81.6,29,207,LIN,Racing Bulls,105.143,Спа,Belgian Grand Prix
 12,170,206,181.0,51.6,26,197,LIN,Racing Bulls,105.143,Спа,Belgian Grand Prix
 13,236,271,258.4,100.0,29,271,LIN,Racing Bulls,105.143,Спа,Belgian Grand Prix
+14,84,172,124.0,2.4,14,84,LIN,Racing Bulls,105.143,Спа,Belgian Grand Prix
+15,75,110,88.8,44.3,16,110,LIN,Racing Bulls,105.143,Спа,Belgian Grand Prix
 1,83,149,105.5,20.0,22,125,BOR,Audi,105.628,Спа,Belgian Grand Prix
 2,296,314,303.0,100.0,24,298,BOR,Audi,105.628,Спа,Belgian Grand Prix
 3,157,228,182.9,5.5,18,157,BOR,Audi,105.628,Спа,Belgian Grand Prix

@@ -1,0 +1,235 @@
+round,meeting_name,driver,team,corner_deficit,corner_deficit_max,corners_measured,straight_deficit,straight_top_speed
+1,Australian Grand Prix,ALB,Williams,10.0,23,12,12.0,289.0
+1,Australian Grand Prix,ALO,Aston Martin,13.67,28,12,13.0,288.0
+1,Australian Grand Prix,ANT,Mercedes,5.17,15,12,3.0,298.0
+1,Australian Grand Prix,BEA,Haas F1 Team,7.42,20,12,16.0,285.0
+1,Australian Grand Prix,BOR,Audi,8.67,16,12,9.0,292.0
+1,Australian Grand Prix,BOT,Cadillac,20.42,35,12,22.0,279.0
+1,Australian Grand Prix,COL,Alpine,12.67,25,12,10.0,291.0
+1,Australian Grand Prix,GAS,Alpine,13.5,28,12,5.0,296.0
+1,Australian Grand Prix,HAD,Red Bull Racing,7.25,18,12,7.0,294.0
+1,Australian Grand Prix,HAM,Ferrari,4.75,11,12,12.0,289.0
+1,Australian Grand Prix,HUL,Audi,11.58,24,12,6.0,295.0
+1,Australian Grand Prix,LAW,Racing Bulls,10.67,19,12,13.0,288.0
+1,Australian Grand Prix,LEC,Ferrari,3.58,13,12,14.0,287.0
+1,Australian Grand Prix,LIN,Racing Bulls,10.0,22,12,11.0,290.0
+1,Australian Grand Prix,NOR,McLaren,5.42,16,12,12.0,289.0
+1,Australian Grand Prix,OCO,Haas F1 Team,9.55,20,11,16.0,285.0
+1,Australian Grand Prix,PER,Cadillac,20.08,35,12,20.0,281.0
+1,Australian Grand Prix,PIA,McLaren,5.5,11,12,4.0,297.0
+1,Australian Grand Prix,RUS,Mercedes,3.08,10,12,0.0,301.0
+2,Chinese Grand Prix,ALB,Williams,9.9,19,10,3.0,335.0
+2,Chinese Grand Prix,ALO,Aston Martin,7.64,17,11,18.0,320.0
+2,Chinese Grand Prix,ANT,Mercedes,5.78,11,9,6.0,332.0
+2,Chinese Grand Prix,BEA,Haas F1 Team,3.22,10,9,7.0,331.0
+2,Chinese Grand Prix,BOR,Audi,5.22,9,9,3.0,335.0
+2,Chinese Grand Prix,BOT,Cadillac,9.0,18,11,3.0,335.0
+2,Chinese Grand Prix,COL,Alpine,4.75,10,8,0.0,338.0
+2,Chinese Grand Prix,GAS,Alpine,5.5,12,10,3.0,335.0
+2,Chinese Grand Prix,HAD,Red Bull Racing,7.27,17,11,4.0,334.0
+2,Chinese Grand Prix,HAM,Ferrari,5.36,23,11,9.0,329.0
+2,Chinese Grand Prix,HUL,Audi,4.14,8,7,6.0,332.0
+2,Chinese Grand Prix,LAW,Racing Bulls,8.55,17,11,,
+2,Chinese Grand Prix,LEC,Ferrari,4.27,18,11,8.0,330.0
+2,Chinese Grand Prix,LIN,Racing Bulls,6.33,10,9,,
+2,Chinese Grand Prix,NOR,McLaren,5.64,11,11,10.0,328.0
+2,Chinese Grand Prix,OCO,Haas F1 Team,7.45,18,11,5.0,333.0
+2,Chinese Grand Prix,PER,Cadillac,8.3,19,10,,
+2,Chinese Grand Prix,PIA,McLaren,5.36,14,11,8.0,330.0
+2,Chinese Grand Prix,RUS,Mercedes,3.4,13,10,5.0,333.0
+2,Chinese Grand Prix,SAI,Williams,8.91,20,11,,
+2,Chinese Grand Prix,STR,Aston Martin,8.1,17,10,14.0,324.0
+2,Chinese Grand Prix,VER,Red Bull Racing,5.0,10,6,4.0,334.0
+3,Japanese Grand Prix,ALB,Williams,9.42,22,12,,
+3,Japanese Grand Prix,ALO,Aston Martin,14.62,27,16,5.0,328.0
+3,Japanese Grand Prix,BEA,Haas F1 Team,11.64,19,14,,
+3,Japanese Grand Prix,BOT,Cadillac,16.79,34,14,,
+3,Japanese Grand Prix,GAS,Alpine,7.5,15,14,,
+3,Japanese Grand Prix,HAD,Red Bull Racing,8.2,16,15,3.0,330.0
+3,Japanese Grand Prix,HAM,Ferrari,5.19,27,16,14.0,319.0
+3,Japanese Grand Prix,LAW,Racing Bulls,10.43,21,14,0.0,333.0
+3,Japanese Grand Prix,LEC,Ferrari,4.0,9,15,,
+3,Japanese Grand Prix,LIN,Racing Bulls,9.15,20,13,,
+3,Japanese Grand Prix,NOR,McLaren,6.38,21,16,10.0,323.0
+3,Japanese Grand Prix,PER,Cadillac,15.44,35,16,4.0,329.0
+3,Japanese Grand Prix,PIA,McLaren,6.62,22,16,9.0,324.0
+3,Japanese Grand Prix,RUS,Mercedes,4.67,17,15,4.0,329.0
+3,Japanese Grand Prix,SAI,Williams,10.33,24,15,,
+3,Japanese Grand Prix,STR,Aston Martin,13.73,28,15,,
+3,Japanese Grand Prix,VER,Red Bull Racing,9.07,19,14,5.0,328.0
+6,Miami Grand Prix,ALB,Williams,14.69,48,13,4.0,339.0
+6,Miami Grand Prix,ALO,Aston Martin,14.69,46,13,18.0,325.0
+6,Miami Grand Prix,ANT,Mercedes,8.0,36,13,0.0,343.0
+6,Miami Grand Prix,BEA,Haas F1 Team,12.0,34,13,1.0,342.0
+6,Miami Grand Prix,BOR,Audi,16.38,45,13,28.0,315.0
+6,Miami Grand Prix,BOT,Cadillac,15.92,36,13,16.0,327.0
+6,Miami Grand Prix,COL,Alpine,10.38,32,13,0.0,343.0
+6,Miami Grand Prix,GAS,Alpine,12.31,39,13,4.0,339.0
+6,Miami Grand Prix,HAD,Red Bull Racing,11.54,33,13,6.0,337.0
+6,Miami Grand Prix,HAM,Ferrari,6.69,34,13,5.0,338.0
+6,Miami Grand Prix,HUL,Audi,10.62,36,13,1.0,342.0
+6,Miami Grand Prix,LAW,Racing Bulls,13.54,38,13,6.0,337.0
+6,Miami Grand Prix,LEC,Ferrari,8.08,35,13,1.0,342.0
+6,Miami Grand Prix,LIN,Racing Bulls,14.62,41,13,2.0,341.0
+6,Miami Grand Prix,NOR,McLaren,9.0,31,13,7.0,336.0
+6,Miami Grand Prix,OCO,Haas F1 Team,13.08,39,13,4.0,339.0
+6,Miami Grand Prix,PER,Cadillac,17.31,36,13,6.0,337.0
+6,Miami Grand Prix,PIA,McLaren,10.0,30,13,4.0,339.0
+6,Miami Grand Prix,RUS,Mercedes,8.69,37,13,3.0,340.0
+6,Miami Grand Prix,SAI,Williams,11.62,29,13,2.0,341.0
+6,Miami Grand Prix,STR,Aston Martin,17.15,40,13,16.0,327.0
+6,Miami Grand Prix,VER,Red Bull Racing,9.15,32,13,4.0,339.0
+7,Canadian Grand Prix,ALB,Williams,10.42,18,12,7.0,326.0
+7,Canadian Grand Prix,ALO,Aston Martin,10.5,19,12,6.0,327.0
+7,Canadian Grand Prix,ANT,Mercedes,5.58,11,12,2.0,331.0
+7,Canadian Grand Prix,BEA,Haas F1 Team,9.33,17,12,5.0,328.0
+7,Canadian Grand Prix,BOR,Audi,10.25,18,12,1.0,332.0
+7,Canadian Grand Prix,BOT,Cadillac,16.08,25,12,11.0,322.0
+7,Canadian Grand Prix,COL,Alpine,6.92,14,12,2.0,331.0
+7,Canadian Grand Prix,GAS,Alpine,9.75,17,12,7.0,326.0
+7,Canadian Grand Prix,HAD,Red Bull Racing,5.67,14,12,2.0,331.0
+7,Canadian Grand Prix,HAM,Ferrari,4.58,8,12,2.0,331.0
+7,Canadian Grand Prix,HUL,Audi,7.08,14,12,6.0,327.0
+7,Canadian Grand Prix,LAW,Racing Bulls,9.92,18,12,5.0,328.0
+7,Canadian Grand Prix,LEC,Ferrari,3.83,11,12,0.0,333.0
+7,Canadian Grand Prix,LIN,Racing Bulls,6.25,16,12,1.0,332.0
+7,Canadian Grand Prix,NOR,McLaren,4.08,13,12,5.0,328.0
+7,Canadian Grand Prix,OCO,Haas F1 Team,12.58,19,12,7.0,326.0
+7,Canadian Grand Prix,PER,Cadillac,12.33,21,12,8.0,325.0
+7,Canadian Grand Prix,PIA,McLaren,3.17,18,12,5.0,328.0
+7,Canadian Grand Prix,RUS,Mercedes,5.08,10,12,2.0,331.0
+7,Canadian Grand Prix,SAI,Williams,10.17,16,12,6.0,327.0
+7,Canadian Grand Prix,STR,Aston Martin,13.08,21,12,11.0,322.0
+7,Canadian Grand Prix,VER,Red Bull Racing,3.17,8,12,3.0,330.0
+8,Monaco Grand Prix,ALB,Williams,7.93,19,14,,
+8,Monaco Grand Prix,ALO,Aston Martin,11.14,24,14,,
+8,Monaco Grand Prix,ANT,Mercedes,3.86,11,14,,
+8,Monaco Grand Prix,BEA,Haas F1 Team,8.0,17,14,,
+8,Monaco Grand Prix,BOR,Audi,8.21,16,14,,
+8,Monaco Grand Prix,BOT,Cadillac,9.43,20,14,,
+8,Monaco Grand Prix,COL,Alpine,7.5,17,14,,
+8,Monaco Grand Prix,GAS,Alpine,5.64,13,14,,
+8,Monaco Grand Prix,HAD,Red Bull Racing,4.64,10,14,,
+8,Monaco Grand Prix,HAM,Ferrari,3.36,6,14,,
+8,Monaco Grand Prix,HUL,Audi,6.57,14,14,,
+8,Monaco Grand Prix,LAW,Racing Bulls,6.5,16,14,,
+8,Monaco Grand Prix,LEC,Ferrari,3.71,12,14,,
+8,Monaco Grand Prix,LIN,Racing Bulls,8.86,20,14,,
+8,Monaco Grand Prix,NOR,McLaren,4.64,11,14,,
+8,Monaco Grand Prix,OCO,Haas F1 Team,8.64,16,14,,
+8,Monaco Grand Prix,PER,Cadillac,8.93,16,14,,
+8,Monaco Grand Prix,PIA,McLaren,4.14,9,14,,
+8,Monaco Grand Prix,RUS,Mercedes,4.0,10,14,,
+8,Monaco Grand Prix,SAI,Williams,7.0,21,14,,
+8,Monaco Grand Prix,STR,Aston Martin,13.29,24,14,,
+8,Monaco Grand Prix,VER,Red Bull Racing,2.21,6,14,,
+9,Barcelona Grand Prix,ALB,Williams,15.08,30,12,11.0,333.0
+9,Barcelona Grand Prix,ALO,Aston Martin,17.64,32,11,11.0,333.0
+9,Barcelona Grand Prix,ANT,Mercedes,4.75,11,12,6.0,338.0
+9,Barcelona Grand Prix,BEA,Haas F1 Team,8.67,16,12,4.0,340.0
+9,Barcelona Grand Prix,BOR,Audi,9.25,16,12,3.0,341.0
+9,Barcelona Grand Prix,BOT,Cadillac,14.5,26,12,4.0,340.0
+9,Barcelona Grand Prix,COL,Alpine,8.45,13,11,2.0,342.0
+9,Barcelona Grand Prix,GAS,Alpine,12.42,33,12,0.0,344.0
+9,Barcelona Grand Prix,HAD,Red Bull Racing,7.33,18,12,7.0,337.0
+9,Barcelona Grand Prix,HAM,Ferrari,4.83,13,12,2.0,342.0
+9,Barcelona Grand Prix,HUL,Audi,6.5,13,12,4.0,340.0
+9,Barcelona Grand Prix,LAW,Racing Bulls,6.83,12,12,5.0,339.0
+9,Barcelona Grand Prix,LEC,Ferrari,3.58,10,12,5.0,339.0
+9,Barcelona Grand Prix,LIN,Racing Bulls,8.5,17,12,4.0,340.0
+9,Barcelona Grand Prix,NOR,McLaren,3.75,9,12,6.0,338.0
+9,Barcelona Grand Prix,OCO,Haas F1 Team,13.0,21,12,2.0,342.0
+9,Barcelona Grand Prix,PER,Cadillac,15.33,30,12,2.0,342.0
+9,Barcelona Grand Prix,PIA,McLaren,5.67,12,12,4.0,340.0
+9,Barcelona Grand Prix,RUS,Mercedes,4.0,11,12,3.0,341.0
+9,Barcelona Grand Prix,SAI,Williams,11.17,25,12,8.0,336.0
+9,Barcelona Grand Prix,STR,Aston Martin,16.18,32,11,13.0,331.0
+9,Barcelona Grand Prix,VER,Red Bull Racing,3.75,9,12,3.0,341.0
+10,Austrian Grand Prix,ALB,Williams,14.0,23,8,8.0,323.0
+10,Austrian Grand Prix,ALO,Aston Martin,18.86,34,7,16.0,315.0
+10,Austrian Grand Prix,ANT,Mercedes,2.75,4,8,1.0,330.0
+10,Austrian Grand Prix,BEA,Haas F1 Team,8.38,15,8,8.0,323.0
+10,Austrian Grand Prix,BOR,Audi,6.88,11,8,6.0,325.0
+10,Austrian Grand Prix,BOT,Cadillac,17.88,37,8,10.0,321.0
+10,Austrian Grand Prix,COL,Alpine,13.43,24,7,1.0,330.0
+10,Austrian Grand Prix,GAS,Alpine,8.88,15,8,5.0,326.0
+10,Austrian Grand Prix,HAD,Red Bull Racing,4.38,11,8,5.0,326.0
+10,Austrian Grand Prix,HAM,Ferrari,3.38,11,8,6.0,325.0
+10,Austrian Grand Prix,HUL,Audi,7.62,17,8,6.0,325.0
+10,Austrian Grand Prix,LAW,Racing Bulls,6.38,14,8,3.0,328.0
+10,Austrian Grand Prix,LEC,Ferrari,1.0,3,8,6.0,325.0
+10,Austrian Grand Prix,LIN,Racing Bulls,9.12,16,8,3.0,328.0
+10,Austrian Grand Prix,NOR,McLaren,5.5,10,8,5.0,326.0
+10,Austrian Grand Prix,OCO,Haas F1 Team,8.88,15,8,9.0,322.0
+10,Austrian Grand Prix,PER,Cadillac,17.0,28,8,9.0,322.0
+10,Austrian Grand Prix,PIA,McLaren,4.0,6,8,7.0,324.0
+10,Austrian Grand Prix,RUS,Mercedes,2.0,8,8,2.0,329.0
+10,Austrian Grand Prix,SAI,Williams,12.5,22,8,6.0,325.0
+10,Austrian Grand Prix,STR,Aston Martin,19.5,33,8,20.0,311.0
+10,Austrian Grand Prix,VER,Red Bull Racing,5.12,8,8,0.0,331.0
+11,British Grand Prix,ALB,Williams,19.87,152,15,17.0,295.0
+11,British Grand Prix,ALO,Aston Martin,26.0,148,15,15.0,297.0
+11,British Grand Prix,ANT,Mercedes,13.73,150,15,7.0,305.0
+11,British Grand Prix,BEA,Haas F1 Team,20.2,145,15,10.0,302.0
+11,British Grand Prix,BOR,Audi,16.47,147,15,9.0,303.0
+11,British Grand Prix,BOT,Cadillac,26.4,154,15,2.0,310.0
+11,British Grand Prix,COL,Alpine,23.33,148,15,11.0,301.0
+11,British Grand Prix,GAS,Alpine,18.93,148,15,16.0,296.0
+11,British Grand Prix,HAD,Red Bull Racing,15.8,146,15,6.0,306.0
+11,British Grand Prix,HAM,Ferrari,13.67,142,15,7.0,305.0
+11,British Grand Prix,HUL,Audi,16.2,143,15,12.0,300.0
+11,British Grand Prix,LAW,Racing Bulls,18.33,146,15,6.0,306.0
+11,British Grand Prix,LEC,Ferrari,14.53,144,15,10.0,302.0
+11,British Grand Prix,LIN,Racing Bulls,19.6,151,15,3.0,309.0
+11,British Grand Prix,NOR,McLaren,17.0,145,15,4.0,308.0
+11,British Grand Prix,OCO,Haas F1 Team,12.29,36,14,10.0,302.0
+11,British Grand Prix,PER,Cadillac,23.93,148,15,6.0,306.0
+11,British Grand Prix,PIA,McLaren,17.07,145,15,0.0,312.0
+11,British Grand Prix,RUS,Mercedes,13.8,147,15,13.0,299.0
+11,British Grand Prix,SAI,Williams,21.53,149,15,10.0,302.0
+11,British Grand Prix,STR,Aston Martin,27.29,148,14,11.0,301.0
+11,British Grand Prix,VER,Red Bull Racing,16.87,148,15,10.0,302.0
+12,Belgian Grand Prix,ALB,Williams,12.53,23,15,5.0,325.0
+12,Belgian Grand Prix,ALO,Aston Martin,16.8,25,15,11.0,319.0
+12,Belgian Grand Prix,ANT,Mercedes,4.87,11,15,2.0,328.0
+12,Belgian Grand Prix,BEA,Haas F1 Team,9.2,14,15,6.0,324.0
+12,Belgian Grand Prix,BOR,Audi,5.4,13,15,5.0,325.0
+12,Belgian Grand Prix,BOT,Cadillac,13.4,24,15,5.0,325.0
+12,Belgian Grand Prix,COL,Alpine,9.53,16,15,5.0,325.0
+12,Belgian Grand Prix,GAS,Alpine,9.73,19,15,5.0,325.0
+12,Belgian Grand Prix,HAD,Red Bull Racing,8.4,17,15,3.0,327.0
+12,Belgian Grand Prix,HAM,Ferrari,3.47,9,15,0.0,330.0
+12,Belgian Grand Prix,HUL,Audi,6.87,13,15,8.0,322.0
+12,Belgian Grand Prix,LAW,Racing Bulls,7.0,19,15,8.0,322.0
+12,Belgian Grand Prix,LEC,Ferrari,3.64,13,14,3.0,327.0
+12,Belgian Grand Prix,LIN,Racing Bulls,5.53,11,15,3.0,327.0
+12,Belgian Grand Prix,NOR,McLaren,4.4,11,15,5.0,325.0
+12,Belgian Grand Prix,OCO,Haas F1 Team,11.33,19,15,9.0,321.0
+12,Belgian Grand Prix,PER,Cadillac,13.8,26,15,8.0,322.0
+12,Belgian Grand Prix,PIA,McLaren,5.0,11,15,5.0,325.0
+12,Belgian Grand Prix,RUS,Mercedes,5.73,15,15,3.0,327.0
+12,Belgian Grand Prix,SAI,Williams,10.07,19,15,5.0,325.0
+12,Belgian Grand Prix,STR,Aston Martin,16.6,25,15,16.0,314.0
+12,Belgian Grand Prix,VER,Red Bull Racing,5.6,17,15,2.0,328.0
+13,Hungarian Grand Prix,ALB,Williams,13.0,23,14,4.0,339.0
+13,Hungarian Grand Prix,ALO,Aston Martin,8.64,13,14,20.0,323.0
+13,Hungarian Grand Prix,ANT,Mercedes,5.5,17,14,11.0,332.0
+13,Hungarian Grand Prix,BEA,Haas F1 Team,9.79,19,14,5.0,338.0
+13,Hungarian Grand Prix,BOR,Audi,8.71,21,14,5.0,338.0
+13,Hungarian Grand Prix,BOT,Cadillac,12.93,27,14,6.0,337.0
+13,Hungarian Grand Prix,COL,Alpine,9.0,20,14,1.0,342.0
+13,Hungarian Grand Prix,GAS,Alpine,8.43,19,14,0.0,343.0
+13,Hungarian Grand Prix,HAD,Red Bull Racing,6.07,15,14,11.0,332.0
+13,Hungarian Grand Prix,HAM,Ferrari,2.71,8,14,10.0,333.0
+13,Hungarian Grand Prix,HUL,Audi,8.57,18,14,10.0,333.0
+13,Hungarian Grand Prix,LAW,Racing Bulls,7.93,19,14,13.0,330.0
+13,Hungarian Grand Prix,LEC,Ferrari,4.64,18,14,11.0,332.0
+13,Hungarian Grand Prix,LIN,Racing Bulls,7.86,16,14,15.0,328.0
+13,Hungarian Grand Prix,NOR,McLaren,3.29,10,14,12.0,331.0
+13,Hungarian Grand Prix,OCO,Haas F1 Team,10.14,17,14,8.0,335.0
+13,Hungarian Grand Prix,PER,Cadillac,14.5,29,14,5.0,338.0
+13,Hungarian Grand Prix,PIA,McLaren,4.93,11,14,13.0,330.0
+13,Hungarian Grand Prix,RUS,Mercedes,6.43,16,14,10.0,333.0
+13,Hungarian Grand Prix,SAI,Williams,13.21,24,14,6.0,337.0
+13,Hungarian Grand Prix,STR,Aston Martin,12.21,22,14,21.0,322.0
+13,Hungarian Grand Prix,VER,Red Bull Racing,3.79,10,14,16.0,327.0

@@ -35,6 +35,17 @@ CORNER_MIN_LENGTH_M = 25   # коротші ділянки — шум
 CORNER_MIN_ANGLE_DEG = 25  # менші зміни напрямку — не поворот
 STRAIGHT_MIN_LENGTH_M = 300
 
+# Канал телеметрії подекуди завмирає: замість реальних значень приходить
+# заповнювач throttle=104 / brake=104 при допустимому діапазоні 0-100, а
+# швидкість застигає на останньому значенні. У сезоні 2026 такі рядки
+# становлять 25% усього car_data.
+#
+# Небезпека в тому, що location при цьому пише далі, тож коло виглядає цілим:
+# машина «їде», але з постійною швидкістю. Саме так найшвидше коло Антонеллі
+# в Японії показало 189 км/год на прямій, де решта їхала за 320.
+SENTINEL_LIMIT = 100          # усе, що більше, — не дані
+MIN_VALID_FRACTION = 0.80     # коло з меншою часткою придатних точок не беремо
+
 
 def fastest_laps(conn, meeting_name: str, year: int, session_name: str,
                  limit: int = 30) -> pd.DataFrame:
@@ -88,11 +99,42 @@ def load_lap(conn, session_key: int, driver_id: int, date_start, duration: float
     for col in ("speed", "throttle", "brake", "n_gear", "rpm"):
         out[col] = np.interp(t, ct, car[col].astype(float).to_numpy())
 
+    # Позначаємо ділянки, де канал віддавав заповнювач. Прапорець переносимо
+    # на моменти позицій найближчим сусідом: інтерполювати ознаку «дані
+    # зіпсовані» не можна, її можна лише перенести.
+    bad = ((car["throttle"].astype(float) > SENTINEL_LIMIT)
+           | (car["brake"].astype(float) > SENTINEL_LIMIT)).to_numpy()
+    nearest = np.searchsorted(ct, t).clip(0, len(ct) - 1)
+    out["valid"] = ~bad[nearest]
+
     out["distance"] = np.concatenate([[0], np.cumsum(np.hypot(np.diff(x), np.diff(y)))])
     # Координати іноді «застигають» на кілька семплів; нульові кроки ламають
     # інтерполяцію на сітку.
     out = out[out["distance"].diff().fillna(1) > 0].reset_index(drop=True)
-    return out if len(out) > 50 else None
+    if len(out) <= 50:
+        return None
+    out.attrs["valid_fraction"] = float(out["valid"].mean())
+    return out
+
+
+def lap_is_usable(lap: pd.DataFrame | None) -> bool:
+    """Чи достатньо на колі придатних точок, щоб на ньому щось міряти."""
+    return lap is not None and lap.attrs.get("valid_fraction", 0) >= MIN_VALID_FRACTION
+
+
+def best_reference_lap(conn, laps: pd.DataFrame):
+    """Найшвидше коло, телеметрія якого не зіпсована.
+
+    Просто «найшвидше» брати не можна: якщо саме на ньому завмер канал, увесь
+    каталог поворотів дістане неправильні швидкості, а разом із ним і всі
+    похідні порівняння.
+    """
+    for _, r in laps.iterrows():
+        lap = load_lap(conn, r.session_key, r.driver_id, r.date_start,
+                       float(r.lap_duration))
+        if lap_is_usable(lap):
+            return r, lap
+    return None, None
 
 
 def resample(lap: pd.DataFrame, step: float = GRID_STEP_M) -> pd.DataFrame:
@@ -102,6 +144,9 @@ def resample(lap: pd.DataFrame, step: float = GRID_STEP_M) -> pd.DataFrame:
     out = pd.DataFrame({"distance": grid})
     for col in ("x", "y", "speed", "throttle", "brake", "n_gear", "rpm"):
         out[col] = np.interp(grid, s, lap[col].to_numpy())
+    # Прапорець придатності переносимо порогом: точка сітки вважається
+    # придатною, лише якщо обидві сусідні сирі точки придатні.
+    out["valid"] = np.interp(grid, s, lap["valid"].astype(float).to_numpy()) > 0.999
     win = min(15, len(grid) // 2 * 2 - 1)
     if win >= 5:
         out["x_s"] = savgol_filter(out["x"], win, 3)
@@ -238,6 +283,10 @@ def driver_section_metrics(grid: pd.DataFrame, ref_grid: pd.DataFrame,
         if m.sum() < 3:
             continue
         seg = grid[m]
+        # Ділянку з зіпсованим каналом краще не міряти взагалі, ніж міряти
+        # застиглою швидкістю.
+        if "valid" in seg and seg["valid"].mean() < 0.9:
+            continue
         rec = {kind: int(sec[kind]),
                "min_speed": round(float(seg["speed"].min())),
                "max_speed": round(float(seg["speed"].max())),
