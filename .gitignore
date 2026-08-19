@@ -9,3 +9,7 @@ data/logs/
 
 .DS_Store
 .env
+
+# Налаштування IDE
+.idea/
+.vscode/

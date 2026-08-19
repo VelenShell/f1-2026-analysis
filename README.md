@@ -78,12 +78,24 @@
 ## Структура
 
 ```
-ingest/fetch_openf1.py   нічний харвестер (тільки httpx + stdlib, резюмиться)
-data/raw/                сирі дані, jsonl.gz
-data/logs/fetch.log      лог завантаження
-sql/                     схема Postgres + завантаження
-analysis/                моделі: темп, напарники, телеметрія, Монте-Карло
-notebooks/               розвідка
+final_project.ipynb                    ← основний результат: 5 частин, 109 клітинок
+
+ingest/fetch_openf1.py                 нічний харвестер (httpx + stdlib, резюмиться)
+ingest/topup_telemetry.py              долив телеметрії для сесій, що затягнулися
+ingest/load_postgres.py                завантаження у зіркову схему
+ingest/export_csv.py                   вивантаження у CSV
+ingest/status.py, ingest/verify.py     контроль стану й цілісності
+
+sql/01_schema.sql                      зіркова схема
+sql/02_indexes.sql                     індекси (після завантаження)
+sql/03_validate.sql                    перевірки осмисленості
+sql/04_views.sql                       вітрини + означення чистого кола
+
+analysis/telemetry.py                  каталог поворотів, геометрія, якість даних
+analysis/build_telemetry_features.py   ознаки для моделі по всіх етапах
+
+export/                                CSV для Power BI і для перевіряючого
+data/raw/                              сирі дані jsonl.gz (у git не входять)
 ```
 
 ## Завантаження
