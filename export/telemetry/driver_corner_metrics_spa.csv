@@ -1,0 +1,325 @@
+corner,min_speed,max_speed,mean_speed,mean_throttle,n_points,exit_speed,driver,team,lap_time,track,meeting_name
+1,80,160,107.8,20.4,22,120,ANT,Mercedes,104.361,Спа,Belgian Grand Prix
+2,301,322,310.2,100.0,24,301,ANT,Mercedes,104.361,Спа,Belgian Grand Prix
+3,156,233,183.6,4.9,18,156,ANT,Mercedes,104.361,Спа,Belgian Grand Prix
+4,161,180,169.1,62.4,19,180,ANT,Mercedes,104.361,Спа,Belgian Grand Prix
+5,194,222,207.6,96.2,27,222,ANT,Mercedes,104.361,Спа,Belgian Grand Prix
+6,125,199,154.5,45.9,41,181,ANT,Mercedes,104.361,Спа,Belgian Grand Prix
+7,195,219,202.9,66.9,27,219,ANT,Mercedes,104.361,Спа,Belgian Grand Prix
+8,269,279,273.9,100.0,30,269,ANT,Mercedes,104.361,Спа,Belgian Grand Prix
+9,266,268,266.8,100.0,32,267,ANT,Mercedes,104.361,Спа,Belgian Grand Prix
+10,179,237,195.3,29.1,31,185,ANT,Mercedes,104.361,Спа,Belgian Grand Prix
+11,191,210,201.3,76.7,29,210,ANT,Mercedes,104.361,Спа,Belgian Grand Prix
+12,177,209,188.0,46.2,26,199,ANT,Mercedes,104.361,Спа,Belgian Grand Prix
+13,240,273,260.1,100.0,29,273,ANT,Mercedes,104.361,Спа,Belgian Grand Prix
+14,82,166,116.6,2.0,14,82,ANT,Mercedes,104.361,Спа,Belgian Grand Prix
+15,75,123,90.9,33.6,16,123,ANT,Mercedes,104.361,Спа,Belgian Grand Prix
+1,83,160,109.0,15.0,22,122,VER,Red Bull Racing,104.678,Спа,Belgian Grand Prix
+2,288,313,299.9,100.0,24,288,VER,Red Bull Racing,104.678,Спа,Belgian Grand Prix
+3,167,225,186.5,4.2,18,167,VER,Red Bull Racing,104.678,Спа,Belgian Grand Prix
+4,164,179,168.6,40.9,19,179,VER,Red Bull Racing,104.678,Спа,Belgian Grand Prix
+5,193,216,205.4,100.0,27,216,VER,Red Bull Racing,104.678,Спа,Belgian Grand Prix
+6,129,194,155.1,36.9,41,183,VER,Red Bull Racing,104.678,Спа,Belgian Grand Prix
+7,200,220,205.6,65.6,27,220,VER,Red Bull Racing,104.678,Спа,Belgian Grand Prix
+8,262,272,267.2,100.0,30,262,VER,Red Bull Racing,104.678,Спа,Belgian Grand Prix
+9,264,281,274.0,100.0,32,281,VER,Red Bull Racing,104.678,Спа,Belgian Grand Prix
+10,175,247,199.3,15.9,31,182,VER,Red Bull Racing,104.678,Спа,Belgian Grand Prix
+11,188,211,199.8,73.7,29,211,VER,Red Bull Racing,104.678,Спа,Belgian Grand Prix
+12,168,215,184.6,45.0,26,202,VER,Red Bull Racing,104.678,Спа,Belgian Grand Prix
+13,243,275,261.8,100.0,29,275,VER,Red Bull Racing,104.678,Спа,Belgian Grand Prix
+14,79,181,122.0,0.9,14,79,VER,Red Bull Racing,104.678,Спа,Belgian Grand Prix
+15,77,122,91.4,27.7,16,122,VER,Red Bull Racing,104.678,Спа,Belgian Grand Prix
+1,83,160,108.4,15.7,22,124,NOR,McLaren,104.801,Спа,Belgian Grand Prix
+2,300,318,309.0,100.0,24,300,NOR,McLaren,104.801,Спа,Belgian Grand Prix
+3,160,235,184.1,6.6,18,161,NOR,McLaren,104.801,Спа,Belgian Grand Prix
+4,164,182,171.1,55.1,19,182,NOR,McLaren,104.801,Спа,Belgian Grand Prix
+5,194,221,206.5,100.0,27,221,NOR,McLaren,104.801,Спа,Belgian Grand Prix
+6,122,189,151.1,42.4,41,180,NOR,McLaren,104.801,Спа,Belgian Grand Prix
+7,198,219,204.7,65.4,27,219,NOR,McLaren,104.801,Спа,Belgian Grand Prix
+8,267,279,271.5,100.0,30,267,NOR,McLaren,104.801,Спа,Belgian Grand Prix
+9,270,272,271.4,100.0,32,271,NOR,McLaren,104.801,Спа,Belgian Grand Prix
+10,183,238,197.8,29.4,31,191,NOR,McLaren,104.801,Спа,Belgian Grand Prix
+11,195,209,201.4,70.6,29,209,NOR,McLaren,104.801,Спа,Belgian Grand Prix
+12,171,222,185.2,45.9,26,192,NOR,McLaren,104.801,Спа,Belgian Grand Prix
+13,234,271,257.4,100.0,29,271,NOR,McLaren,104.801,Спа,Belgian Grand Prix
+14,81,162,114.4,0.8,14,81,NOR,McLaren,104.801,Спа,Belgian Grand Prix
+15,76,122,89.6,29.2,16,122,NOR,McLaren,104.801,Спа,Belgian Grand Prix
+1,79,184,108.3,17.8,22,114,RUS,Mercedes,104.869,Спа,Belgian Grand Prix
+2,304,323,312.8,100.0,24,304,RUS,Mercedes,104.869,Спа,Belgian Grand Prix
+3,157,234,187.2,6.2,18,157,RUS,Mercedes,104.869,Спа,Belgian Grand Prix
+4,163,179,172.1,63.9,19,179,RUS,Mercedes,104.869,Спа,Belgian Grand Prix
+5,193,216,205.0,90.8,27,216,RUS,Mercedes,104.869,Спа,Belgian Grand Prix
+6,125,203,153.7,42.0,41,177,RUS,Mercedes,104.869,Спа,Belgian Grand Prix
+7,197,215,203.1,71.7,27,215,RUS,Mercedes,104.869,Спа,Belgian Grand Prix
+8,266,281,274.1,100.0,30,266,RUS,Mercedes,104.869,Спа,Belgian Grand Prix
+9,263,264,263.6,100.0,32,264,RUS,Mercedes,104.869,Спа,Belgian Grand Prix
+10,180,240,200.7,32.8,31,185,RUS,Mercedes,104.869,Спа,Belgian Grand Prix
+11,189,206,197.8,75.1,29,206,RUS,Mercedes,104.869,Спа,Belgian Grand Prix
+12,171,213,184.2,42.3,26,193,RUS,Mercedes,104.869,Спа,Belgian Grand Prix
+13,238,272,258.2,100.0,29,272,RUS,Mercedes,104.869,Спа,Belgian Grand Prix
+14,77,191,121.3,1.7,14,77,RUS,Mercedes,104.869,Спа,Belgian Grand Prix
+15,76,113,87.5,34.6,16,113,RUS,Mercedes,104.869,Спа,Belgian Grand Prix
+1,81,166,109.0,26.8,22,119,LEC,Ferrari,104.893,Спа,Belgian Grand Prix
+2,297,313,302.9,100.0,24,297,LEC,Ferrari,104.893,Спа,Belgian Grand Prix
+3,163,241,185.3,16.0,18,164,LEC,Ferrari,104.893,Спа,Belgian Grand Prix
+4,166,181,173.9,61.5,19,181,LEC,Ferrari,104.893,Спа,Belgian Grand Prix
+5,197,217,208.2,93.8,27,217,LEC,Ferrari,104.893,Спа,Belgian Grand Prix
+6,126,200,152.8,45.0,40,177,LEC,Ferrari,104.893,Спа,Belgian Grand Prix
+7,197,219,206.2,79.2,27,219,LEC,Ferrari,104.893,Спа,Belgian Grand Prix
+8,269,286,277.1,100.0,31,269,LEC,Ferrari,104.893,Спа,Belgian Grand Prix
+9,265,267,265.8,100.0,32,265,LEC,Ferrari,104.893,Спа,Belgian Grand Prix
+10,180,227,194.1,49.0,31,190,LEC,Ferrari,104.893,Спа,Belgian Grand Prix
+11,195,206,198.9,75.6,28,206,LEC,Ferrari,104.893,Спа,Belgian Grand Prix
+12,197,225,220.5,94.3,26,197,LEC,Ferrari,104.893,Спа,Belgian Grand Prix
+13,242,272,259.5,100.0,29,272,LEC,Ferrari,104.893,Спа,Belgian Grand Prix
+14,79,180,123.1,4.7,14,79,LEC,Ferrari,104.893,Спа,Belgian Grand Prix
+15,79,113,88.6,42.3,16,113,LEC,Ferrari,104.893,Спа,Belgian Grand Prix
+1,84,167,108.9,21.2,22,120,HAM,Ferrari,104.895,Спа,Belgian Grand Prix
+2,299,316,304.8,100.0,24,299,HAM,Ferrari,104.895,Спа,Belgian Grand Prix
+3,167,229,187.6,12.2,18,167,HAM,Ferrari,104.895,Спа,Belgian Grand Prix
+4,165,181,169.9,58.4,19,181,HAM,Ferrari,104.895,Спа,Belgian Grand Prix
+5,198,218,209.2,86.0,27,218,HAM,Ferrari,104.895,Спа,Belgian Grand Prix
+6,124,205,153.0,45.9,41,180,HAM,Ferrari,104.895,Спа,Belgian Grand Prix
+7,200,219,205.0,75.2,27,219,HAM,Ferrari,104.895,Спа,Belgian Grand Prix
+8,268,285,277.3,100.0,30,268,HAM,Ferrari,104.895,Спа,Belgian Grand Prix
+9,266,267,266.2,100.0,32,266,HAM,Ferrari,104.895,Спа,Belgian Grand Prix
+10,178,242,196.3,43.8,31,184,HAM,Ferrari,104.895,Спа,Belgian Grand Prix
+11,188,210,199.3,83.3,29,210,HAM,Ferrari,104.895,Спа,Belgian Grand Prix
+12,171,213,187.7,49.7,26,201,HAM,Ferrari,104.895,Спа,Belgian Grand Prix
+13,244,272,261.1,100.0,29,272,HAM,Ferrari,104.895,Спа,Belgian Grand Prix
+1,81,170,108.9,14.9,22,118,PIA,McLaren,105.016,Спа,Belgian Grand Prix
+2,303,320,310.2,99.0,24,303,PIA,McLaren,105.016,Спа,Belgian Grand Prix
+3,161,218,182.7,3.2,18,161,PIA,McLaren,105.016,Спа,Belgian Grand Prix
+4,163,180,168.3,49.7,19,180,PIA,McLaren,105.016,Спа,Belgian Grand Prix
+5,190,221,205.7,99.0,27,221,PIA,McLaren,105.016,Спа,Belgian Grand Prix
+6,124,195,152.0,35.6,41,179,PIA,McLaren,105.016,Спа,Belgian Grand Prix
+7,200,223,206.8,92.8,27,223,PIA,McLaren,105.016,Спа,Belgian Grand Prix
+8,267,279,271.6,99.0,30,267,PIA,McLaren,105.016,Спа,Belgian Grand Prix
+9,268,272,270.6,99.0,32,271,PIA,McLaren,105.016,Спа,Belgian Grand Prix
+10,180,246,200.8,18.8,31,189,PIA,McLaren,105.016,Спа,Belgian Grand Prix
+11,189,208,196.6,58.6,29,208,PIA,McLaren,105.016,Спа,Belgian Grand Prix
+12,171,227,185.3,29.0,26,192,PIA,McLaren,105.016,Спа,Belgian Grand Prix
+13,238,273,257.2,99.0,29,273,PIA,McLaren,105.016,Спа,Belgian Grand Prix
+1,81,166,108.9,25.4,22,123,LIN,Racing Bulls,105.143,Спа,Belgian Grand Prix
+2,305,324,313.3,100.0,24,306,LIN,Racing Bulls,105.143,Спа,Belgian Grand Prix
+3,158,226,183.8,6.8,18,158,LIN,Racing Bulls,105.143,Спа,Belgian Grand Prix
+4,159,178,165.0,71.3,19,178,LIN,Racing Bulls,105.143,Спа,Belgian Grand Prix
+5,191,215,203.8,90.6,27,215,LIN,Racing Bulls,105.143,Спа,Belgian Grand Prix
+6,125,203,152.7,45.0,41,178,LIN,Racing Bulls,105.143,Спа,Belgian Grand Prix
+7,194,213,199.7,73.6,27,213,LIN,Racing Bulls,105.143,Спа,Belgian Grand Prix
+8,268,273,269.5,93.7,30,270,LIN,Racing Bulls,105.143,Спа,Belgian Grand Prix
+9,271,272,271.4,100.0,32,271,LIN,Racing Bulls,105.143,Спа,Belgian Grand Prix
+10,174,248,195.9,35.5,31,184,LIN,Racing Bulls,105.143,Спа,Belgian Grand Prix
+11,190,207,196.1,81.6,29,207,LIN,Racing Bulls,105.143,Спа,Belgian Grand Prix
+12,170,206,181.0,51.6,26,197,LIN,Racing Bulls,105.143,Спа,Belgian Grand Prix
+13,236,271,258.4,100.0,29,271,LIN,Racing Bulls,105.143,Спа,Belgian Grand Prix
+1,83,149,105.5,20.0,22,125,BOR,Audi,105.628,Спа,Belgian Grand Prix
+2,296,314,303.0,100.0,24,298,BOR,Audi,105.628,Спа,Belgian Grand Prix
+3,157,228,182.9,5.5,18,157,BOR,Audi,105.628,Спа,Belgian Grand Prix
+4,162,180,168.0,61.5,19,180,BOR,Audi,105.628,Спа,Belgian Grand Prix
+5,191,215,203.5,99.5,27,215,BOR,Audi,105.628,Спа,Belgian Grand Prix
+6,125,189,152.9,42.0,41,187,BOR,Audi,105.628,Спа,Belgian Grand Prix
+7,198,222,205.3,65.4,27,222,BOR,Audi,105.628,Спа,Belgian Grand Prix
+8,264,275,269.6,100.0,30,264,BOR,Audi,105.628,Спа,Belgian Grand Prix
+9,264,269,266.9,100.0,32,267,BOR,Audi,105.628,Спа,Belgian Grand Prix
+10,179,239,195.4,31.0,31,189,BOR,Audi,105.628,Спа,Belgian Grand Prix
+11,195,208,199.3,80.1,29,208,BOR,Audi,105.628,Спа,Belgian Grand Prix
+12,170,203,182.3,45.8,26,198,BOR,Audi,105.628,Спа,Belgian Grand Prix
+13,238,269,256.4,100.0,29,269,BOR,Audi,105.628,Спа,Belgian Grand Prix
+14,79,155,109.7,3.6,14,79,BOR,Audi,105.628,Спа,Belgian Grand Prix
+15,82,121,93.8,36.0,16,121,BOR,Audi,105.628,Спа,Belgian Grand Prix
+1,78,167,106.9,16.0,22,120,HAD,Red Bull Racing,105.823,Спа,Belgian Grand Prix
+2,288,311,298.4,100.0,24,288,HAD,Red Bull Racing,105.823,Спа,Belgian Grand Prix
+3,162,221,183.9,1.6,18,162,HAD,Red Bull Racing,105.823,Спа,Belgian Grand Prix
+4,154,175,162.2,40.5,19,175,HAD,Red Bull Racing,105.823,Спа,Belgian Grand Prix
+5,187,212,202.4,86.3,27,212,HAD,Red Bull Racing,105.823,Спа,Belgian Grand Prix
+6,121,195,150.9,42.0,41,179,HAD,Red Bull Racing,105.823,Спа,Belgian Grand Prix
+7,198,216,203.3,58.3,27,216,HAD,Red Bull Racing,105.823,Спа,Belgian Grand Prix
+8,261,270,265.9,100.0,30,261,HAD,Red Bull Racing,105.823,Спа,Belgian Grand Prix
+9,263,281,273.5,100.0,32,281,HAD,Red Bull Racing,105.823,Спа,Belgian Grand Prix
+10,171,244,192.0,19.7,31,179,HAD,Red Bull Racing,105.823,Спа,Belgian Grand Prix
+11,186,210,197.8,79.8,29,210,HAD,Red Bull Racing,105.823,Спа,Belgian Grand Prix
+12,165,212,181.7,39.9,26,198,HAD,Red Bull Racing,105.823,Спа,Belgian Grand Prix
+13,244,273,260.8,100.0,29,273,HAD,Red Bull Racing,105.823,Спа,Belgian Grand Prix
+14,81,165,119.1,1.4,14,81,HAD,Red Bull Racing,105.823,Спа,Belgian Grand Prix
+15,79,120,91.5,32.2,16,120,HAD,Red Bull Racing,105.823,Спа,Belgian Grand Prix
+1,80,150,105.1,28.7,22,125,LAW,Racing Bulls,106.12,Спа,Belgian Grand Prix
+2,304,320,309.8,100.0,24,304,LAW,Racing Bulls,106.12,Спа,Belgian Grand Prix
+3,152,204,169.8,12.7,18,153,LAW,Racing Bulls,106.12,Спа,Belgian Grand Prix
+4,158,178,166.1,67.3,19,178,LAW,Racing Bulls,106.12,Спа,Belgian Grand Prix
+5,189,215,203.6,93.3,27,215,LAW,Racing Bulls,106.12,Спа,Belgian Grand Prix
+6,123,192,149.9,44.3,41,180,LAW,Racing Bulls,106.12,Спа,Belgian Grand Prix
+7,193,215,201.2,77.2,27,215,LAW,Racing Bulls,106.12,Спа,Belgian Grand Prix
+8,260,272,265.4,82.0,30,266,LAW,Racing Bulls,106.12,Спа,Belgian Grand Prix
+9,270,274,273.0,100.0,32,273,LAW,Racing Bulls,106.12,Спа,Belgian Grand Prix
+10,166,247,189.7,30.7,31,181,LAW,Racing Bulls,106.12,Спа,Belgian Grand Prix
+11,187,209,196.7,81.0,29,209,LAW,Racing Bulls,106.12,Спа,Belgian Grand Prix
+12,167,212,181.2,44.7,26,197,LAW,Racing Bulls,106.12,Спа,Belgian Grand Prix
+13,242,272,259.9,100.0,29,272,LAW,Racing Bulls,106.12,Спа,Belgian Grand Prix
+14,92,159,115.6,0.0,14,92,LAW,Racing Bulls,106.12,Спа,Belgian Grand Prix
+15,76,122,91.9,36.9,16,122,LAW,Racing Bulls,106.12,Спа,Belgian Grand Prix
+1,82,158,108.1,23.4,22,117,GAS,Alpine,106.331,Спа,Belgian Grand Prix
+2,290,310,298.4,100.0,24,291,GAS,Alpine,106.331,Спа,Belgian Grand Prix
+3,148,226,176.0,6.7,18,148,GAS,Alpine,106.331,Спа,Belgian Grand Prix
+4,155,177,164.2,64.9,19,177,GAS,Alpine,106.331,Спа,Belgian Grand Prix
+5,189,215,199.6,79.3,27,215,GAS,Alpine,106.331,Спа,Belgian Grand Prix
+6,124,198,149.8,45.7,41,180,GAS,Alpine,106.331,Спа,Belgian Grand Prix
+7,187,215,196.6,62.1,27,215,GAS,Alpine,106.331,Спа,Belgian Grand Prix
+8,262,273,266.3,100.0,30,262,GAS,Alpine,106.331,Спа,Belgian Grand Prix
+9,258,261,259.1,100.0,32,259,GAS,Alpine,106.331,Спа,Belgian Grand Prix
+10,170,230,188.5,25.0,31,179,GAS,Alpine,106.331,Спа,Belgian Grand Prix
+11,184,205,193.7,83.5,29,205,GAS,Alpine,106.331,Спа,Belgian Grand Prix
+12,166,200,178.5,45.1,26,196,GAS,Alpine,106.331,Спа,Belgian Grand Prix
+13,241,272,258.4,100.0,29,272,GAS,Alpine,106.331,Спа,Belgian Grand Prix
+14,81,159,111.2,4.6,14,81,GAS,Alpine,106.331,Спа,Belgian Grand Prix
+15,81,115,91.6,38.1,16,115,GAS,Alpine,106.331,Спа,Belgian Grand Prix
+1,81,170,108.0,24.7,22,124,COL,Alpine,106.392,Спа,Belgian Grand Prix
+2,293,314,302.8,100.0,24,293,COL,Alpine,106.392,Спа,Belgian Grand Prix
+3,151,225,175.9,10.3,18,151,COL,Alpine,106.392,Спа,Belgian Grand Prix
+4,154,172,160.1,64.3,19,172,COL,Alpine,106.392,Спа,Belgian Grand Prix
+5,184,217,202.2,80.7,27,217,COL,Alpine,106.392,Спа,Belgian Grand Prix
+6,118,198,146.5,42.8,41,174,COL,Alpine,106.392,Спа,Belgian Grand Prix
+7,191,214,198.6,64.5,27,214,COL,Alpine,106.392,Спа,Belgian Grand Prix
+8,261,271,265.5,100.0,30,261,COL,Alpine,106.392,Спа,Belgian Grand Prix
+9,258,261,259.3,100.0,32,261,COL,Alpine,106.392,Спа,Belgian Grand Prix
+10,171,236,187.7,29.5,31,179,COL,Alpine,106.392,Спа,Belgian Grand Prix
+11,185,207,195.2,83.2,29,207,COL,Alpine,106.392,Спа,Belgian Grand Prix
+12,168,203,180.3,40.0,26,197,COL,Alpine,106.392,Спа,Belgian Grand Prix
+13,239,269,256.5,100.0,29,269,COL,Alpine,106.392,Спа,Belgian Grand Prix
+14,90,162,113.5,2.5,14,90,COL,Alpine,106.392,Спа,Belgian Grand Prix
+15,77,125,91.4,40.2,16,125,COL,Alpine,106.392,Спа,Belgian Grand Prix
+1,83,150,104.0,25.6,22,123,HUL,Audi,106.671,Спа,Belgian Grand Prix
+2,295,313,302.3,100.0,23,295,HUL,Audi,106.671,Спа,Belgian Grand Prix
+3,158,212,175.3,13.9,18,158,HUL,Audi,106.671,Спа,Belgian Grand Prix
+4,160,175,165.0,58.8,19,175,HUL,Audi,106.671,Спа,Belgian Grand Prix
+5,186,214,201.3,91.9,27,214,HUL,Audi,106.671,Спа,Belgian Grand Prix
+6,122,197,151.6,48.9,41,185,HUL,Audi,106.671,Спа,Belgian Grand Prix
+7,192,212,199.6,75.5,28,212,HUL,Audi,106.671,Спа,Belgian Grand Prix
+8,263,273,267.9,100.0,30,263,HUL,Audi,106.671,Спа,Belgian Grand Prix
+9,262,264,263.0,100.0,32,264,HUL,Audi,106.671,Спа,Belgian Grand Prix
+10,185,238,199.1,53.7,30,188,HUL,Audi,106.671,Спа,Belgian Grand Prix
+11,190,203,195.1,77.4,29,203,HUL,Audi,106.671,Спа,Belgian Grand Prix
+12,171,212,182.0,50.4,26,194,HUL,Audi,106.671,Спа,Belgian Grand Prix
+13,231,263,251.0,100.0,29,263,HUL,Audi,106.671,Спа,Belgian Grand Prix
+14,83,175,117.6,2.2,14,83,HUL,Audi,106.671,Спа,Belgian Grand Prix
+15,80,116,90.4,42.5,16,116,HUL,Audi,106.671,Спа,Belgian Grand Prix
+1,80,144,101.6,24.6,22,118,SAI,Williams,106.777,Спа,Belgian Grand Prix
+2,293,313,301.3,100.0,24,293,SAI,Williams,106.777,Спа,Belgian Grand Prix
+3,158,211,174.6,13.9,18,159,SAI,Williams,106.777,Спа,Belgian Grand Prix
+4,163,172,165.8,50.5,19,172,SAI,Williams,106.777,Спа,Belgian Grand Prix
+5,183,210,195.1,79.8,27,210,SAI,Williams,106.777,Спа,Belgian Grand Prix
+6,119,183,145.8,41.2,41,175,SAI,Williams,106.777,Спа,Belgian Grand Prix
+7,189,210,196.2,76.1,27,210,SAI,Williams,106.777,Спа,Belgian Grand Prix
+8,263,274,268.4,100.0,30,263,SAI,Williams,106.777,Спа,Belgian Grand Prix
+9,261,271,267.1,100.0,32,270,SAI,Williams,106.777,Спа,Belgian Grand Prix
+10,172,233,189.2,26.4,31,178,SAI,Williams,106.777,Спа,Belgian Grand Prix
+11,183,202,189.6,76.5,29,202,SAI,Williams,106.777,Спа,Belgian Grand Prix
+12,158,205,174.7,41.1,26,189,SAI,Williams,106.777,Спа,Belgian Grand Prix
+13,234,268,254.7,100.0,29,268,SAI,Williams,106.777,Спа,Belgian Grand Prix
+14,83,172,117.9,1.9,14,83,SAI,Williams,106.777,Спа,Belgian Grand Prix
+15,74,122,88.0,41.7,16,122,SAI,Williams,106.777,Спа,Belgian Grand Prix
+1,79,161,105.0,28.1,22,123,BEA,Haas F1 Team,106.779,Спа,Belgian Grand Prix
+2,291,309,297.7,100.0,24,291,BEA,Haas F1 Team,106.779,Спа,Belgian Grand Prix
+3,154,210,173.2,17.1,18,154,BEA,Haas F1 Team,106.779,Спа,Belgian Grand Prix
+4,160,177,165.4,64.0,19,177,BEA,Haas F1 Team,106.779,Спа,Belgian Grand Prix
+5,187,213,201.6,94.2,27,213,BEA,Haas F1 Team,106.779,Спа,Belgian Grand Prix
+6,122,189,148.9,43.4,41,180,BEA,Haas F1 Team,106.779,Спа,Belgian Grand Prix
+7,193,217,200.9,69.2,27,217,BEA,Haas F1 Team,106.779,Спа,Belgian Grand Prix
+8,262,273,267.1,100.0,30,262,BEA,Haas F1 Team,106.779,Спа,Belgian Grand Prix
+9,261,262,261.6,100.0,32,262,BEA,Haas F1 Team,106.779,Спа,Belgian Grand Prix
+10,172,239,189.6,30.7,31,180,BEA,Haas F1 Team,106.779,Спа,Belgian Grand Prix
+11,186,203,192.4,80.9,29,203,BEA,Haas F1 Team,106.779,Спа,Belgian Grand Prix
+12,166,220,180.3,44.8,26,185,BEA,Haas F1 Team,106.779,Спа,Belgian Grand Prix
+13,237,270,255.9,100.0,29,270,BEA,Haas F1 Team,106.779,Спа,Belgian Grand Prix
+14,80,170,112.9,3.8,14,80,BEA,Haas F1 Team,106.779,Спа,Belgian Grand Prix
+15,76,124,90.9,48.9,16,124,BEA,Haas F1 Team,106.779,Спа,Belgian Grand Prix
+1,78,172,105.0,21.7,22,118,ALB,Williams,107.12,Спа,Belgian Grand Prix
+2,292,313,302.6,100.0,24,292,ALB,Williams,107.12,Спа,Belgian Grand Prix
+3,151,231,174.5,13.7,18,151,ALB,Williams,107.12,Спа,Belgian Grand Prix
+4,155,171,160.3,59.4,19,171,ALB,Williams,107.12,Спа,Belgian Grand Prix
+5,184,210,195.8,73.4,27,210,ALB,Williams,107.12,Спа,Belgian Grand Prix
+6,121,185,146.0,41.6,41,175,ALB,Williams,107.12,Спа,Belgian Grand Prix
+7,180,211,192.0,61.0,27,211,ALB,Williams,107.12,Спа,Belgian Grand Prix
+8,261,274,268.9,100.0,30,261,ALB,Williams,107.12,Спа,Belgian Grand Prix
+9,260,270,266.7,100.0,32,270,ALB,Williams,107.12,Спа,Belgian Grand Prix
+10,162,238,185.8,17.4,31,172,ALB,Williams,107.12,Спа,Belgian Grand Prix
+11,178,196,186.6,69.8,29,196,ALB,Williams,107.12,Спа,Belgian Grand Prix
+12,158,202,172.2,36.4,26,190,ALB,Williams,107.12,Спа,Belgian Grand Prix
+13,236,269,255.6,100.0,29,269,ALB,Williams,107.12,Спа,Belgian Grand Prix
+14,83,174,117.3,1.0,14,83,ALB,Williams,107.12,Спа,Belgian Grand Prix
+15,77,111,89.1,37.0,16,111,ALB,Williams,107.12,Спа,Belgian Grand Prix
+1,78,158,104.9,27.3,22,126,OCO,Haas F1 Team,107.801,Спа,Belgian Grand Prix
+2,289,311,297.7,100.0,24,290,OCO,Haas F1 Team,107.801,Спа,Belgian Grand Prix
+3,155,230,183.6,5.5,18,155,OCO,Haas F1 Team,107.801,Спа,Belgian Grand Prix
+4,154,171,158.9,62.8,19,171,OCO,Haas F1 Team,107.801,Спа,Belgian Grand Prix
+5,184,198,192.9,84.2,27,198,OCO,Haas F1 Team,107.801,Спа,Belgian Grand Prix
+6,115,194,147.4,41.7,41,179,OCO,Haas F1 Team,107.801,Спа,Belgian Grand Prix
+7,185,207,193.1,59.3,27,207,OCO,Haas F1 Team,107.801,Спа,Belgian Grand Prix
+8,263,273,266.8,100.0,30,263,OCO,Haas F1 Team,107.801,Спа,Belgian Grand Prix
+9,264,268,266.5,100.0,32,267,OCO,Haas F1 Team,107.801,Спа,Belgian Grand Prix
+10,166,230,184.9,27.8,31,176,OCO,Haas F1 Team,107.801,Спа,Belgian Grand Prix
+11,183,201,191.0,78.5,29,201,OCO,Haas F1 Team,107.801,Спа,Belgian Grand Prix
+12,160,200,175.4,42.0,26,194,OCO,Haas F1 Team,107.801,Спа,Belgian Grand Prix
+13,239,269,255.7,100.0,29,269,OCO,Haas F1 Team,107.801,Спа,Belgian Grand Prix
+14,84,158,112.9,2.9,14,84,OCO,Haas F1 Team,107.801,Спа,Belgian Grand Prix
+15,75,120,89.5,44.5,16,120,OCO,Haas F1 Team,107.801,Спа,Belgian Grand Prix
+1,82,171,108.2,21.0,22,116,BOT,Cadillac,107.823,Спа,Belgian Grand Prix
+2,296,310,301.4,100.0,24,296,BOT,Cadillac,107.823,Спа,Belgian Grand Prix
+3,145,230,174.4,5.3,18,145,BOT,Cadillac,107.823,Спа,Belgian Grand Prix
+4,147,168,153.0,48.7,19,168,BOT,Cadillac,107.823,Спа,Belgian Grand Prix
+5,182,203,193.4,88.5,26,203,BOT,Cadillac,107.823,Спа,Belgian Grand Prix
+6,118,197,148.4,38.7,41,174,BOT,Cadillac,107.823,Спа,Belgian Grand Prix
+7,183,202,189.7,57.6,27,202,BOT,Cadillac,107.823,Спа,Belgian Grand Prix
+8,258,273,262.6,75.0,30,260,BOT,Cadillac,107.823,Спа,Belgian Grand Prix
+9,264,268,266.9,100.0,32,268,BOT,Cadillac,107.823,Спа,Belgian Grand Prix
+10,161,237,182.4,18.4,31,169,BOT,Cadillac,107.823,Спа,Belgian Grand Prix
+11,176,200,189.5,73.7,29,200,BOT,Cadillac,107.823,Спа,Belgian Grand Prix
+12,165,207,177.3,42.7,26,181,BOT,Cadillac,107.823,Спа,Belgian Grand Prix
+13,228,268,252.8,100.0,29,268,BOT,Cadillac,107.823,Спа,Belgian Grand Prix
+14,81,169,112.9,3.3,14,81,BOT,Cadillac,107.823,Спа,Belgian Grand Prix
+15,77,109,87.3,33.0,15,109,BOT,Cadillac,107.823,Спа,Belgian Grand Prix
+1,81,154,105.5,20.5,22,120,PER,Cadillac,107.971,Спа,Belgian Grand Prix
+2,291,312,300.1,100.0,24,291,PER,Cadillac,107.971,Спа,Belgian Grand Prix
+3,153,227,183.3,5.7,18,153,PER,Cadillac,107.971,Спа,Belgian Grand Prix
+4,153,167,158.0,48.6,19,167,PER,Cadillac,107.971,Спа,Belgian Grand Prix
+5,179,206,194.2,83.6,27,206,PER,Cadillac,107.971,Спа,Belgian Grand Prix
+6,115,196,144.8,39.7,41,167,PER,Cadillac,107.971,Спа,Belgian Grand Prix
+7,185,208,192.6,72.8,27,208,PER,Cadillac,107.971,Спа,Belgian Grand Prix
+8,259,273,264.0,80.2,30,262,PER,Cadillac,107.971,Спа,Belgian Grand Prix
+9,264,266,265.0,100.0,32,264,PER,Cadillac,107.971,Спа,Belgian Grand Prix
+10,159,245,186.7,16.2,31,164,PER,Cadillac,107.971,Спа,Belgian Grand Prix
+11,169,199,186.8,80.3,29,199,PER,Cadillac,107.971,Спа,Belgian Grand Prix
+12,161,207,177.5,32.6,26,188,PER,Cadillac,107.971,Спа,Belgian Grand Prix
+13,231,265,251.0,100.0,29,265,PER,Cadillac,107.971,Спа,Belgian Grand Prix
+14,79,181,122.9,1.7,14,79,PER,Cadillac,107.971,Спа,Belgian Grand Prix
+15,78,118,88.4,37.4,16,118,PER,Cadillac,107.971,Спа,Belgian Grand Prix
+1,77,160,104.4,21.3,22,115,ALO,Aston Martin,110.002,Спа,Belgian Grand Prix
+2,288,309,297.8,100.0,24,288,ALO,Aston Martin,110.002,Спа,Belgian Grand Prix
+3,153,225,177.5,2.7,18,153,ALO,Aston Martin,110.002,Спа,Belgian Grand Prix
+4,144,159,150.7,42.9,19,159,ALO,Aston Martin,110.002,Спа,Belgian Grand Prix
+5,173,203,184.0,81.3,27,203,ALO,Aston Martin,110.002,Спа,Belgian Grand Prix
+6,113,199,142.5,44.0,41,165,ALO,Aston Martin,110.002,Спа,Belgian Grand Prix
+7,177,204,184.7,53.5,27,204,ALO,Aston Martin,110.002,Спа,Belgian Grand Prix
+8,255,262,258.4,100.0,30,258,ALO,Aston Martin,110.002,Спа,Belgian Grand Prix
+9,260,262,261.2,100.0,32,261,ALO,Aston Martin,110.002,Спа,Belgian Grand Prix
+10,160,237,184.2,15.0,31,165,ALO,Aston Martin,110.002,Спа,Belgian Grand Prix
+11,170,194,182.2,63.3,29,194,ALO,Aston Martin,110.002,Спа,Belgian Grand Prix
+12,158,197,172.8,41.7,26,190,ALO,Aston Martin,110.002,Спа,Belgian Grand Prix
+13,228,262,249.1,100.0,29,262,ALO,Aston Martin,110.002,Спа,Belgian Grand Prix
+14,81,159,107.4,2.2,14,81,ALO,Aston Martin,110.002,Спа,Belgian Grand Prix
+15,75,112,87.8,37.5,16,112,ALO,Aston Martin,110.002,Спа,Belgian Grand Prix
+1,77,168,106.4,22.5,22,121,STR,Aston Martin,110.177,Спа,Belgian Grand Prix
+2,284,305,293.9,100.0,24,284,STR,Aston Martin,110.177,Спа,Belgian Grand Prix
+3,149,213,175.6,8.4,18,149,STR,Aston Martin,110.177,Спа,Belgian Grand Prix
+4,147,162,153.0,50.5,19,162,STR,Aston Martin,110.177,Спа,Belgian Grand Prix
+5,174,202,189.2,95.3,27,202,STR,Aston Martin,110.177,Спа,Belgian Grand Prix
+6,115,205,145.6,43.3,41,167,STR,Aston Martin,110.177,Спа,Belgian Grand Prix
+7,179,203,186.9,74.5,27,203,STR,Aston Martin,110.177,Спа,Belgian Grand Prix
+8,253,260,256.4,100.0,30,255,STR,Aston Martin,110.177,Спа,Belgian Grand Prix
+9,259,263,262.0,100.0,32,262,STR,Aston Martin,110.177,Спа,Belgian Grand Prix
+10,160,234,180.8,26.2,31,170,STR,Aston Martin,110.177,Спа,Belgian Grand Prix
+11,174,193,182.4,75.0,29,193,STR,Aston Martin,110.177,Спа,Belgian Grand Prix
+12,158,199,173.1,53.5,26,185,STR,Aston Martin,110.177,Спа,Belgian Grand Prix
+13,231,262,249.7,100.0,29,262,STR,Aston Martin,110.177,Спа,Belgian Grand Prix
+14,83,154,107.0,5.9,14,83,STR,Aston Martin,110.177,Спа,Belgian Grand Prix
+15,72,112,87.6,45.2,16,112,STR,Aston Martin,110.177,Спа,Belgian Grand Prix
